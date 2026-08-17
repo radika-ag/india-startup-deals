@@ -1617,10 +1617,10 @@
   "round": "Angel",
   "investors": "Naresh Bhat",
   "period": "July 2026",
-  "sourceLabel": "Outlook Business",
-  "sourceUrl": "https://www.outlookbusiness.com/news/doodhvale-farms-raises-1-million-from-existing-investor-atomic-capital",
-  "verifiedRound": "Seed",
-  "note": "",
+  "sourceLabel": "StartupStory",
+  "sourceUrl": "https://startupstorymedia.com/fibroheal-raises-%E2%82%B914-crore-to-fuel-next-phase-of-growth-and-entry-in-developed-markets/",
+  "verifiedRound": "Angel",
+  "note": "[PARTIAL] Rs 14 crore with Naresh Bhat among other investors confirmed",
   "checked": true
  },
  {
@@ -1631,10 +1631,10 @@
   "round": "Seed",
   "investors": "Atomic Capital",
   "period": "July 2026",
-  "sourceLabel": "EVReporter",
-  "sourceUrl": "https://evreporter.com/milo-drive-secures-2-4-million-seed-round-co-led-by-caret-capital-and-antler/",
+  "sourceLabel": "Outlook Business",
+  "sourceUrl": "https://www.outlookbusiness.com/news/doodhvale-farms-raises-1-million-from-existing-investor-atomic-capital",
   "verifiedRound": "Seed",
-  "note": "[PARTIAL] $2.4M confirmed but co-led by Caret Capital AND Antler",
+  "note": "",
   "checked": true
  },
  {
@@ -1645,10 +1645,10 @@
   "round": "Seed",
   "investors": "Caret Capital",
   "period": "July 2026",
-  "sourceLabel": "Business Standard",
-  "sourceUrl": "https://www.business-standard.com/amp/technology/tech-news/blurgs-ai-raises-2-2-million-to-expand-maritime-defence-ai-platforms-126070700358_1.html",
+  "sourceLabel": "EVReporter",
+  "sourceUrl": "https://evreporter.com/milo-drive-secures-2-4-million-seed-round-co-led-by-caret-capital-and-antler/",
   "verifiedRound": "Seed",
-  "note": "[PARTIAL] $2.2M confirmed but co-led by Pravega Ventures AND Shastra VC",
+  "note": "[PARTIAL] $2.4M confirmed but co-led by Caret Capital AND Antler",
   "checked": true
  },
  {
@@ -1674,9 +1674,9 @@
   "investors": "Pravega Ventures",
   "period": "July 2026",
   "sourceLabel": "Business Standard",
-  "sourceUrl": "https://www.business-standard.com/amp/companies/news/piramal-alternatives-invests-125-crore-in-jrg-automotive-industries-126070701195_1.html",
-  "verifiedRound": "Conventional Debt",
-  "note": "[PARTIAL] Rs 125 crore (~$15M) confirmed, amount differs from $13.2M",
+  "sourceUrl": "https://www.business-standard.com/amp/technology/tech-news/blurgs-ai-raises-2-2-million-to-expand-maritime-defence-ai-platforms-126070700358_1.html",
+  "verifiedRound": "Seed",
+  "note": "[PARTIAL] $2.2M confirmed but co-led by Pravega Ventures AND Shastra VC",
   "checked": true
  },
  {
@@ -1701,10 +1701,10 @@
   "round": "Conventional Debt",
   "investors": "Piramal Capital & Housing Finance",
   "period": "July 2026",
-  "sourceLabel": "Unverified — no corroboration found",
-  "sourceUrl": "",
-  "verifiedRound": "Unverified",
-  "note": "[UNVERIFIED] Noval Waste Management exists but specific July 2026 RISE funding details not publicly available",
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/amp/companies/news/piramal-alternatives-invests-125-crore-in-jrg-automotive-industries-126070701195_1.html",
+  "verifiedRound": "Conventional Debt",
+  "note": "[PARTIAL] Rs 125 crore (~$15M) confirmed, amount differs from $13.2M",
   "checked": true
  },
  {
@@ -1729,11 +1729,11 @@
   "round": "Seed",
   "investors": "RISE",
   "period": "July 2026",
-  "sourceLabel": "Unverified — no corroboration found",
+  "sourceLabel": "Not yet checked",
   "sourceUrl": "",
-  "verifiedRound": "Unverified",
-  "note": "[UNVERIFIED] GAON raised ~Rs 10 crore but Indifi connection not confirmed",
-  "checked": true
+  "verifiedRound": "",
+  "note": "",
+  "checked": false
  },
  {
   "idx": 125,
@@ -1743,10 +1743,10 @@
   "round": "Angel",
   "investors": "Kareena Kapoor Khan",
   "period": "July 2026",
-  "sourceLabel": "Unverified — no corroboration found",
-  "sourceUrl": "",
-  "verifiedRound": "Unverified",
-  "note": "[UNVERIFIED] GAON funding confirmed but Indifi debt round in July 2026 not independently verified",
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/companies/start-ups/d2c-startup-fizzy-goblet-gets-actor-kareena-kapoor-khan-as-investor-126070600851_1.html",
+  "verifiedRound": "Angel",
+  "note": "[PARTIAL] Kareena Kapoor Khan investment confirmed July 2026, amount undisclosed",
   "checked": true
  },
  {
@@ -1774,7 +1774,7 @@
   "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
   "verifiedRound": "Unverified",
-  "note": "[UNVERIFIED] Series A July 7, 2026 confirmed but Auxano not listed as investor, amount undisclosed",
+  "note": "[UNVERIFIED] GAON funding confirmed but Indifi debt round in July 2026 not independently verified",
   "checked": true
  },
  {
@@ -1799,10 +1799,10 @@
   "round": "Series A",
   "investors": "Auxano",
   "period": "July 2026",
-  "sourceLabel": "YourStory",
-  "sourceUrl": "https://yourstory.com/2026/07/renaissthera-oral-obesity-diabetes-drugs",
-  "verifiedRound": "Seed",
-  "note": "[PARTIAL] Arali Ventures seed confirmed, amount undisclosed",
+  "sourceLabel": "Unverified — no corroboration found",
+  "sourceUrl": "",
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] Series A July 7, 2026 confirmed but Auxano not listed as investor, amount undisclosed",
   "checked": true
  },
  {
@@ -1813,10 +1813,10 @@
   "round": "Seed",
   "investors": "Navyug Global",
   "period": "July 2026",
-  "sourceLabel": "Unverified — no corroboration found",
-  "sourceUrl": "",
-  "verifiedRound": "Unverified",
-  "note": "[UNVERIFIED] No July 2026 Series D found; Ninjacart launched $25M Agri Seed Fund instead",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/ev-fleet-startup-tocal-secures-rs-9-cr-in-seed-round-12138551",
+  "verifiedRound": "Seed",
+  "note": "",
   "checked": true
  },
  {
@@ -1827,10 +1827,10 @@
   "round": "Seed",
   "investors": "Arali Ventures",
   "period": "July 2026",
-  "sourceLabel": "Business Standard",
-  "sourceUrl": "https://www.business-standard.com/content/press-releases-ani/finkurve-financial-services-limited-arvog-raises-rs-50-crore-through-ncd-issuance-from-franklin-templeton-to-accelerate-growth-and-business-expansion-126070300007_1.html",
-  "verifiedRound": "Conventional Debt",
-  "note": "[DISCREPANCY] Rs 50 crore NCD from Franklin Templeton confirmed, not Post IPO structure",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/07/renaissthera-oral-obesity-diabetes-drugs",
+  "verifiedRound": "Seed",
+  "note": "[PARTIAL] Arali Ventures seed confirmed, amount undisclosed",
   "checked": true
  },
  {
@@ -1841,10 +1841,10 @@
   "round": "Series D",
   "investors": "Accel",
   "period": "July 2026",
-  "sourceLabel": "YourStory",
-  "sourceUrl": "https://yourstory.com/2026/07",
-  "verifiedRound": "Series D",
-  "note": "[PARTIAL] Rs 700 crore (~$84M) from Poonawalla confirmed, amount higher than $73.6M",
+  "sourceLabel": "Unverified — no corroboration found",
+  "sourceUrl": "",
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] No July 2026 Series D found; Ninjacart launched $25M Agri Seed Fund instead",
   "checked": true
  },
  {
@@ -1855,10 +1855,10 @@
   "round": "Post IPO",
   "investors": "Franklin Templeton India",
   "period": "July 2026",
-  "sourceLabel": "Outlook Business",
-  "sourceUrl": "https://www.outlookbusiness.com/deeptech/specialty-chemical-start-up-tulon-materials-raises-10-cr-in-seed-round",
-  "verifiedRound": "Seed",
-  "note": "[PARTIAL] Rs 10 crore seed with Karthik Sundar Iyer confirmed, USD amount differs",
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/content/press-releases-ani/finkurve-financial-services-limited-arvog-raises-rs-50-crore-through-ncd-issuance-from-franklin-templeton-to-accelerate-growth-and-business-expansion-126070300007_1.html",
+  "verifiedRound": "Conventional Debt",
+  "note": "[DISCREPANCY] Rs 50 crore NCD from Franklin Templeton confirmed, not Post IPO structure",
   "checked": true
  },
  {
@@ -1883,10 +1883,10 @@
   "round": "Seed",
   "investors": "Karthik Sundar Iyer",
   "period": "July 2026",
-  "sourceLabel": "YourStory",
-  "sourceUrl": "https://yourstory.com/2026/07/age-care-labs-raises-85-crore-to-expand-elder-care-platform",
-  "verifiedRound": "Series B",
-  "note": "[PARTIAL] Rs 85 crore (~$10.2M) from Rainmatter confirmed, amount slightly differs",
+  "sourceLabel": "Outlook Business",
+  "sourceUrl": "https://www.outlookbusiness.com/deeptech/specialty-chemical-start-up-tulon-materials-raises-10-cr-in-seed-round",
+  "verifiedRound": "Seed",
+  "note": "[PARTIAL] Rs 10 crore seed with Karthik Sundar Iyer confirmed, USD amount differs",
   "checked": true
  },
  {
@@ -1911,10 +1911,10 @@
   "round": "Series B",
   "investors": "Rainmatter",
   "period": "July 2026",
-  "sourceLabel": "Entrackr",
-  "sourceUrl": "https://entrackr.com/snippets/transition-vc-leads-105-mn-pre-series-a-round-in-albatross-energetics-12122965",
-  "verifiedRound": "Seed",
-  "note": "",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/07/age-care-labs-raises-85-crore-to-expand-elder-care-platform",
+  "verifiedRound": "Series B",
+  "note": "[PARTIAL] Rs 85 crore (~$10.2M) from Rainmatter confirmed, amount slightly differs",
   "checked": true
  },
  {
@@ -1925,10 +1925,10 @@
   "round": "Series A",
   "investors": "Unilever Ventures",
   "period": "July 2026",
-  "sourceLabel": "YourStory",
-  "sourceUrl": "https://yourstory.com/ai-story/enterprise-ai-firm-data-science-wizards-secures-pre-series-a-funding",
-  "verifiedRound": "Seed",
-  "note": "[PARTIAL] $5M pre-Series A confirmed, round type differs from Seed",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/nutrition-startup-supply6-raises-rs-48-cr-led-by-unilever-ventures-12122813",
+  "verifiedRound": "Series A",
+  "note": "",
   "checked": true
  },
  {
@@ -1939,9 +1939,9 @@
   "round": "Seed",
   "investors": "Transition VC",
   "period": "July 2026",
-  "sourceLabel": "YourStory",
-  "sourceUrl": "https://yourstory.com/2026/07/cleantech-startup-batx-raises-rs-105-cr-series-a-ivycap-ventures",
-  "verifiedRound": "Series A",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/transition-vc-leads-105-mn-pre-series-a-round-in-albatross-energetics-12122965",
+  "verifiedRound": "Seed",
   "note": "",
   "checked": true
  },
@@ -1954,9 +1954,9 @@
   "investors": "Undisclosed",
   "period": "July 2026",
   "sourceLabel": "YourStory",
-  "sourceUrl": "https://yourstory.com/2026/07/dovetail-capital-raises-100-crore-from-elev8-venture-partners",
-  "verifiedRound": "Series A",
-  "note": "[PARTIAL] Rs 100 crore Series A from Elev8 confirmed",
+  "sourceUrl": "https://yourstory.com/ai-story/enterprise-ai-firm-data-science-wizards-secures-pre-series-a-funding",
+  "verifiedRound": "Seed",
+  "note": "[PARTIAL] $5M pre-Series A confirmed, round type differs from Seed",
   "checked": true
  },
  {
@@ -1968,8 +1968,8 @@
   "investors": "IvyCap Ventures",
   "period": "July 2026",
   "sourceLabel": "YourStory",
-  "sourceUrl": "https://yourstory.com/2026/07/limelight-diamonds-raises-275-crore-series-a-ivycap-ventures",
-  "verifiedRound": "Series B",
+  "sourceUrl": "https://yourstory.com/2026/07/cleantech-startup-batx-raises-rs-105-cr-series-a-ivycap-ventures",
+  "verifiedRound": "Series A",
   "note": "",
   "checked": true
  },
@@ -1981,10 +1981,10 @@
   "round": "Series A",
   "investors": "Elev8",
   "period": "July 2026",
-  "sourceLabel": "Inc42",
-  "sourceUrl": "https://inc42.com/buzz/spense-raises-2-8-mn-from-arkam-ventures-to-build-secured-lending-infra/",
-  "verifiedRound": "Seed",
-  "note": "",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/07/dovetail-capital-raises-100-crore-from-elev8-venture-partners",
+  "verifiedRound": "Series A",
+  "note": "[PARTIAL] Rs 100 crore Series A from Elev8 confirmed",
   "checked": true
  },
  {
@@ -1995,10 +1995,10 @@
   "round": "Series B",
   "investors": "Bhathwari Group",
   "period": "July 2026",
-  "sourceLabel": "Crunchbase",
-  "sourceUrl": "https://www.crunchbase.com/organization/kapture-5f25",
-  "verifiedRound": "Series A",
-  "note": "[DISCREPANCY] $4M Series A in 2023, not June 2026. $10M pre-Series B in 2026",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/07/limelight-diamonds-raises-275-crore-series-a-ivycap-ventures",
+  "verifiedRound": "Series B",
+  "note": "",
   "checked": true
  },
  {
@@ -2065,11 +2065,11 @@
   "round": "Seed",
   "investors": "Nisaba Godrej",
   "period": "June 2026",
-  "sourceLabel": "Entrackr",
-  "sourceUrl": "https://entrackr.com/news/co-working-startup-incuspaze-raises-rs-150-cr-led-by-bharat-value-fund-12116135",
-  "verifiedRound": "Seed",
+  "sourceLabel": "Not yet checked",
+  "sourceUrl": "",
+  "verifiedRound": "",
   "note": "",
-  "checked": true
+  "checked": false
  },
  {
   "idx": 149,
@@ -2275,10 +2275,10 @@
   "round": "Seed",
   "investors": "Prakash Sikaria",
   "period": "June 2026",
-  "sourceLabel": "Indian Retailer",
-  "sourceUrl": "https://www.indianretailer.com/news/funding-alert-alienkind-raises-32-mn-pre-series-round-fuel-expansion-across-india",
-  "verifiedRound": "Pre-Series A",
-  "note": "[DISCREPANCY] Batch listed as Seed; sources confirm Pre-Series A round.",
+  "sourceLabel": "Indian Startup Times",
+  "sourceUrl": "https://www.indianstartuptimes.com/investment/alienkind-raises-3-2m-to-scale-its-sci-fi-qsr-and-wellness-beverage-story/",
+  "verifiedRound": "Series A",
+  "note": "[PARTIAL] Funding co-led by Singularity AMC and Lumikai; batch only mentions Singularity AMC.",
   "checked": true
  },
  {
@@ -2681,11 +2681,11 @@
   "round": "Series A",
   "investors": "Singularity AMC",
   "period": "June 2026",
-  "sourceLabel": "Indian Startup Times",
-  "sourceUrl": "https://www.indianstartuptimes.com/investment/alienkind-raises-3-2m-to-scale-its-sci-fi-qsr-and-wellness-beverage-story/",
-  "verifiedRound": "Series A",
-  "note": "[PARTIAL] Funding co-led by Singularity AMC and Lumikai; batch only mentions Singularity AMC.",
-  "checked": true
+  "sourceLabel": "Not yet checked",
+  "sourceUrl": "",
+  "verifiedRound": "",
+  "note": "",
+  "checked": false
  },
  {
   "idx": 193,
@@ -7651,11 +7651,11 @@
   "round": "Series B",
   "investors": "Matrix",
   "period": "March 2026",
-  "sourceLabel": "Inc42",
-  "sourceUrl": "https://inc42.com/buzz/stride-ventures-financial-platform-strideone-raises-inr-250-cr-to-offer-bespoke-credit-solutions/",
-  "verifiedRound": "Series B",
-  "note": "[PARTIAL] $10.8M confirmed; investors undisclosed, Matrix not mentioned",
-  "checked": true
+  "sourceLabel": "Not yet checked",
+  "sourceUrl": "",
+  "verifiedRound": "",
+  "note": "",
+  "checked": false
  },
  {
   "idx": 548,
@@ -8015,11 +8015,11 @@
   "round": "Series F",
   "investors": "Accel",
   "period": "February 2026",
-  "sourceLabel": "Entrackr",
-  "sourceUrl": "https://entrackr.com/news/deepinder-goyals-new-startup-temple-raises-54-mn-at-a-190-mn-valuation-11161849",
-  "verifiedRound": "Seed",
-  "note": "[DISCREPANCY] $54M with Steadview confirmed; announced February 2026",
-  "checked": true
+  "sourceLabel": "Not yet checked",
+  "sourceUrl": "",
+  "verifiedRound": "",
+  "note": "",
+  "checked": false
  },
  {
   "idx": 574,
@@ -11851,11 +11851,11 @@
   "round": "Seed",
   "investors": "Inflection Point Ventures",
   "period": "January 2026",
-  "sourceLabel": "YourStory",
-  "sourceUrl": "https://yourstory.com/2026/01/nbfc-varthana-bags-6m-loan-from-waterequity-for-school-sanitation-projects",
-  "verifiedRound": "Conventional Debt",
+  "sourceLabel": "Not yet checked",
+  "sourceUrl": "",
+  "verifiedRound": "",
   "note": "",
-  "checked": true
+  "checked": false
  },
  {
   "idx": 848,
@@ -11865,9 +11865,9 @@
   "round": "Conventional Debt",
   "investors": "WaterEquity",
   "period": "January 2026",
-  "sourceLabel": "Entrackr",
-  "sourceUrl": "https://entrackr.com/snippets/haircare-brand-done-raises-3-mn-in-series-a-led-by-rtp-global-10980040",
-  "verifiedRound": "Series A",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/01/nbfc-varthana-bags-6m-loan-from-waterequity-for-school-sanitation-projects",
+  "verifiedRound": "Conventional Debt",
   "note": "",
   "checked": true
  },
@@ -11879,9 +11879,9 @@
   "round": "Series A",
   "investors": "RTP Global",
   "period": "January 2026",
-  "sourceLabel": "Inc42",
-  "sourceUrl": "https://inc42.com/buzz/d2c-brand-antinorm-bags-inr-28-cr-to-expand-product-portfolio/",
-  "verifiedRound": "Seed",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/haircare-brand-done-raises-3-mn-in-series-a-led-by-rtp-global-10980040",
+  "verifiedRound": "Series A",
   "note": "",
   "checked": true
  },
@@ -11907,8 +11907,8 @@
   "round": "Seed",
   "investors": "Fireside Ventures",
   "period": "January 2026",
-  "sourceLabel": "Entrackr",
-  "sourceUrl": "https://entrackr.com/snippets/ai-services-startup-aivar-raises-46-mn-from-sorin-investments-and-bessemer-10980240",
+  "sourceLabel": "Inc42",
+  "sourceUrl": "https://inc42.com/buzz/d2c-brand-antinorm-bags-inr-28-cr-to-expand-product-portfolio/",
   "verifiedRound": "Seed",
   "note": "",
   "checked": true
@@ -11921,8 +11921,8 @@
   "round": "Seed",
   "investors": "Sorin",
   "period": "January 2026",
-  "sourceLabel": "Business Standard",
-  "sourceUrl": "https://www.business-standard.com/companies/start-ups/arrowhead-raises-3-mn-to-expand-human-like-voice-ai-for-financial-sales-126010600930_1.html",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/ai-services-startup-aivar-raises-46-mn-from-sorin-investments-and-bessemer-10980240",
   "verifiedRound": "Seed",
   "note": "",
   "checked": true
