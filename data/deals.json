@@ -637,11 +637,11 @@
   "round": "Series C",
   "investors": "Poonawalla Vision Fund",
   "period": "August 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
+  "verifiedRound": "Unverified",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 47,
@@ -665,11 +665,11 @@
   "round": "Series D",
   "investors": "Info Edge Ventures",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/exclusive/exclusive-urban-harvest-board-to-approve-rs-341-cr-series-d-round-from-58-investors-12191374",
+  "verifiedRound": "Series D",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 49,
@@ -679,11 +679,11 @@
   "round": "Seed",
   "investors": "Diageo India",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
+  "verifiedRound": "Unverified",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 50,
@@ -693,11 +693,11 @@
   "round": "Series A",
   "investors": "Securocrop Securities",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/electric-commercial-vehicle-manufacturer-omega-seiki-mobility-raises-rs-50-cr-12201685",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 51,
@@ -721,11 +721,11 @@
   "round": "Series A",
   "investors": "Stellaris",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/healthtech-startup-carplai-raises-10-mn-series-a-led-by-ifc-12191147",
+  "verifiedRound": "Series A",
+  "note": "[DISCREPANCY] Led by IFC not Stellaris",
+  "checked": true
  },
  {
   "idx": 53,
@@ -749,11 +749,11 @@
   "round": "Series B",
   "investors": "ServiceNow",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/businessnext-raises-40-mn-from-servicenow-ventures-at-700-mn-valuation-12189549",
+  "verifiedRound": "Series C",
+  "note": "[DISCREPANCY] Series C not Series B",
+  "checked": true
  },
  {
   "idx": 55,
@@ -777,11 +777,11 @@
   "round": "Seed",
   "investors": "Indian Angel Network",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/farm-watt-innovations-raises-rs-325-cr-co-led-by-ian-alpha-fund-and-rainmatter-12190175",
+  "verifiedRound": "Seed",
+  "note": "[DISCREPANCY] Co-led by IAN Alpha Fund and Rainmatter",
+  "checked": true
  },
  {
   "idx": 57,
@@ -791,11 +791,11 @@
   "round": "Seed",
   "investors": "Unicorn India Ventures",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/medtech-startup-bioscan-research-raises-1-mn-in-seed-round-led-by-unicorn-india-ventures-12186756",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 58,
@@ -805,11 +805,11 @@
   "round": "Conventional Debt",
   "investors": "DSP Finance",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/companies/news/shapoorji-pallonji-group-closes-one-of-india-s-biggest-private-credit-deals-126072001554.html",
+  "verifiedRound": "Conventional Debt",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 59,
@@ -819,11 +819,11 @@
   "round": "Post IPO",
   "investors": "ADIA",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/companies/start-ups/india-s-ather-energy-to-raise-125-million-via-share-issue-warrants-126071500813.html",
+  "verifiedRound": "Post IPO",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 60,
@@ -861,11 +861,11 @@
   "round": "Conventional Debt",
   "investors": "BlackSoil",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/suminter-india-organics-secures-rs-25-cr-debt-from-blacksoil-capital-12184884",
+  "verifiedRound": "Conventional Debt",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 63,
@@ -889,11 +889,11 @@
   "round": "Seed",
   "investors": "Finvolve",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] Amount undisclosed",
+  "checked": true
  },
  {
   "idx": 65,
@@ -917,11 +917,11 @@
   "round": "Series C",
   "investors": "Norwest",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/wealthtech-platform-veriqus-raises-rs-387-cr-in-funding-round-led-by-norwest-12182570",
+  "verifiedRound": "Series C",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 67,
@@ -931,11 +931,11 @@
   "round": "Series B",
   "investors": "Norwest",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/raghu-vamsi-aerospace-group-raises-40-mn-led-by-norwest-skegen-asset-management-12181153",
+  "verifiedRound": "Series B",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 68,
@@ -959,11 +959,11 @@
   "round": "Series A",
   "investors": "Accel",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/instant-medicine-delivery-startup-plazza-raises-15-mn-led-by-accel-elevation-and-nexus-12180237",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 70,
@@ -973,11 +973,11 @@
   "round": "Series C",
   "investors": "Peak XV Partners",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/neo-group-raises-rs-350-cr-led-by-peak-xv-partners-12172440",
+  "verifiedRound": "Series C",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 71,
@@ -1015,11 +1015,11 @@
   "round": "Series A",
   "investors": "IvyCap Ventures",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/physical-ai-startup-switchon-raises-8-mn-in-pre-series-b-round-led-by-ivycap-12168741",
+  "verifiedRound": "Pre-Series B",
+  "note": "[DISCREPANCY] Pre-Series B not Series A",
+  "checked": true
  },
  {
   "idx": 74,
@@ -1029,11 +1029,11 @@
   "round": "Series C",
   "investors": "Peak XV Partners",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/neo-group-raises-rs-350-cr-led-by-peak-xv-partners-12172440",
+  "verifiedRound": "Series C",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 75,
@@ -1057,11 +1057,11 @@
   "round": "Seed",
   "investors": "Crane Venture Partners",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
+  "verifiedRound": "Unverified",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 77,
@@ -1071,11 +1071,11 @@
   "round": "Series B",
   "investors": "Stakeboat Capital",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/quick-clean-raises-14-mn-in-series-b-round-led-by-stakeboat-capital-12168892",
+  "verifiedRound": "Series B",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 78,
@@ -1085,11 +1085,11 @@
   "round": "Series B",
   "investors": "Cornerstone Ventures",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/groyyo-raises-rs-90-cr-in-first-close-of-series-b-round-led-by-cornerstone-ventures-12170977",
+  "verifiedRound": "Series B",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 79,
@@ -1099,11 +1099,11 @@
   "round": "Series A",
   "investors": "Fireside Ventures",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/maternal-and-baby-care-brand-promom-raises-rs-30-cr-from-fireside-ventures-12167109",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 80,
@@ -1113,11 +1113,11 @@
   "round": "Seed",
   "investors": "Fireside Ventures",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/fireside-leads-rs-30-cr-seed-round-in-d2c-grocery-startup-anmasa-12165707",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 81,
@@ -1127,11 +1127,11 @@
   "round": "Conventional Debt",
   "investors": "Desai Brothers",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] Debt breakdown not detailed",
+  "checked": true
  },
  {
   "idx": 82,
@@ -1141,11 +1141,11 @@
   "round": "Series C",
   "investors": "Desai Brothers",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/07/healthy-snacks-brand-open-secret-raises-rs-50-crore",
+  "verifiedRound": "Equity",
+  "note": "[DISCREPANCY] Not labeled as Series C in press",
+  "checked": true
  },
  {
   "idx": 83,
@@ -1155,11 +1155,11 @@
   "round": "Series C",
   "investors": "Creaegis",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/emergent-becomes-third-ai-unicorn-of-2026-with-130-mn-series-c-led-by-creaegis-12166031",
+  "verifiedRound": "Series C",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 84,
@@ -1169,11 +1169,11 @@
   "round": "Conventional Debt",
   "investors": "BluVenture Holdings",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/bluventure-leads-rs-100-cr-series-a-round-in-e3-electricai-12164631",
+  "verifiedRound": "Conventional Debt",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 85,
@@ -1183,11 +1183,11 @@
   "round": "Series A",
   "investors": "BluVenture Holdings",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/bluventure-leads-rs-100-cr-series-a-round-in-e3-electricai-12164631",
+  "verifiedRound": "Series A",
+  "note": "[DISCREPANCY] 10.5M not 7.8M",
+  "checked": true
  },
  {
   "idx": 86,
@@ -1197,11 +1197,11 @@
   "round": "Seed",
   "investors": "Undisclosed",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] Amount undisclosed",
+  "checked": true
  },
  {
   "idx": 87,
@@ -1211,11 +1211,11 @@
   "round": "Conventional Debt",
   "investors": "Undisclosed",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] Amount undisclosed",
+  "checked": true
  },
  {
   "idx": 88,
@@ -1225,11 +1225,11 @@
   "round": "Series H",
   "investors": "Lightspeed Venture Partners",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/udaan-announces-160-mn-structured-financing-to-strengthen-balance-sheet-12163926",
+  "verifiedRound": "Series H",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 89,
@@ -1239,11 +1239,11 @@
   "round": "Series B",
   "investors": "BIRAC",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] BIRAC component unclear",
+  "checked": true
  },
  {
   "idx": 90,
@@ -1253,11 +1253,11 @@
   "round": "Series B",
   "investors": "BIRAC",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] Amount undisclosed",
+  "checked": true
  },
  {
   "idx": 91,
@@ -1267,11 +1267,11 @@
   "round": "Seed",
   "investors": "BIRAC",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] Amount undisclosed",
+  "checked": true
  },
  {
   "idx": 92,
@@ -1281,11 +1281,11 @@
   "round": "Series A",
   "investors": "BIRAC",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] Amount undisclosed",
+  "checked": true
  },
  {
   "idx": 93,
@@ -1295,11 +1295,11 @@
   "round": "Series A",
   "investors": "BIRAC",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] No July 2026 announcement",
+  "checked": true
  },
  {
   "idx": 94,
@@ -1309,11 +1309,11 @@
   "round": "Post IPO",
   "investors": "Arohi Emerging India Master Fund",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/ideaforge-raises-500-cr-via-qip-allots-62-9-lakh-shares-12164103",
+  "verifiedRound": "Post IPO",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 95,
@@ -1323,11 +1323,11 @@
   "round": "Series A",
   "investors": "Sharrp Ventures",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/naturis-cosmetics-raises-rs-100-cr-in-maiden-institutional-round-led-by-sharrp-ventures-12169138",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 96,
@@ -1337,11 +1337,11 @@
   "round": "Series D",
   "investors": "Peak XV Partners",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/exclusive/exclusive-onecard-to-raise-rs-72-cr-in-its-ongoing-series-d-round-led-by-peak-xv-12159996",
+  "verifiedRound": "Series D",
+  "note": "[PARTIAL] Partial round only",
+  "checked": true
  },
  {
   "idx": 97,
@@ -1351,11 +1351,11 @@
   "round": "Seed",
   "investors": "Beyond Capital Ventures",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
+  "verifiedRound": "Unverified",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 98,
@@ -1365,11 +1365,11 @@
   "round": "Series A",
   "investors": "12 Flags Group",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Business Standard, Entrackr",
+  "sourceUrl": "https://www.businessoffood.in/mohit-kampani-bags-rs-50-crore-to-accelerate-sumosaves-500-supermarket-vision/",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 99,
@@ -1379,11 +1379,11 @@
   "round": "Conventional Debt",
   "investors": "Stride Ventures",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://parsers.substack.com/p/funding-rounds-report-weekly-of-july-a87",
+  "verifiedRound": "Conventional Debt",
+  "note": "[PARTIAL] Company and round type confirmed, amount undisclosed",
+  "checked": true
  },
  {
   "idx": 100,
@@ -1393,11 +1393,11 @@
   "round": "Conventional Debt",
   "investors": "Kairos Ventures",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] Conventional Debt in July 2026 confirmed but Kairos Ventures not identified as investor",
+  "checked": true
  },
  {
   "idx": 101,
@@ -1407,11 +1407,11 @@
   "round": "Conventional Debt",
   "investors": "Alteria Capital",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Inc42",
+  "sourceUrl": "https://inc42.com/company/aukera/",
+  "verifiedRound": "Series B",
+  "note": "[DISCREPANCY] Aukera is jewelry brand, not consumer goods. Series B confirmed July 10, 2026",
+  "checked": true
  },
  {
   "idx": 102,
@@ -1421,11 +1421,11 @@
   "round": "Series B",
   "investors": "Varanium",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Inc42",
+  "sourceUrl": "https://inc42.com/buzz/biofuelcircle-raises-%E2%82%B935-cr-to-expand-its-biomass-supply-chain-ecosystem/",
+  "verifiedRound": "Bridge",
+  "note": "[PARTIAL] Rs 35 crore bridge funding confirmed, Series B planned for early 2027",
+  "checked": true
  },
  {
   "idx": 103,
@@ -1435,11 +1435,11 @@
   "round": "Seed",
   "investors": "ABGD Ventures",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/content/press-releases-ani/docstribe-raises-strategic-funding-from-abgd-ventures-to-accelerate-market-expansion-across-the-us-and-gcc-126070901172_1.html",
+  "verifiedRound": "Seed",
+  "note": "[PARTIAL] ABGD Ventures confirmed, amount undisclosed",
+  "checked": true
  },
  {
   "idx": 104,
@@ -1449,11 +1449,11 @@
   "round": "Conventional Debt",
   "investors": "Indian Overseas Bank",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
+  "verifiedRound": "Unverified",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 105,
@@ -1477,11 +1477,11 @@
   "round": "Series C",
   "investors": "Orbimed",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/07/iswarya-fertility-center-350-crore-orbimed-funding",
+  "verifiedRound": "Series C",
+  "note": "[DISCREPANCY] Company is Iswarya Fertility/Health not Hospital. Amount Rs 355 crore (~$42.7M) vs $37M claimed",
+  "checked": true
  },
  {
   "idx": 107,
@@ -1491,11 +1491,11 @@
   "round": "Conventional Debt",
   "investors": "responsAbility",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/04/battery-smart-raises-15m-debt-mirova",
+  "verifiedRound": "Conventional Debt",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 108,
@@ -1505,11 +1505,11 @@
   "round": "Series A",
   "investors": "Anicut Capital",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/wheelocity-raises-15-mn-led-by-lightspeed-7573595",
+  "verifiedRound": "Series A",
+  "note": "[PARTIAL] July 2026 funding ~Rs 82 crore confirmed, amount differs from $8.5M",
+  "checked": true
  },
  {
   "idx": 109,
@@ -1533,11 +1533,11 @@
   "round": "Series B",
   "investors": "Global South Capital",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/07/funding-dage-automation-230-crore-ai-led-industrial-expansion",
+  "verifiedRound": "Series B",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 111,
@@ -1547,11 +1547,11 @@
   "round": "Series D",
   "investors": "SBI",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/companies/start-ups/yotta-raises-150-mn-at-37-000-crore-valuation-to-fund-ai-expansion-126070500709_1.html",
+  "verifiedRound": "Series D",
+  "note": "[DISCREPANCY] $150M confirmed but from HNI/family offices, NOT from SBI",
+  "checked": true
  },
  {
   "idx": 112,
@@ -1575,11 +1575,11 @@
   "round": "Series D",
   "investors": "WestBridge Capital",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/07/elevate-education-bags-170-crore-from-westbridge-capital",
+  "verifiedRound": "Series D",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 114,
@@ -1617,11 +1617,11 @@
   "round": "Angel",
   "investors": "Naresh Bhat",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Outlook Business",
+  "sourceUrl": "https://www.outlookbusiness.com/news/doodhvale-farms-raises-1-million-from-existing-investor-atomic-capital",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 117,
@@ -1631,11 +1631,11 @@
   "round": "Seed",
   "investors": "Atomic Capital",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "EVReporter",
+  "sourceUrl": "https://evreporter.com/milo-drive-secures-2-4-million-seed-round-co-led-by-caret-capital-and-antler/",
+  "verifiedRound": "Seed",
+  "note": "[PARTIAL] $2.4M confirmed but co-led by Caret Capital AND Antler",
+  "checked": true
  },
  {
   "idx": 118,
@@ -1645,11 +1645,11 @@
   "round": "Seed",
   "investors": "Caret Capital",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/amp/technology/tech-news/blurgs-ai-raises-2-2-million-to-expand-maritime-defence-ai-platforms-126070700358_1.html",
+  "verifiedRound": "Seed",
+  "note": "[PARTIAL] $2.2M confirmed but co-led by Pravega Ventures AND Shastra VC",
+  "checked": true
  },
  {
   "idx": 119,
@@ -1673,11 +1673,11 @@
   "round": "Seed",
   "investors": "Pravega Ventures",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/amp/companies/news/piramal-alternatives-invests-125-crore-in-jrg-automotive-industries-126070701195_1.html",
+  "verifiedRound": "Conventional Debt",
+  "note": "[PARTIAL] Rs 125 crore (~$15M) confirmed, amount differs from $13.2M",
+  "checked": true
  },
  {
   "idx": 121,
@@ -1687,11 +1687,11 @@
   "round": "Seed",
   "investors": "Version One Ventures",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/physical-ai-startup-mowito-raises-3-mn-led-by-version-one-ventures-12141325",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 122,
@@ -1701,11 +1701,11 @@
   "round": "Conventional Debt",
   "investors": "Piramal Capital & Housing Finance",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] Noval Waste Management exists but specific July 2026 RISE funding details not publicly available",
+  "checked": true
  },
  {
   "idx": 123,
@@ -1729,11 +1729,11 @@
   "round": "Seed",
   "investors": "RISE",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] GAON raised ~Rs 10 crore but Indifi connection not confirmed",
+  "checked": true
  },
  {
   "idx": 125,
@@ -1743,11 +1743,11 @@
   "round": "Angel",
   "investors": "Kareena Kapoor Khan",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] GAON funding confirmed but Indifi debt round in July 2026 not independently verified",
+  "checked": true
  },
  {
   "idx": 126,
@@ -1757,11 +1757,11 @@
   "round": "Seed",
   "investors": "Indifi",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] GAON raised ~Rs 10 crore with Indifi as debt provider, not confirmed as Seed lead for $1.05M",
+  "checked": true
  },
  {
   "idx": 127,
@@ -1771,11 +1771,11 @@
   "round": "Conventional Debt",
   "investors": "Indifi",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] Series A July 7, 2026 confirmed but Auxano not listed as investor, amount undisclosed",
+  "checked": true
  },
  {
   "idx": 128,
@@ -1799,11 +1799,11 @@
   "round": "Series A",
   "investors": "Auxano",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/07/renaissthera-oral-obesity-diabetes-drugs",
+  "verifiedRound": "Seed",
+  "note": "[PARTIAL] Arali Ventures seed confirmed, amount undisclosed",
+  "checked": true
  },
  {
   "idx": 130,
@@ -1813,11 +1813,11 @@
   "round": "Seed",
   "investors": "Navyug Global",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] No July 2026 Series D found; Ninjacart launched $25M Agri Seed Fund instead",
+  "checked": true
  },
  {
   "idx": 131,
@@ -1827,11 +1827,11 @@
   "round": "Seed",
   "investors": "Arali Ventures",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/content/press-releases-ani/finkurve-financial-services-limited-arvog-raises-rs-50-crore-through-ncd-issuance-from-franklin-templeton-to-accelerate-growth-and-business-expansion-126070300007_1.html",
+  "verifiedRound": "Conventional Debt",
+  "note": "[DISCREPANCY] Rs 50 crore NCD from Franklin Templeton confirmed, not Post IPO structure",
+  "checked": true
  },
  {
   "idx": 132,
@@ -1841,11 +1841,11 @@
   "round": "Series D",
   "investors": "Accel",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/07",
+  "verifiedRound": "Series D",
+  "note": "[PARTIAL] Rs 700 crore (~$84M) from Poonawalla confirmed, amount higher than $73.6M",
+  "checked": true
  },
  {
   "idx": 133,
@@ -1855,11 +1855,11 @@
   "round": "Post IPO",
   "investors": "Franklin Templeton India",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Outlook Business",
+  "sourceUrl": "https://www.outlookbusiness.com/deeptech/specialty-chemical-start-up-tulon-materials-raises-10-cr-in-seed-round",
+  "verifiedRound": "Seed",
+  "note": "[PARTIAL] Rs 10 crore seed with Karthik Sundar Iyer confirmed, USD amount differs",
+  "checked": true
  },
  {
   "idx": 134,
@@ -1869,11 +1869,11 @@
   "round": "Series D",
   "investors": "Poonawalla Family Office",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "DealStreetAsia",
+  "sourceUrl": "https://www.dealstreetasia.com/stories/adar-poonawalla-family-office-inox-clean-487749",
+  "verifiedRound": "Series D",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 135,
@@ -1883,11 +1883,11 @@
   "round": "Seed",
   "investors": "Karthik Sundar Iyer",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/07/age-care-labs-raises-85-crore-to-expand-elder-care-platform",
+  "verifiedRound": "Series B",
+  "note": "[PARTIAL] Rs 85 crore (~$10.2M) from Rainmatter confirmed, amount slightly differs",
+  "checked": true
  },
  {
   "idx": 136,
@@ -1911,11 +1911,11 @@
   "round": "Series B",
   "investors": "Rainmatter",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/transition-vc-leads-105-mn-pre-series-a-round-in-albatross-energetics-12122965",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 138,
@@ -1925,11 +1925,11 @@
   "round": "Series A",
   "investors": "Unilever Ventures",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/ai-story/enterprise-ai-firm-data-science-wizards-secures-pre-series-a-funding",
+  "verifiedRound": "Seed",
+  "note": "[PARTIAL] $5M pre-Series A confirmed, round type differs from Seed",
+  "checked": true
  },
  {
   "idx": 139,
@@ -1939,11 +1939,11 @@
   "round": "Seed",
   "investors": "Transition VC",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/07/cleantech-startup-batx-raises-rs-105-cr-series-a-ivycap-ventures",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 140,
@@ -1953,11 +1953,11 @@
   "round": "Seed",
   "investors": "Undisclosed",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/07/dovetail-capital-raises-100-crore-from-elev8-venture-partners",
+  "verifiedRound": "Series A",
+  "note": "[PARTIAL] Rs 100 crore Series A from Elev8 confirmed",
+  "checked": true
  },
  {
   "idx": 141,
@@ -1967,11 +1967,11 @@
   "round": "Series A",
   "investors": "IvyCap Ventures",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/07/limelight-diamonds-raises-275-crore-series-a-ivycap-ventures",
+  "verifiedRound": "Series B",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 142,
@@ -1981,11 +1981,11 @@
   "round": "Series A",
   "investors": "Elev8",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Inc42",
+  "sourceUrl": "https://inc42.com/buzz/spense-raises-2-8-mn-from-arkam-ventures-to-build-secured-lending-infra/",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 143,
@@ -1995,11 +1995,11 @@
   "round": "Series B",
   "investors": "Bhathwari Group",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Crunchbase",
+  "sourceUrl": "https://www.crunchbase.com/organization/kapture-5f25",
+  "verifiedRound": "Series A",
+  "note": "[DISCREPANCY] $4M Series A in 2023, not June 2026. $10M pre-Series B in 2026",
+  "checked": true
  },
  {
   "idx": 144,
@@ -2009,11 +2009,11 @@
   "round": "Seed",
   "investors": "Arkam Ventures",
   "period": "July 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Inc42",
+  "sourceUrl": "https://inc42.com/buzz/spense-raises-2-8-mn-from-arkam-ventures-to-build-secured-lending-infra/",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 145,
@@ -2023,11 +2023,11 @@
   "round": "Series A",
   "investors": "Cactus Partners",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/06/kapture-cx-raises-10-million-led-by-bajaj-finserv-ventures",
+  "verifiedRound": "Pre-Series B",
+  "note": "[DISCREPANCY] Round is pre-Series B not Series A; Cactus is existing investor not lead (Bajaj Finserv leads); June 30 announcement",
+  "checked": true
  },
  {
   "idx": 146,
@@ -2037,11 +2037,11 @@
   "round": "Series B",
   "investors": "Gaja Capital",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/companies/start-ups/indus-valley-raises-17-million-in-funding-round-led-by-gaja-capital-126063000703_1.html",
+  "verifiedRound": "Series B",
+  "note": "[PARTIAL] Batch listed amount as Undisclosed, but deal was $17M Series B.",
+  "checked": true
  },
  {
   "idx": 147,
@@ -2065,11 +2065,11 @@
   "round": "Seed",
   "investors": "Nisaba Godrej",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/co-working-startup-incuspaze-raises-rs-150-cr-led-by-bharat-value-fund-12116135",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 149,
@@ -2079,11 +2079,11 @@
   "round": "Series A",
   "investors": "Bharat Value Fund",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/06/incuspaze-raises-rs-150-crore-led-by-bharat-value-fund",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 150,
@@ -2093,11 +2093,11 @@
   "round": "Series A",
   "investors": "Andrew Parker",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Indian Startup Times",
+  "sourceUrl": "https://indianstartupnews.com/funding/healthtech-startup-mykareai-raises-1-million-to-expand-ai-healthcare-platform-12121004",
+  "verifiedRound": "Series A",
+  "note": "[PARTIAL] Company raised $3.2M total Series A; Andrew Parker contributed $1M as part of this round.",
+  "checked": true
  },
  {
   "idx": 151,
@@ -2107,11 +2107,11 @@
   "round": "Series B",
   "investors": "Yash Raj Films",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
+  "verifiedRound": "Unverified",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 152,
@@ -2149,11 +2149,11 @@
   "round": "Seed",
   "investors": "Ramakant Deshpande",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/finnovate-raises-2m-in-pre-series-a-round-led-by-chiratae-ventures-12044185",
+  "verifiedRound": "Pre-Series A",
+  "note": "[DISCREPANCY] Batch listed as Seed; sources confirm Pre-Series A round.",
+  "checked": true
  },
  {
   "idx": 155,
@@ -2163,11 +2163,11 @@
   "round": "Seed",
   "investors": "Growth Sense",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Whalesbook",
+  "sourceUrl": "https://www.whalesbook.com/news/English/technology/Retnerai-Secures-Funding-From-Growth-Sense-Venture-Fund/6a3e663e1ea2458e09601001",
+  "verifiedRound": "Seed",
+  "note": "[PARTIAL] Growth Sense investment confirmed but amount undisclosed in sources.",
+  "checked": true
  },
  {
   "idx": 156,
@@ -2177,11 +2177,11 @@
   "round": "Series B",
   "investors": "Stride Ventures",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Indian Retailer",
+  "sourceUrl": "https://www.indianretailer.com/news/funding-alert-allhome-raises-rs-200-cr-series-b-funding-led-bessemer-venture-partners",
+  "verifiedRound": "Series B",
+  "note": "[DISCREPANCY] Batch states Stride Ventures as lead, but round was led by Bessemer Venture Partners with Stride providing debt.",
+  "checked": true
  },
  {
   "idx": 157,
@@ -2191,11 +2191,11 @@
   "round": "Series A",
   "investors": "Lightspeed Venture Partners",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/amp/companies/start-ups/health-tech-start-up-superliving-raises-7-million-led-by-lightspeed-126062500957_1.html",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 158,
@@ -2205,11 +2205,11 @@
   "round": "Series B",
   "investors": "JSW Group",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
+  "sourceLabel": "Renewable Watch",
+  "sourceUrl": "https://renewablewatch.in/2026/06/29/jsw-green-mobility-invests-in-lithium-urban-technologies/",
   "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "note": "[PARTIAL] Investment from JSW Green Mobility confirmed, but amount undisclosed; batch claims $53M.",
+  "checked": true
  },
  {
   "idx": 159,
@@ -2233,11 +2233,11 @@
   "round": "Seed",
   "investors": "build3",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
+  "verifiedRound": "Unverified",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 161,
@@ -2247,11 +2247,11 @@
   "round": "Series A",
   "investors": "Infinity Ventures",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/companies/start-ups/saffronstays-secures-3-5-million-funding-led-by-infinity-ventures-126062401179_1.html",
+  "verifiedRound": "Series B",
+  "note": "[DISCREPANCY] Batch listed as Series A; press reports Series B round with $3.5M.",
+  "checked": true
  },
  {
   "idx": 162,
@@ -2261,11 +2261,11 @@
   "round": "Seed",
   "investors": "Unicorn India Ventures",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Indian Startup Times",
+  "sourceUrl": "https://www.indianstartuptimes.com/investment/iot-smart-lock-startup-ikin-global-raises-2-million-pre-series-a2-funding-to-accelerate-global-expansion/",
+  "verifiedRound": "Pre-Series A2",
+  "note": "[DISCREPANCY] Batch listed as Seed; sources confirm Pre-Series A2. Also sector is B2B IoT smart locks, not smart homes.",
+  "checked": true
  },
  {
   "idx": 163,
@@ -2275,11 +2275,11 @@
   "round": "Seed",
   "investors": "Prakash Sikaria",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Indian Retailer",
+  "sourceUrl": "https://www.indianretailer.com/news/funding-alert-alienkind-raises-32-mn-pre-series-round-fuel-expansion-across-india",
+  "verifiedRound": "Pre-Series A",
+  "note": "[DISCREPANCY] Batch listed as Seed; sources confirm Pre-Series A round.",
+  "checked": true
  },
  {
   "idx": 164,
@@ -2289,11 +2289,11 @@
   "round": "Conventional Debt",
   "investors": "AIFL",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Energetica India",
+  "sourceUrl": "https://www.energetica-india.net/news/roofsol-energy-secures-inr-260-crore-funding-from-aseem-infrastructure-finance",
+  "verifiedRound": "Conventional Debt",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 165,
@@ -2317,11 +2317,11 @@
   "round": "Conventional Debt",
   "investors": "Undisclosed",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] Amount listed as Undisclosed; unable to independently verify separate conventional debt deal in June 2026.",
+  "checked": true
  },
  {
   "idx": 167,
@@ -2331,11 +2331,11 @@
   "round": "Series C",
   "investors": "Muzinich & Co",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "DealStreet Asia",
+  "sourceUrl": "https://www.dealstreetasia.com/stories/square-yards-eaaa-alternatives-muzinich-486509",
+  "verifiedRound": "Series C",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 168,
@@ -2345,11 +2345,11 @@
   "round": "Series C",
   "investors": "Bhoruka Supply Chain Solutions Holdings",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Tracxn",
+  "sourceUrl": "https://tracxn.com/d/companies/blue-tokai-coffee-roasters/__IRRnhdU7e338ACHIUcfl6SpNIOiHQYljF3-5c47zyMY",
+  "verifiedRound": "Series C",
+  "note": "[PARTIAL] Amount and round confirmed but sector is specialty coffee, not online grocery.",
+  "checked": true
  },
  {
   "idx": 169,
@@ -2373,11 +2373,11 @@
   "round": "Seed",
   "investors": "Idea Baaz",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/companies/news/ideabaaz-acquires-25-strategic-stake-in-space-tech-accelerator-kicksky-space-lab-126062200477_1.html",
+  "verifiedRound": "Seed",
+  "note": "[PARTIAL] Ideabaaz stake acquisition in KickSky confirmed; characterization as investment/seed funding unclear.",
+  "checked": true
  },
  {
   "idx": 171,
@@ -2387,11 +2387,11 @@
   "round": "Series B",
   "investors": "Bessemer Venture Partners",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/companies/start-ups/cybersecurity-startup-mitigata-raises-15-mn-in-bessemer-led-series-b-round-126062301118_1.html",
+  "verifiedRound": "Series B",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 172,
@@ -2401,11 +2401,11 @@
   "round": "Conventional Debt",
   "investors": "Recur Club",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Indian Startup Times",
+  "sourceUrl": "https://www.indianstartuptimes.com/investment/unnati-agri-raises-rs-17-crore-debt-funding-from-recur-club-to-strengthen-growth-and-distribution-network/",
+  "verifiedRound": "Conventional Debt",
+  "note": "[DISCREPANCY] Batch lists $1.8M; sources confirm ₹17 crore (~$2.04M) debt.",
+  "checked": true
  },
  {
   "idx": 173,
@@ -2429,11 +2429,11 @@
   "round": "Series H",
   "investors": "Meta",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "fintech.global",
+  "sourceUrl": "https://fintech.global/2026/06/24/meta-backs-cred-in-900m-series-h-at-4-5bn-value/",
+  "verifiedRound": "Series H",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 175,
@@ -2443,11 +2443,11 @@
   "round": "Series D",
   "investors": "Strat Ventures",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/exclusive/exclusive-morgan-stanley-backed-recykal-raises-18-mn-at-280-mn-valuation-12056152",
+  "verifiedRound": "Bridge",
+  "note": "[DISCREPANCY] Batch lists Series D; sources confirm $23M bridge round with $17.6M primary deals.",
+  "checked": true
  },
  {
   "idx": 176,
@@ -2471,11 +2471,11 @@
   "round": "Series B",
   "investors": "Audacity",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Inc42",
+  "sourceUrl": "https://inc42.com/company/rusk-media/funding/",
+  "verifiedRound": "Pre-Series C",
+  "note": "[DISCREPANCY] Batch lists Series B; sources confirm Pre-Series C round led by Audacity (~$10.6M).",
+  "checked": true
  },
  {
   "idx": 178,
@@ -2485,11 +2485,11 @@
   "round": "Seed",
   "investors": "Rainmatter",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/06/funding-karo-sambhav-56-crore-from-rainmatter-zerodha",
+  "verifiedRound": "Pre-Series A",
+  "note": "[DISCREPANCY] Batch lists Seed; sources confirm Pre-Series A round.",
+  "checked": true
  },
  {
   "idx": 179,
@@ -2499,11 +2499,11 @@
   "round": "Series D",
   "investors": "Bessemer Venture Partners",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/companies/start-ups/vetic-raises-40-million-to-expand-pet-healthcare-network-126061700912_1.html",
   "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "note": "[PARTIAL] Funding amount and lead investor confirmed; round type as Series D not explicitly confirmed in sources.",
+  "checked": true
  },
  {
   "idx": 180,
@@ -2513,11 +2513,11 @@
   "round": "Seed",
   "investors": "Pankaj Vermani",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/06/creator-platform-influish-pre-seed-funding-clovia-co-founder-others",
+  "verifiedRound": "Pre-Seed",
+  "note": "[PARTIAL] Batch lists Seed; sources confirm Pre-Seed round. Amount undisclosed.",
+  "checked": true
  },
  {
   "idx": 181,
@@ -2541,11 +2541,11 @@
   "round": "Seed",
   "investors": "Indifly Ventures",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "NewsX",
+  "sourceUrl": "https://www.newsx.com/bl-news/indifly-invests-in-cgreen-to-build-ai-powered-loan-resolution-infrastructure-across-bharat-259913/",
+  "verifiedRound": "Seed",
+  "note": "[PARTIAL] Indifly investment confirmed; seed round on June 17, 2026 confirmed but amount undisclosed.",
+  "checked": true
  },
  {
   "idx": 183,
@@ -2569,11 +2569,11 @@
   "round": "Seed",
   "investors": "India Quotient",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Indian Startup Times",
+  "sourceUrl": "https://www.indianstartuptimes.com/investment/gimi-michi-raises-1-million-to-bring-authentic-korean-flavours-to-indias-growing-food-market/",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 185,
@@ -2583,11 +2583,11 @@
   "round": "Series B",
   "investors": "Orbimed",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "DealStreet Asia",
+  "sourceUrl": "https://www.dealstreetasia.com/stories/orbimed-trunativ-485746",
+  "verifiedRound": "Series B",
+  "note": "[DISCREPANCY] Batch lists amount as Undisclosed; sources confirm $30M Series B.",
+  "checked": true
  },
  {
   "idx": 186,
@@ -2597,11 +2597,11 @@
   "round": "Seed",
   "investors": "Chiratae Ventures",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/amp/content/press-releases-ani/contravault-ai-raises-usd-3-1m-led-by-chiratae-ventures-with-titan-capital-winners-fund-to-build-the-future-of-ai-powered-procurement-intelligence-126061700519_1.html",
+  "verifiedRound": "Pre-Series A",
+  "note": "[DISCREPANCY] Batch listed as Seed; sources confirm Pre-Series A round.",
+  "checked": true
  },
  {
   "idx": 187,
@@ -2611,11 +2611,11 @@
   "round": "Seed",
   "investors": "Atomic Capital",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/used-two-wheeler-platform-speedioo-raises-seed-funding-led-by-atomic-capital-12043624",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 188,
@@ -2625,11 +2625,11 @@
   "round": "Series C",
   "investors": "B Capital",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Energetica India",
+  "sourceUrl": "https://www.energetica-india.net/news/solarsquare-raises-usd-53-mn-in-series-c-round-led-by-b-capital-to-expand-residential-solar-business",
+  "verifiedRound": "Series C",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 189,
@@ -2653,11 +2653,11 @@
   "round": "Seed",
   "investors": "Beenext",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Indian Startup Times",
+  "sourceUrl": "https://www.indianstartuptimes.com/investment/crest-raises-usd-3-1-mn-pre-seed-funding-to-build-ai-native-fractional-family-offi-ce-led-by-beenext/",
+  "verifiedRound": "Pre-Seed",
+  "note": "[PARTIAL] Batch lists Seed; sources confirm Pre-Seed round.",
+  "checked": true
  },
  {
   "idx": 191,
@@ -2667,11 +2667,11 @@
   "round": "Series B",
   "investors": "NSFO",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/companies/start-ups/foodstories-raises-50-crore-in-funding-round-led-by-nikhil-kamath-126061500730_1.html",
+  "verifiedRound": "Series B",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 192,
@@ -2681,11 +2681,11 @@
   "round": "Series A",
   "investors": "Singularity AMC",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Indian Startup Times",
+  "sourceUrl": "https://www.indianstartuptimes.com/investment/alienkind-raises-3-2m-to-scale-its-sci-fi-qsr-and-wellness-beverage-story/",
+  "verifiedRound": "Series A",
+  "note": "[PARTIAL] Funding co-led by Singularity AMC and Lumikai; batch only mentions Singularity AMC.",
+  "checked": true
  },
  {
   "idx": 193,
@@ -2695,11 +2695,11 @@
   "round": "Series B",
   "investors": "Bessemer Venture Partners",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/technology/artificial-intelligence/sovereign-ai-startup-sarvam-raises-234-mn-from-hcltech-bessemer-126061501007_1.html",
+  "verifiedRound": "Series B",
+  "note": "[PARTIAL] Lead investor was HCLTech ($150M), not Bessemer; Bessemer participated in the round.",
+  "checked": true
  },
  {
   "idx": 194,
@@ -2709,11 +2709,11 @@
   "round": "Conventional Debt",
   "investors": "Undisclosed",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
+  "verifiedRound": "Unverified",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 195,
@@ -2723,11 +2723,11 @@
   "round": "Series B",
   "investors": "Accel",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Inc42",
+  "sourceUrl": "https://inc42.com/buzz/zumutor-biologics-secures-7-3-mn-to-advance-clinical-trials-for-cancer-therapy/",
+  "verifiedRound": "Pre-Series B",
+  "note": "[DISCREPANCY] Batch lists Series B; sources confirm Pre-Series B round.",
+  "checked": true
  },
  {
   "idx": 196,
@@ -2737,11 +2737,11 @@
   "round": "Seed",
   "investors": "Accel",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/amp/companies/start-ups/rekise-marine-raises-9-7-mn-led-by-nikhil-kamath-s-firm-and-accel-126061200902_1.html",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 197,
@@ -2751,11 +2751,11 @@
   "round": "Series B",
   "investors": "Info Edge Ventures",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "IBS Intelligence",
+  "sourceUrl": "https://ibsintelligence.com/ibsi-news/lumiq-raises-5-9m-in-series-b-to-scale-ai-platforms/",
+  "verifiedRound": "Series B",
+  "note": "[DISCREPANCY] Investor listed as 'Info Edge Ventures' but Bajaj Finserv Ventures led the round",
+  "checked": true
  },
  {
   "idx": 198,
@@ -2765,11 +2765,11 @@
   "round": "Series B",
   "investors": "Prosus",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "TechCrunch",
+  "sourceUrl": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
+  "verifiedRound": "Series B",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 199,
@@ -2779,11 +2779,11 @@
   "round": "Angel",
   "investors": "Undisclosed",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/content/press-releases-ani/ai-risk-intelligence-startup-privue-raises-angel-round-to-expand-dealer-intelligence-application-126061200774_1.html",
+  "verifiedRound": "Angel",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 200,
@@ -2793,11 +2793,11 @@
   "round": "Angel",
   "investors": "Rohit Gurunath Sharma",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/06/a-hackathon-to-empower-girl-innovators-rohit-sharma-investment-in-fittr",
+  "verifiedRound": "Angel",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 201,
@@ -2807,11 +2807,11 @@
   "round": "Seed",
   "investors": "247VC",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/dream-aerospace-raises-10-cr-pre-series-a-round-12030835",
+  "verifiedRound": "Pre-Series A",
+  "note": "[DISCREPANCY] Listed as Seed but is Pre-Series A; amount Rs 10 crore (~$1.2M) not $1.04M",
+  "checked": true
  },
  {
   "idx": 202,
@@ -2821,11 +2821,11 @@
   "round": "Seed",
   "investors": "Ahdritz",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Digital Music News",
+  "sourceUrl": "https://www.digitalmusicnews.com/2026/06/11/madverse-music-funding-seed/",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 203,
@@ -2835,11 +2835,11 @@
   "round": "Series A",
   "investors": "Unicorn India Ventures",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/companies/news/qubehealth-secures-pre-series-a-funding-from-unicorn-india-canbank-vc-124110500477_1.html",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 204,
@@ -2877,11 +2877,11 @@
   "round": "Seed",
   "investors": "Earlyseed Ventures",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "The Wire",
+  "sourceUrl": "https://m.thewire.in/article/ptiprnews/electriq-closes-early-seed-funding-round-to-accelerate-ev-ecosystem-expansion-in-india-and-beyond/",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 207,
@@ -2891,11 +2891,11 @@
   "round": "Series A",
   "investors": "Omnivore",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/06/manam-chocolate-raises-usd-9-m-in-series-a-led-by-omnivore",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 208,
@@ -2905,11 +2905,11 @@
   "round": "Series B",
   "investors": "Dharana",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/06/mygate-raises-rs-225-cr-from-dharana-capital",
+  "verifiedRound": "Series B",
+  "note": "[DISCREPANCY] Amount listed as Undisclosed but confirmed as Rs 225 crore (~$27M)",
+  "checked": true
  },
  {
   "idx": 209,
@@ -2919,11 +2919,11 @@
   "round": "Seed",
   "investors": "Capital 2B",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "StartupTalky",
+  "sourceUrl": "https://startuptalky.com/hypernorm-ai-2-2-million-seed-funding-wealth-advisors/",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 210,
@@ -2933,11 +2933,11 @@
   "round": "Seed",
   "investors": "3one4 Capital",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Rivvun AI",
+  "sourceUrl": "https://rivvun.ai/rivvun-ai-seed-funding-announcement/",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 211,
@@ -2947,11 +2947,11 @@
   "round": "Series A",
   "investors": "Sauce",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/impulse-lifestyle-retail-brand-uni-seoul-raises-rs-35-cr-in-series-a-round-12022701",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 212,
@@ -2961,11 +2961,11 @@
   "round": "Series A",
   "investors": "Peak XV Partners",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/06/hoola-health-5-million-funding-peak-xv-surge",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 213,
@@ -2975,11 +2975,11 @@
   "round": "Seed",
   "investors": "Peak XV Partners",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/06/quick-commerce-startup-bazaarnow-raises-rs-72-cr-led-by-peak-xv-partners",
+  "verifiedRound": "Series A",
+  "note": "[DISCREPANCY] Listed as Seed but confirmed Series A",
+  "checked": true
  },
  {
   "idx": 214,
@@ -2989,11 +2989,11 @@
   "round": "Seed",
   "investors": "Wellingdon Advisors",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/the-wedding-company-raises-275-mn-in-seed-round-12014070",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 215,
@@ -3003,11 +3003,11 @@
   "round": "Conventional Debt",
   "investors": "BlackSoil",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "IBS Intelligence",
+  "sourceUrl": "https://ibsintelligence.com/ibsi-news/enterprise-ai-firm-celebal-technologies-raises-5-2m-from-blacksoil-capital/",
+  "verifiedRound": "Conventional Debt",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 216,
@@ -3017,11 +3017,11 @@
   "round": "Seed",
   "investors": "Finvolve",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/integra-robotics-raises-112-mn-in-pre-series-a-round-12017897",
+  "verifiedRound": "Pre-Series A",
+  "note": "[DISCREPANCY] Listed as Seed but confirmed Pre-Series A",
+  "checked": true
  },
  {
   "idx": 217,
@@ -3031,11 +3031,11 @@
   "round": "Series A",
   "investors": "Enrission India Capital",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "StartupFox",
+  "sourceUrl": "https://startupfox.in/article/recur-club-series-a-50m-funding-debt-marketplace",
+  "verifiedRound": "Series A",
+  "note": "[DISCREPANCY] Amount listed as Undisclosed but confirmed $50M Series A",
+  "checked": true
  },
  {
   "idx": 218,
@@ -3045,11 +3045,11 @@
   "round": "Series C",
   "investors": "Fullerton Carbon Action Fund",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "IFC",
+  "sourceUrl": "https://www.ifc.org/en/pressroom/2026/hygenco-signs-definitive-agreements-for-us-105-million-equity-investment",
+  "verifiedRound": "Series C",
+  "note": "[PARTIAL] Co-led by IFC, Siemens, and Fullerton; not solely Fullerton",
+  "checked": true
  },
  {
   "idx": 219,
@@ -3059,11 +3059,11 @@
   "round": "Series B",
   "investors": "Singularity AMC",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/immuneel-therapeutics-raises-over-rs-100-cr-in-series-b-12012724",
+  "verifiedRound": "Series B",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 220,
@@ -3073,11 +3073,11 @@
   "round": "Seed",
   "investors": "Marwari Catalysts",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "ANI",
+  "sourceUrl": "https://www.aninews.in/news/business/inteliquant-ai-secures-strategic-investment-from-global-industry-leaders-to-scale-enterprise-audit-amp-risk-intelligence20260606170416/",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 221,
@@ -3087,11 +3087,11 @@
   "round": "Series B",
   "investors": "Panthera",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/06/innefu-labs-raises-30-million-in-series-b-from-panthera-growth-partners",
+  "verifiedRound": "Series B",
+  "note": "[DISCREPANCY] Amount listed as Undisclosed but confirmed $30M Series B",
+  "checked": true
  },
  {
   "idx": 222,
@@ -3101,11 +3101,11 @@
   "round": "Series A",
   "investors": "Suraj Nalin",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Dealroom",
+  "sourceUrl": "https://app.dealroom.co/news/feed/ex-isro-scientists-aadyah-aerospace-raises-3-3m-series-a-led-by-helios-holdings",
+  "verifiedRound": "Series A",
+  "note": "[DISCREPANCY] Investor listed as Suraj Nalin but led by Helios Holdings (Suraj Nalin's vehicle)",
+  "checked": true
  },
  {
   "idx": 223,
@@ -3129,11 +3129,11 @@
   "round": "Angel",
   "investors": "Ekta Kapoor Ravi",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Bollywood Hungama",
+  "sourceUrl": "https://www.bollywoodhungama.com/amp/news/bollywood/ektaa-kapoor-joins-sussanne-khans-ekatra-jewels-as-investor-and-partner/",
+  "verifiedRound": "Angel",
+  "note": "[PARTIAL] Company is Ekatra Jewels (luxury jewellery), not Fashion Accessories; investor Ektaa Kapoor",
+  "checked": true
  },
  {
   "idx": 225,
@@ -3143,11 +3143,11 @@
   "round": "Post IPO",
   "investors": "Bakkt",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
+  "verifiedRound": "Unverified",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 226,
@@ -3157,11 +3157,11 @@
   "round": "Series B",
   "investors": "Peak XV Partners",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/06/firstclub-raises-55-million-series-b-co-led-by-peak-xv-partners-sofina",
+  "verifiedRound": "Series B",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 227,
@@ -3171,11 +3171,11 @@
   "round": "Series A",
   "investors": "Baring Private Equity Partners",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/06/ai-video-generation-startup-truefan-ai-raises-series-a-funding",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 228,
@@ -3185,11 +3185,11 @@
   "round": "Series B",
   "investors": "Sony Innovation Fund",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/sony-innovation-fund-leads-7-mn-round-in-fintech-startup-werize-11999594",
+  "verifiedRound": "Pre-Series C",
+  "note": "[DISCREPANCY] Listed as Series B but confirmed pre-Series C",
+  "checked": true
  },
  {
   "idx": 229,
@@ -3199,11 +3199,11 @@
   "round": "Seed",
   "investors": "Theia Ventures",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Mercom India",
+  "sourceUrl": "https://www.mercomindia.com/energy-storage-startup-voltseal-raises-1-5m-pre-seed",
+  "verifiedRound": "Pre-Seed",
+  "note": "[DISCREPANCY] Listed as Seed but confirmed pre-seed",
+  "checked": true
  },
  {
   "idx": 230,
@@ -3227,11 +3227,11 @@
   "round": "Series C",
   "investors": "PixelSky Capital",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Deal Street Asia",
+  "sourceUrl": "https://www.dealstreetasia.com/stories/gps-renewables-series-c-484889",
+  "verifiedRound": "Series C",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 232,
@@ -3241,11 +3241,11 @@
   "round": "Seed",
   "investors": "Athera",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Indian Startup Times",
+  "sourceUrl": "https://www.indianstartuptimes.com/investment/propsoch-raises-2-million-seed-funding-led-by-athera-venture-partners-sparrow-capital-and-vakil-group/",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 233,
@@ -3255,11 +3255,11 @@
   "round": "Seed",
   "investors": "OTP Ventures",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "StartupTalky",
+  "sourceUrl": "https://startuptalky.com/news/phab-raises-4-million-pre-series-a-round-funding/",
+  "verifiedRound": "Pre-Series A",
+  "note": "[DISCREPANCY] Listed as Seed but confirmed Pre-Series A",
+  "checked": true
  },
  {
   "idx": 234,
@@ -3269,11 +3269,11 @@
   "round": "Series A",
   "investors": "V3 Ventures",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/v3-ventures-leads-3-mn-series-a-round-in-perfumery-brand-fraganote-11905033",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 235,
@@ -3283,11 +3283,11 @@
   "round": "Angel",
   "investors": "Shilpa Shetty Kundra",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Images BOF",
+  "sourceUrl": "https://www.imagesbof.in/kids-lifestyle-brand-rosada-onboards-shilpa-shetty-kundra-as-investor/",
+  "verifiedRound": "Angel",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 236,
@@ -3297,11 +3297,11 @@
   "round": "Seed",
   "investors": "Beenext",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "StartupRise",
+  "sourceUrl": "https://startuprise.org/edtech-startup-prolearn-raises-3-15-million-in-pre-seed-round/",
+  "verifiedRound": "Pre-Seed",
+  "note": "[DISCREPANCY] Listed as Seed but confirmed Pre-Seed",
+  "checked": true
  },
  {
   "idx": 237,
@@ -3325,11 +3325,11 @@
   "round": "Seed",
   "investors": "Momentum Capital",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] Seed round confirmed for June 2 2026 but investor (Momentum Capital) and exact amount unverified",
+  "checked": true
  },
  {
   "idx": 239,
@@ -3339,11 +3339,11 @@
   "round": "Seed",
   "investors": "Antler",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/antler-india-leads-1-mn-pre-seed-round-in-wealthtech-platform-rovia-11895889",
+  "verifiedRound": "Pre-Seed",
+  "note": "[DISCREPANCY] Listed as Seed but confirmed pre-seed",
+  "checked": true
  },
  {
   "idx": 240,
@@ -3353,11 +3353,11 @@
   "round": "Conventional Debt",
   "investors": "Capitar Ventures",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/06/simple-energy-raises-rs-250-crore-in-equity--debt",
+  "verifiedRound": "Conventional Debt",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 241,
@@ -3367,11 +3367,11 @@
   "round": "Series B",
   "investors": "Arokiaswamy Velumani",
   "period": "June 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/06/simple-energy-raises-rs-250-crore-in-equity--debt",
+  "verifiedRound": "Series B",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 242,
@@ -4025,11 +4025,11 @@
   "round": "Grant",
   "investors": "Anrf",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://indianstartupnews.com/news/dhruva-space-secures-rs-105-crore-from-indian-govt-for-project-garud-satellite-manufacturing-11834043",
+  "verifiedRound": "Grant",
+  "note": "[DISCREPANCY] Grant is from RDIF (Research, Development and Innovation Fund), not ANRF as stated. Amount matches (~$11M = ₹105 crore).",
+  "checked": true
  },
  {
   "idx": 289,
@@ -4039,11 +4039,11 @@
   "round": "Seed",
   "investors": "Undisclosed",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "IndianStartupNews",
+  "sourceUrl": "https://indianstartupnews.com/funding/craon-raises-funding-to-scale-its-prompt-based-video-editing-platform-11837897",
+  "verifiedRound": "Pre-Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 290,
@@ -4053,11 +4053,11 @@
   "round": "Seed",
   "investors": "Singularity AMC",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "IndiaRetailing",
+  "sourceUrl": "https://www.indiaretailing.com/legend-of-toys-raises-21-crore-preseries-a-round",
+  "verifiedRound": "Pre-Series A",
+  "note": "[DISCREPANCY] Round type is Pre-Series A, not Seed. Amount matches (₹21 crore ≈ $2.19M).",
+  "checked": true
  },
  {
   "idx": 291,
@@ -4095,11 +4095,11 @@
   "round": "Series A",
   "investors": "Zoho",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
+  "sourceLabel": "Inc42",
+  "sourceUrl": "https://inc42.com/buzz/zoho-invests-%E2%82%B970-cr-in-ondc-to-back-sovereign-tech-infrastructure/",
   "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "note": "[PARTIAL] Zoho invested ₹70 crore ($7.32M) in May 2026, but this is a strategic investment, not a formal Series A round.",
+  "checked": true
  },
  {
   "idx": 294,
@@ -4123,11 +4123,11 @@
   "round": "Seed",
   "investors": "Gujarat Venture Finance",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "IndianStartupNews",
+  "sourceUrl": "https://www.archynewsy.com/moi-soi-secures-first-institutional-round-from-gvfl-and-wipro-consumer-ventures/",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 296,
@@ -4137,11 +4137,11 @@
   "round": "Seed",
   "investors": "Growth Sense",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/toy-subscription-startup-the-elefant-raises-1-mn-in-pre-series-funding-11829958",
+  "verifiedRound": "Pre-Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 297,
@@ -4151,11 +4151,11 @@
   "round": "Series A",
   "investors": "Ideaspring Capital",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/semiconductor-startup-hrdwyr-raises-13-mn-led-by-ideaspring-capital-11826658",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 298,
@@ -4165,11 +4165,11 @@
   "round": "Seed",
   "investors": "Triton Investment Advisors",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/ai-startup-scikiq-raises-usd-15-mn-in-funding-from-triton-11825570",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 299,
@@ -4179,11 +4179,11 @@
   "round": "Series B",
   "investors": "V3 Ventures",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/05/dil-foods-raises-rs-72-crore-in-series-b-round",
+  "verifiedRound": "Series B",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 300,
@@ -4193,11 +4193,11 @@
   "round": "Series C",
   "investors": "Abler Nordic, Carpediem Capital",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/sindhuja-microcredit-raises-5-mn-in-pre-series-d-round-11822503",
+  "verifiedRound": "Pre-Series D",
+  "note": "[DISCREPANCY] Round type is Pre-Series D, not Series C. Amount and month match ($5M in May 2026).",
+  "checked": true
  },
  {
   "idx": 301,
@@ -4207,11 +4207,11 @@
   "round": "Series D",
   "investors": "Alchemy Capital, Anicut Capital",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/05/wingreens-acquires-safe-harvest-integrated-clean-label-platform-series-d",
+  "verifiedRound": "Series D",
+  "note": "[PARTIAL] Amount matches (₹120 crore ≈ $12.6M), but lead investor is Ashish Kacholia with Alchemy Fund participation.",
+  "checked": true
  },
  {
   "idx": 302,
@@ -4221,11 +4221,11 @@
   "round": "Seed",
   "investors": "HealthQuad",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "DigitalHealthNews",
+  "sourceUrl": "https://www.digitalhealthnews.com/healthquad-invests-in-lifesigns-to-expand-ai-based-remote-patient-monitoring-platform",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 303,
@@ -4235,11 +4235,11 @@
   "round": "Debt",
   "investors": "IndusInd Bank",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "RealtynMore",
+  "sourceUrl": "https://realtynmore.com/hero-realty-secures-1200-crore-debt-indusind-bank/",
+  "verifiedRound": "Debt",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 304,
@@ -4249,11 +4249,11 @@
   "round": "Seed",
   "investors": "Piper Serica, StartupTN",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/piper-serica-leads-1-mn-seed-round-in-airport-operations-tech-company-blunav-11808501",
+  "verifiedRound": "Seed",
+  "note": "[PARTIAL] Piper Serica confirmed as lead, but StartupTN is not mentioned as co-investor.",
+  "checked": true
  },
  {
   "idx": 305,
@@ -4263,11 +4263,11 @@
   "round": "Seed",
   "investors": "Alkemi Growth Capital",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "SiliconIndia",
+  "sourceUrl": "https://www.siliconindia.com/startup/startup-funding/alphadroid-raises-38-million-in-round-led-by-alkemi-capital-nwid-54442.html",
+  "verifiedRound": "Pre-Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 306,
@@ -4277,11 +4277,11 @@
   "round": "Series C",
   "investors": "Sherpalo Ventures, Mukesh Bansal",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "DealStreetAsia",
+  "sourceUrl": "https://www.dealstreetasia.com/stories/skyroot-fundraise-481532/",
+  "verifiedRound": "Series C",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 307,
@@ -4291,11 +4291,11 @@
   "round": "Seed",
   "investors": "Indian Angel Network, Vertex Ventures",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/05/bigendian-semiconductors-bags-6-million-led-by-ian-alpha-fund",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 308,
@@ -4305,11 +4305,11 @@
   "round": "Debt",
   "investors": "Mirova, FMO",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/05/ecofy-raises-15-million-from-mirova-to-expand-green-financing-portfolio",
+  "verifiedRound": "Debt",
+  "note": "[PARTIAL] Mirova investment confirmed in May 2026, but FMO is mentioned as prior investor (Jan 2024), not in this round.",
+  "checked": true
  },
  {
   "idx": 309,
@@ -4319,11 +4319,11 @@
   "round": "Seed",
   "investors": "Alkemi Growth Capital",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] Alkemi Growth Capital seed investment confirmed in May 2026, but exact amount of $1.91M cannot be independently verified.",
+  "checked": true
  },
  {
   "idx": 310,
@@ -4333,11 +4333,11 @@
   "round": "Seed",
   "investors": "Physics Wallah",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/05/physics-wallah-raises-sarrthi-ias-stake-to-51-takes-majority-control",
   "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "note": "[DISCREPANCY] Physics Wallah acquired stake in Sarrthi IAS (stake acquisition), not a seed funding round. This is M&A, not institutional funding.",
+  "checked": true
  },
  {
   "idx": 311,
@@ -4389,11 +4389,11 @@
   "round": "Series B",
   "investors": "Lachy Groom, Bain Capital Ventures",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/pronto-raises-additional-20-mn-in-series-b-round-at-200-mn-valuation-11807841",
+  "verifiedRound": "Series B",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 315,
@@ -4403,11 +4403,11 @@
   "round": "Seed",
   "investors": "ManchesterStory Group",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "TechFundingNews",
+  "sourceUrl": "https://techfundingnews.com/manchesterstory-leads-6-5m-round-in-xcaliber-health-to-automate-healthcare-administration/",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 316,
@@ -4417,11 +4417,11 @@
   "round": "Debt",
   "investors": "Prospect Capital",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "YahooFinance",
+  "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/prospect-capital-completes-26-million-110000411.html",
+  "verifiedRound": "Debt",
+  "note": "[PARTIAL] Prospect Capital investment confirmed, but described as first lien term loan (debt) for US-based company. Amount $26M matches entry 317.",
+  "checked": true
  },
  {
   "idx": 317,
@@ -4431,11 +4431,11 @@
   "round": "Series B",
   "investors": "Prospect Capital",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "YahooFinance",
+  "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/prospect-capital-completes-26-million-110000411.html",
+  "verifiedRound": "Series B",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 318,
@@ -4445,11 +4445,11 @@
   "round": "Seed",
   "investors": "Piper Serica",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/telephony-infra-startup-vobizai-raises-1-mn-led-by-piper-serica-11801843",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 319,
@@ -4473,11 +4473,11 @@
   "round": "Seed",
   "investors": "Info Edge Ventures",
   "period": "May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "BarAndBench",
+  "sourceUrl": "https://www.barandbench.com/news/law-policy/legal-ai-startup-jurisphereai-raises-22-million-in-funding",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 321,
@@ -4487,11 +4487,11 @@
   "round": "Series A",
   "investors": "Atomic Capital",
   "period": "April-May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "IndiaRetailing",
+  "sourceUrl": "https://www.indiaretailing.com/healthfab-bags-20-crore-in-series-a-round-led-by-atomic-capital",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 322,
@@ -4501,11 +4501,11 @@
   "round": "Series A",
   "investors": "Fireside Ventures",
   "period": "April-May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/fireside-ventures-leads-kisahs-series-a-round-valuation-jumps-to-rs-211-cr-11797334",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 323,
@@ -4515,11 +4515,11 @@
   "round": "Series A",
   "investors": "Fireside Ventures",
   "period": "April-May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/05/chosen-raises-5-mn-in-series-a-led-by-fireside-ventures-lorals-bold",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 324,
@@ -4529,11 +4529,11 @@
   "round": "Series A",
   "investors": "Earthfund",
   "period": "April-May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/aurm-raises-rs-42-cr-in-series-a-round-led-by-earth-fund-and-sattva-ventures-11799095",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 325,
@@ -4543,11 +4543,11 @@
   "round": "Seed",
   "investors": "SailThru Ventures",
   "period": "April-May 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] SailThru Ventures investment confirmed but timing is March 2026, not April-May. Exact amount remains undisclosed.",
+  "checked": true
  },
  {
   "idx": 326,
@@ -4557,11 +4557,11 @@
   "round": "Seed",
   "investors": "Rainmatter",
   "period": "April-May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/cleantech-startup-novorbisitus-raises-rs-1335-crore-seed-round-led-by-rainmatter-11822503",
+  "verifiedRound": "Seed",
+  "note": "[DISCREPANCY] Funding amount is ₹13.35 crore (~$1.6M) not $1.41M. Company name also NovorbisItus, not Novorbis.",
+  "checked": true
  },
  {
   "idx": 327,
@@ -4571,11 +4571,11 @@
   "round": "Seed",
   "investors": "Piper Serica",
   "period": "April-May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/piper-serica-leads-rs-10-cr-seed-round-in-aiot-startup-ubiqedge-11782019",
+  "verifiedRound": "Seed",
+  "note": "[PARTIAL] Amount is ₹10 crore (~$1.2M) not $1.05M. Round and investor confirmed for May 2026.",
+  "checked": true
  },
  {
   "idx": 328,
@@ -4585,11 +4585,11 @@
   "round": "Unattributed",
   "investors": "Bharat Forge",
   "period": "April-May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "BharatForge",
+  "sourceUrl": "https://www.bharatforge.com/assets/pdf/press-release/Press-release-Bharat-Forge-Limited-acquire.pdf",
+  "verifiedRound": "Equity",
+  "note": "[DISCREPANCY] This is a stake acquisition (30% stake at ₹129.60 crore valuation), not a traditional funding round. Announced April 30, 2026.",
+  "checked": true
  },
  {
   "idx": 329,
@@ -4599,11 +4599,11 @@
   "round": "Seed",
   "investors": "Inflection Point Ventures",
   "period": "April-May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/deep-tech-startup-ctruh-secures-25-mn-in-seed-funding-11781538",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 330,
@@ -4613,11 +4613,11 @@
   "round": "Series B",
   "investors": "GEF Capital Partners",
   "period": "April-May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/04/kimbal-raises-22m-series-round-gef-capital",
+  "verifiedRound": "Series B",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 331,
@@ -4627,11 +4627,11 @@
   "round": "Seed",
   "investors": "Futura Surgicare",
   "period": "April-May 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] Futura Surgicare/Jashvik Capital investment confirmed, but exact funding amount is undisclosed.",
+  "checked": true
  },
  {
   "idx": 332,
@@ -4641,11 +4641,11 @@
   "round": "Seed",
   "investors": "Finvolve",
   "period": "April-May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "IndianStartupNews",
+  "sourceUrl": "https://indianstartupnews.com/funding/chennai-deeptech-startup-vikra-ocean-tech-raises-1-million-to-build-indigenous-ocean-robotics-stack-11782323",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 333,
@@ -4669,11 +4669,11 @@
   "round": "Series A",
   "investors": "Indian Angel Network",
   "period": "April-May 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Inc42",
+  "sourceUrl": "https://inc42.com/buzz/sportvot-bags-%E2%82%B932-7-cr-to-take-its-sports-streaming-platform-global/",
+  "verifiedRound": "Series A",
+  "note": "[PARTIAL] Amount is ₹32.7 crore (~$3.9M) not $3.46M. Led by IAN Alpha Fund (not general Indian Angel Network). Month April-May 2026 confirmed.",
+  "checked": true
  },
  {
   "idx": 335,
@@ -4683,11 +4683,11 @@
   "round": "Series A",
   "investors": "State Bank of India",
   "period": "April-May 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
+  "verifiedRound": "Unverified",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 336,
@@ -6631,7 +6631,7 @@
   "period": "March 2026",
   "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "Unverified — likely fabricated",
+  "verifiedRound": "Unverified",
   "note": "FLAGGED AS LIKELY FABRICATED — no funding on record anywhere; Tracxn lists this company as unfunded. Recommend excluding from totals.",
   "checked": true
  },
@@ -7567,11 +7567,11 @@
   "round": "Seed",
   "investors": "HDFC Bank",
   "period": "March 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/newtrace-raises-63-mn-in-pre-series-a-round-led-by-hdfc-bank-msivc-11191069",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 542,
@@ -7595,11 +7595,11 @@
   "round": "Seed",
   "investors": "Whiteboard Capital",
   "period": "March 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/basil-health-raises-15-mn-in-pre-series-a-round-11191786",
+  "verifiedRound": "Seed",
+  "note": "[DISCREPANCY] Basil Health is beverage brand, not food service; $1.5M from Whiteboard Capital confirmed",
+  "checked": true
  },
  {
   "idx": 544,
@@ -7609,11 +7609,11 @@
   "round": "Seed",
   "investors": "Unicorn India Ventures",
   "period": "March 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/verdant-impact-raises-3-mn-in-seed-round-led-by-unicorn-india-ventures-11190942",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 545,
@@ -7623,11 +7623,11 @@
   "round": "Conventional Debt",
   "investors": "Northern Arc Capital",
   "period": "March 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/true-balance-raises-10-mn-in-debt-11187964",
+  "verifiedRound": "Conventional Debt",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 546,
@@ -7637,11 +7637,11 @@
   "round": "Series A",
   "investors": "JM Financial Private Equity",
   "period": "March 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/zoff-foods-raises-2-mn-from-jm-financial-pe-11190432",
+  "verifiedRound": "Pre-Series B",
+  "note": "[DISCREPANCY] Spice brand not online grocery; pre-Series B not Series A",
+  "checked": true
  },
  {
   "idx": 547,
@@ -7651,11 +7651,11 @@
   "round": "Series B",
   "investors": "Matrix",
   "period": "March 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Inc42",
+  "sourceUrl": "https://inc42.com/buzz/stride-ventures-financial-platform-strideone-raises-inr-250-cr-to-offer-bespoke-credit-solutions/",
+  "verifiedRound": "Series B",
+  "note": "[PARTIAL] $10.8M confirmed; investors undisclosed, Matrix not mentioned",
+  "checked": true
  },
  {
   "idx": 548,
@@ -7665,11 +7665,11 @@
   "round": "Conventional Debt",
   "investors": "Matrix",
   "period": "March 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] No corroboration for $11M StrideOne debt with Matrix",
+  "checked": true
  },
  {
   "idx": 549,
@@ -7679,11 +7679,11 @@
   "round": "Conventional Debt",
   "investors": "RevX Capital",
   "period": "March 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] No $10M from RevX Capital found",
+  "checked": true
  },
  {
   "idx": 550,
@@ -7693,11 +7693,11 @@
   "round": "Series A",
   "investors": "Prosus",
   "period": "March 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Inc42",
+  "sourceUrl": "https://inc42.com/buzz/exclusive-prosus-joins-mukesh-bansal-led-nurix-ais-cap-table-with-fresh-capital-infusion/",
+  "verifiedRound": "Series A",
+  "note": "[DISCREPANCY] Prosus Rs 135 Cr ($14.8M approx); additional funding with existing investors",
+  "checked": true
  },
  {
   "idx": 551,
@@ -7707,11 +7707,11 @@
   "round": "Series A",
   "investors": "Congruent Ventures",
   "period": "March 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
+  "verifiedRound": "Unverified",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 552,
@@ -7721,11 +7721,11 @@
   "round": "Conventional Debt",
   "investors": "Trifecta Capital",
   "period": "March 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
+  "verifiedRound": "Unverified",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 553,
@@ -7735,11 +7735,11 @@
   "round": "Series A",
   "investors": "India SME Investments",
   "period": "March 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/d2c-brand-bonkers-corner-raises-105-mn-at-48-mn-valuation-11179893",
+  "verifiedRound": "Series A",
+  "note": "[DISCREPANCY] $15M Series A (not $10.5M) from India SME Investments",
+  "checked": true
  },
  {
   "idx": 554,
@@ -7749,11 +7749,11 @@
   "round": "PE",
   "investors": "ValueQuest",
   "period": "March 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
+  "verifiedRound": "Unverified",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 555,
@@ -7763,11 +7763,11 @@
   "round": "Series B",
   "investors": "Bertelsmann India Investments",
   "period": "March 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/rural-commerce-startup-rozana-raises-rs-290-cr-in-series-b-led-by-bertelsmann-11179444",
+  "verifiedRound": "Series B",
+  "note": "[DISCREPANCY] Rs 290 Cr ($31.6M not $26.6M)",
+  "checked": true
  },
  {
   "idx": 556,
@@ -7791,11 +7791,11 @@
   "round": "Conventional Debt",
   "investors": "Bertelsmann India Investments",
   "period": "March 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/rozana-raises-%E2%82%B95-mn-in-debt-alongside-series-b-led-by-bertelsmann-india-investments-11807841",
+  "verifiedRound": "Conventional Debt",
+  "note": "[PARTIAL] Debt mentioned but Bertelsmann involvement unconfirmed",
+  "checked": true
  },
  {
   "idx": 558,
@@ -7805,11 +7805,11 @@
   "round": "Seed",
   "investors": "OneFlow Holdings",
   "period": "March 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/healthtech-startup-cent-secures-funding-from-oneflow-south-park-commons-11179508",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 559,
@@ -7847,11 +7847,11 @@
   "round": "Seed",
   "investors": "Rainmatter",
   "period": "March 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/exclusive/exclusive-rainmatter-leads-infinityboxs-pre-series-a-round-11177343",
+  "verifiedRound": "Pre-Series A",
+  "note": "[DISCREPANCY] Rs 14.1 Cr ($1.7M); Pre-Series A not Seed",
+  "checked": true
  },
  {
   "idx": 562,
@@ -7861,11 +7861,11 @@
   "round": "Series B",
   "investors": "Acacia Inclusion",
   "period": "March 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/exclusive/exclusive-battery-smart-kicks-off-pre-series-c-funding-round-11176828",
+  "verifiedRound": "Pre-Series C",
+  "note": "[DISCREPANCY] $7.4M pre-Series C not Series B",
+  "checked": true
  },
  {
   "idx": 563,
@@ -7903,11 +7903,11 @@
   "round": "Post IPO",
   "investors": "Caspian Debt",
   "period": "March 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] No $3.63M Moneyboxx debt with Caspian found",
+  "checked": true
  },
  {
   "idx": 566,
@@ -7945,11 +7945,11 @@
   "round": "Seed",
   "investors": "Filadd",
   "period": "March 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
+  "verifiedRound": "Unverified",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 569,
@@ -7973,11 +7973,11 @@
   "round": "Series B",
   "investors": "Playbook Partners",
   "period": "March 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/kaartech-raises-11-mn-led-by-playbook-partners-11187444",
+  "verifiedRound": "Series B",
+  "note": "[PARTIAL] $11M from Playbook confirmed; announced March not February",
+  "checked": true
  },
  {
   "idx": 571,
@@ -8001,11 +8001,11 @@
   "round": "Seed",
   "investors": "Ankur Capital",
   "period": "February 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Inc42",
+  "sourceUrl": "https://inc42.com/buzz/exclusive-turiyam-ai-raises-4-mn-to-build-full-stack-ai-hardware-platform/",
+  "verifiedRound": "Seed",
+  "note": "[DISCREPANCY] $4M from Ankur Capital; announced March not February",
+  "checked": true
  },
  {
   "idx": 573,
@@ -8015,11 +8015,11 @@
   "round": "Series F",
   "investors": "Accel",
   "period": "February 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/deepinder-goyals-new-startup-temple-raises-54-mn-at-a-190-mn-valuation-11161849",
+  "verifiedRound": "Seed",
+  "note": "[DISCREPANCY] $54M with Steadview confirmed; announced February 2026",
+  "checked": true
  },
  {
   "idx": 574,
@@ -8029,11 +8029,11 @@
   "round": "Series B",
   "investors": "Dabur",
   "period": "February 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/ras-luxury-skincare-raises-75-mn-in-series-b-led-by-dabur-ventures-11171406",
+  "verifiedRound": "Series B",
+  "note": "[PARTIAL] $7.5M from Dabur; announced early March not February",
+  "checked": true
  },
  {
   "idx": 575,
@@ -8043,11 +8043,11 @@
   "round": "Series A",
   "investors": "Prime Venture Partners",
   "period": "February 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/quick-commerce-enabler-inamo-raises-8-mn-led-by-prime-venture-partners-11167854",
+  "verifiedRound": "Series A",
+  "note": "[DISCREPANCY] $8M not $6M; announced March not February",
+  "checked": true
  },
  {
   "idx": 576,
@@ -8057,11 +8057,11 @@
   "round": "Venture Debt",
   "investors": "Prime Venture Partners",
   "period": "February 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/quick-commerce-enabler-inamo-raises-8-mn-led-by-prime-venture-partners-11167854",
+  "verifiedRound": "Venture Debt",
+  "note": "[PARTIAL] $2M venture debt portion confirmed",
+  "checked": true
  },
  {
   "idx": 577,
@@ -8071,11 +8071,11 @@
   "round": "PE",
   "investors": "Trident Growth Partners",
   "period": "February 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/companies/start-ups/sfo-tech-raises-750-cr-funding-led-by-trident-growth-amicus-capital-126030100535_1.html",
+  "verifiedRound": "PE",
+  "note": "[DISCREPANCY] Rs 750 Cr ($90M not $82M); announced March not February",
+  "checked": true
  },
  {
   "idx": 578,
@@ -8085,11 +8085,11 @@
   "round": "Series B",
   "investors": "Epiq Capital",
   "period": "February 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/pronto-raises-25-mn-in-series-b-led-by-epiq-capital-11170918",
+  "verifiedRound": "Series B",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 579,
@@ -8099,11 +8099,11 @@
   "round": "Unattributed",
   "investors": "Bessemer Venture Partners",
   "period": "February 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Inc42",
+  "sourceUrl": "https://inc42.com/buzz/exclusive-innoviti-closes-series-m-funding-round-at-%E2%82%B9104-cr/",
+  "verifiedRound": "Series M",
+  "note": "[PARTIAL] Rs 104 Cr ($11.4M) and Bessemer confirmed; Series M not Unattributed",
+  "checked": true
  },
  {
   "idx": 580,
@@ -8127,11 +8127,11 @@
   "round": "Seed",
   "investors": "Indian Angel Network",
   "period": "February 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/02/startup-news-and-updates-daily-roundup-february-27-2026",
+  "verifiedRound": "Seed",
+  "note": "[PARTIAL] Seed from Indian Angel Network confirmed; specific $1.1M unconfirmed",
+  "checked": true
  },
  {
   "idx": 582,
@@ -8141,11 +8141,11 @@
   "round": "Seed",
   "investors": "Undisclosed",
   "period": "February 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Inc42",
+  "sourceUrl": "https://inc42.com/buzz/grevoro-bags-%E2%82%B943-cr-from-family-offices-to-build-low-carbon-products/",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 583,
@@ -8169,11 +8169,11 @@
   "round": "Seed",
   "investors": "Steadview",
   "period": "February 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/deepinder-goyals-new-startup-temple-raises-54-mn-at-a-190-mn-valuation-11161849",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 585,
@@ -8197,11 +8197,11 @@
   "round": "Series A",
   "investors": "Aavishkaar Capital",
   "period": "February 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/aavishkaar-capital-leads-rs-60-cr-round-in-debt-relief-platform-freed-11158185",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 587,
@@ -8239,11 +8239,11 @@
   "round": "Seed",
   "investors": "SIG Venture Capital",
   "period": "February 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/gushwork-secures-9-mn-led-by-susquehanna-asia-vc-11157636",
+  "verifiedRound": "Seed",
+  "note": "[DISCREPANCY] Lead is Susquehanna Asia VC not SIG Venture Capital",
+  "checked": true
  },
  {
   "idx": 590,
@@ -8253,11 +8253,11 @@
   "round": "Series A",
   "investors": "Accel",
   "period": "February 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/spintly-raises-8-mn-from-accel-enrission-india-and-others-11160379",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 591,
@@ -8267,11 +8267,11 @@
   "round": "Seed",
   "investors": "Amitoj Singh",
   "period": "February 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/healthcare-platform-gut-clinic-raises-1-mn-in-seed-round-11153828",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 592,
@@ -8281,11 +8281,11 @@
   "round": "Seed",
   "investors": "3one4 Capital",
   "period": "February 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/medical-equipment-startup-pulse-secures-4-mn-led-by-30ne4-capital-11152811",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 593,
@@ -8309,11 +8309,11 @@
   "round": "Seed",
   "investors": "Pentathlon Ventures",
   "period": "February 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/content/press-releases-ani/superprocure-a-unified-tms-platform-secures-14-cr-investment-led-by-pentathlon-ventures-126022500400_1.html",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 595,
@@ -8323,11 +8323,11 @@
   "round": "Series B",
   "investors": "Vaom Special Opportunity",
   "period": "February 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/companies/start-ups/varaha-series-b-45-million-westbridge-capital-126020401702_1.html",
+  "verifiedRound": "Series B",
+  "note": "[DISCREPANCY] $45M from WestBridge not $2.2M from Vaom; climate-tech not air pollution",
+  "checked": true
  },
  {
   "idx": 596,
@@ -8351,11 +8351,11 @@
   "round": "Series A",
   "investors": "360 One",
   "period": "February 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/home-essentials-raises-rs-70-cr-in-pre-series-b-led-by-360-one-asset-11154140",
+  "verifiedRound": "Pre-Series B",
+  "note": "[PARTIAL] Rs 70 Cr ($7.7M) confirmed; Pre-Series B not Series A",
+  "checked": true
  },
  {
   "idx": 598,
@@ -11781,11 +11781,11 @@
   "round": "Seed",
   "investors": "NB Ventures",
   "period": "January 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/edgistify-raises-14-mn-from-nb-ventures-and-rajesh-ranavat-10992138",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 843,
@@ -11795,11 +11795,11 @@
   "round": "Seed",
   "investors": "Modulor Capital",
   "period": "January 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] Company and investor exist but no specific announcement found for January 2026",
+  "checked": true
  },
  {
   "idx": 844,
@@ -11809,11 +11809,11 @@
   "round": "Seed",
   "investors": "August One",
   "period": "January 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
+  "verifiedRound": "Unverified",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 845,
@@ -11823,11 +11823,11 @@
   "round": "Seed",
   "investors": "Lighthouse Canton",
   "period": "January 2026",
-  "sourceLabel": "Not yet checked",
+  "sourceLabel": "Unverified — no corroboration found",
   "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "verifiedRound": "Unverified",
+  "note": "[UNVERIFIED] No corroboration found for Lighthouse Canton investment in January 2026",
+  "checked": true
  },
  {
   "idx": 846,
@@ -11837,11 +11837,11 @@
   "round": "Angel",
   "investors": "Undisclosed",
   "period": "January 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/01/how-this-deeptech-startup-is-driving-seaweed-cultivation-along-the-western-coast-of-india",
+  "verifiedRound": "Angel",
+  "note": "[DISCREPANCY] Amount reported as Rs 15 crore (~$1.79M) not $1.67M",
+  "checked": true
  },
  {
   "idx": 847,
@@ -11851,11 +11851,11 @@
   "round": "Seed",
   "investors": "Inflection Point Ventures",
   "period": "January 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/01/nbfc-varthana-bags-6m-loan-from-waterequity-for-school-sanitation-projects",
+  "verifiedRound": "Conventional Debt",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 848,
@@ -11865,11 +11865,11 @@
   "round": "Conventional Debt",
   "investors": "WaterEquity",
   "period": "January 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/haircare-brand-done-raises-3-mn-in-series-a-led-by-rtp-global-10980040",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 849,
@@ -11879,11 +11879,11 @@
   "round": "Series A",
   "investors": "RTP Global",
   "period": "January 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Inc42",
+  "sourceUrl": "https://inc42.com/buzz/d2c-brand-antinorm-bags-inr-28-cr-to-expand-product-portfolio/",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 850,
@@ -11907,11 +11907,11 @@
   "round": "Seed",
   "investors": "Fireside Ventures",
   "period": "January 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/ai-services-startup-aivar-raises-46-mn-from-sorin-investments-and-bessemer-10980240",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 852,
@@ -11921,11 +11921,11 @@
   "round": "Seed",
   "investors": "Sorin",
   "period": "January 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/companies/start-ups/arrowhead-raises-3-mn-to-expand-human-like-voice-ai-for-financial-sales-126010600930_1.html",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 853,
@@ -11963,11 +11963,11 @@
   "round": "Seed",
   "investors": "Aroa Venture Partners",
   "period": "January 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
+  "sourceLabel": "Business Standard",
+  "sourceUrl": "https://www.business-standard.com/content/press-releases-ani/aroa-invests-in-c-zentrix-an-ai-powered-ccaas-provider-126010700930_1.html",
   "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "note": "[PARTIAL] Investment confirmed but amount and specific round details not available",
+  "checked": true
  },
  {
   "idx": 856,
@@ -11991,11 +11991,11 @@
   "round": "Seed",
   "investors": "Incubate Fund India",
   "period": "January 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "YourStory",
+  "sourceUrl": "https://yourstory.com/2026/01/proptech-startup-flent-raises-rs-21-cr-to-expand-premium-housing-rental-platform",
+  "verifiedRound": "Pre-Series A",
+  "note": "[DISCREPANCY] Amount reported as ~$2.3M (Rs 21 Cr) not $1.89M; investor is Incubate Fund Asia not Incubate Fund India",
+  "checked": true
  },
  {
   "idx": 858,
@@ -12005,11 +12005,11 @@
   "round": "Seed",
   "investors": "Stellaris Venture Partners",
   "period": "January 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/voice-ai-startup-arrowhead-raises-3-mn-in-seed-round-led-by-stellaris-10977766",
+  "verifiedRound": "Seed",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 859,
@@ -12019,11 +12019,11 @@
   "round": "Seed",
   "investors": "Venture Catalysts",
   "period": "January 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/ev-charging-startup-roadgrid-raises-rs-12-cr-in-pre-series-a-round-10978135",
+  "verifiedRound": "Pre-Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 860,
@@ -12033,11 +12033,11 @@
   "round": "Series A",
   "investors": "Spring",
   "period": "January 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/skininspired-raises-29-mn-led-by-spring-marketing-capital-10976401",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 861,
@@ -12075,11 +12075,11 @@
   "round": "Conventional Debt",
   "investors": "Trifecta Capital",
   "period": "January 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/snippets/exclusive-freshtohome-to-raise-rs-75-cr-in-debt-funding-10965347",
+  "verifiedRound": "Conventional Debt",
   "note": "",
-  "checked": false
+  "checked": true
  },
  {
   "idx": 864,
@@ -12089,11 +12089,11 @@
   "round": "Series D",
   "investors": "GEF Capital Partners",
   "period": "January 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
-  "note": "",
-  "checked": false
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/agritech-firm-aryaag-raises-over-80-mn-in-series-d-from-gef-capital-10965656",
+  "verifiedRound": "Series D",
+  "note": "[DISCREPANCY] Amount reported as ~$80.3M not $56.2M",
+  "checked": true
  },
  {
   "idx": 865,
@@ -12103,10 +12103,10 @@
   "round": "Series A",
   "investors": "Accel",
   "period": "January 2026",
-  "sourceLabel": "Not yet checked",
-  "sourceUrl": "",
-  "verifiedRound": "",
+  "sourceLabel": "Entrackr",
+  "sourceUrl": "https://entrackr.com/news/knight-fintech-raises-236-mn-led-by-accel-10965193",
+  "verifiedRound": "Series A",
   "note": "",
-  "checked": false
+  "checked": true
  }
 ]
