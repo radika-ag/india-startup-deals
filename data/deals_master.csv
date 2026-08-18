@@ -1,0 +1,866 @@
+#,Startup,Sector,Amount,Round (original),Investors,Period,Source Outlet,Source URL,Verified Round,Correction/Discrepancy Notes
+1,Eppeltone Engineers,Energy (Electricity Transmission),$2.29M,Post IPO,Waaree Energies,August 2026,Unverified — no corroboration found,,Unverified,
+2,LogiXair,Consumer/Logistics Tech,Undisclosed,Seed,"TCA, T-Hub",August 2026,Unverified — no corroboration found,,Unverified,
+3,FlowerAura,Consumer/Online Gifting,$10.5M,Series A,Faering Capital,August 2026,YourStory,https://yourstory.com/2026/08/bakingo-parent-fa-gifts-raises-nearly-100-crore-faering-capital,Unclear,[DISCREPANCY] No independent FlowerAura round found; only sibling company Bakingo's Series B raise is documented under the same investor.
+4,Bakingo,Consumer/Online Gifting,$10.5M,Series B,Faering Capital,August 2026,Entrackr,https://entrackr.com/exclusive/exclusive-bakingo-raises-rs-100-cr-at-26x-higher-valuation-12246734,Series B,
+5,BlissClub,Consumer/Fashion Tech,$16.8M,Series A,Singularity AMC,August 2026,Entrackr,https://entrackr.com/news/d2c-athleisure-brand-blissclub-raises-rs-160-cr-in-series-b-led-by-singularity-amc-12238770,Series B,[DISCREPANCY] Listed as Series A; press reports Series B.
+6,Benne,Food/Food Service,$3.7M,Seed,Claypond Capital,August 2026,Entrackr,https://entrackr.com/exclusive/exclusive-dosa-chain-benne-raises-rs-35-cr-led-by-rajan-pais-claypond-capital-12238246,Pre-Series A,[DISCREPANCY] Listed as Seed; press reports Pre-Series A.
+7,Mintoak,FinTech/Payments,$9M,Conventional Debt,BlackSoil,August 2026,Entrackr,https://entrackr.com/snippets/blacksoil-funds-rs-80-cr-debt-for-mintoaks-icc-loyalty-acquisition-12235773,Debt,
+8,AMIGO,Food Tech,$473K,Seed,Foxhog.vc,August 2026,Indian Retailer,https://www.indianretailer.com/news/funding-alert-food-delivery-startup-amigo-secures-rs-45-cr-expands-kolkata,Pre-seed,
+9,90+ My Tuition App,EdTech/K-12,Undisclosed,Series A,Equity Intelligence,August 2026,Unverified — no corroboration found,,Unverified,
+10,Vasuki India,Financial Services/Asset Mgmt,$10.5M,Series A,Undisclosed,August 2026,Unverified — no corroboration found,,Unverified,
+11,Consint,HealthTech/Healthcare IT,$2.31M,Series A,BIG Global Investments,August 2026,Entrackr,https://entrackr.com/snippets/healthcare-ai-startup-consintai-raises-rs-22-cr-in-series-a-round-12234521,Series A,
+12,Hulp,Consumer/Local Services,$2.6M,Seed,Sparrow Capital,August 2026,Inc42,https://inc42.com/buzz/ai-concierge-startup-hulp-raises-2-6-mn-from-sparrow-capital-bitkraft/,Seed,
+13,Mitti Labs,Food/Crop Tech,$9.5M,Series A,Aramco Ventures,August 2026,YourStory,https://yourstory.com/2026/08/mitti-labs-raised-over-9-million-aramco-saudi,Series A,
+14,Vingo,Retail/E-Commerce,$1.2M,Seed,India Quotient,August 2026,Entrackr,https://entrackr.com/snippets/c2c-marketplace-vingo-raises-rs-10-cr-seed-round-led-by-indiaquotient-12231153,Seed,
+15,Inrisk Labs,FinTech/Insurance IT,$27M,Series A,Bessemer Venture Partners,August 2026,YourStory,https://yourstory.com/2026/08/insurtech-startup-inrisk-labs-raises-27-million-in-series-a,Series A,
+16,Club Emerald,Travel/Hotels,$11M,Post IPO,Lighthouse Canton,August 2026,Entrackr,https://entrackr.com/snippets/lighthouse-canton-closes-rs-1050-mn-private-credit-investment-in-emerald-leisures-12231787,Unclear,"[DISCREPANCY] Company is ""Emerald Leisures""; ""Post IPO"" status not clearly verified in coverage."
+17,Rideriver,Energy Tech/EVs,$102M,Series C,Elev8,August 2026,Entrackr,https://entrackr.com/news/river-mobility-raises-120-mn-in-series-c-led-by-elev8-claypond-capital-12232629,Series C,"[DISCREPANCY] Listed $102M; press reports $120M. Company is ""River Mobility""."
+18,Rideriver,Energy Tech/EVs,$18M,Venture Debt,Alteria Capital,August 2026,Not yet checked,,,
+19,Sapiom,Undisclosed Sector,$35M,Series A,DRAGONFLY,August 2026,Unverified — no corroboration found,,Unverified,
+20,Nyai,Enterprise/Legal Tech,$1.5M,Seed,Undisclosed,August 2026,Entrackr,https://entrackr.com/snippets/legal-tech-startup-nyai-raises-15-mn-in-seed-round-12227113,Seed,
+21,Vaaree,Retail/Home Improvements,$6.82M,Series A,Cap Alpha Ventures,August 2026,YourStory,https://yourstory.com/2026/08/home-decor-furnishings-marketplace-vaaree-series-a-funding,Series A,
+22,Stable Money,FinTech/Investment Tech,$14.3M,Series C,Fundamentum,August 2026,Entrackr,https://entrackr.com/exclusive/exclusive-stable-money-kicks-off-series-c-with-143-mn-from-existing-investors-12226556,Series C,
+23,Superleap,Enterprise/Sales Automation,$3.78M,Seed,Peak XV Partners,August 2026,Entrackr,https://entrackr.com/snippets/superleap-raises-rs-36-cr-in-pre-series-a-round-led-by-peak-xvs-surge-12226051,Pre-Series A,[DISCREPANCY] Listed as Seed; press reports Pre-Series A.
+24,Zoppler Systems,Defense/Military Tech,$682K,Seed,Finvolve,August 2026,Entrackr,https://entrackr.com/snippets/zoppler-systems-raises-rs-65-cr-from-finvolve-and-india-accelerator-12227359,Seed,
+25,Ai-Horizon,AI/Speech Recognition,Undisclosed,Seed,Source1 Technologies,August 2026,Unverified — no corroboration found,,Unverified,
+26,Sarvam,High Tech/AI,$75M,Series B,Activate,August 2026,Inc42,https://inc42.com/buzz/sarvam-to-raise-74-mn-in-series-b-extension-from-nvidia-others/,Series B Extension,"[DISCREPANCY] Listed $75M; press reports $74M, and this is a Series B extension, not the main round."
+27,GetVantage,FinTech/Alternative Lending,Undisclosed,Conventional Debt,VCMint,August 2026,Unverified — no corroboration found,,Unverified,
+28,GetVantage,FinTech/Alternative Lending,$6.6M,Series A,Chiratae Ventures,August 2026,YourStory,https://yourstory.com/2026/08/fintech-platform-getvantage-raises-rs-63-cr-in-series-a1-round,Series A1,[DISCREPANCY] Listed as Series A; press reports Series A1.
+29,Profound,Enterprise/MarketingTech,$1.5M,Seed,3one4 Capital,August 2026,Entrackr,https://entrackr.com/snippets/former-swiggy-zomato-executives-launch-ai-startup-profound-with-15-mn-seed-round-12225874,Seed,
+30,Matel,Electric Vehicles,$13.6M,Series B,UC Impower,August 2026,Entrackr,https://entrackr.com/news/transition-vc-backed-matel-raises-rs-130-cr-in-series-b-round-led-by-uc-impower-12223669,Series B,
+31,Bridge Bharat,Art E-Commerce,Undisclosed,Seed,VSS Investments Fund,August 2026,Inc42,https://inc42.com/company/bridge-bharat/,Seed,[PARTIAL] Company confirmed with VSS backing; specific August 2026 seed round not independently verified.
+32,Kaapi Machines,Foodservice Equipment,$5.24M,Series A,Sedna Horeca,August 2026,YourStory,https://yourstory.com/2026/08/kaapi-machines-raises-rs-50-cr-from-sedna-horeca,Series A,
+33,RoadGrid,Electric Vehicles,$1.36M,Grant,Technology Development Board,August 2026,Entrackr,https://entrackr.com/snippets/ev-charging-startup-roadgrid-secures-rs-13-cr-from-technology-development-board-12222755,Grant,[DISCREPANCY] Listed $1.36M; press reports ~Rs 13cr (~$1.55M).
+34,SUIND,Drones,$2.2M,Seed,Transition VC,August 2026,Entrackr,https://entrackr.com/snippets/drone-startup-suind-raises-rs-205-cr-in-seed-round-led-by-transition-vc-12210797,Seed,
+35,Vault by Virat Kohli,Fitness/Wellness,Undisclosed,Angel,Virat Kohli,August 2026,Entrackr,https://entrackr.com/snippets/vault-onboards-virat-and-vikas-kohli-as-strategic-investors-12212152,Strategic,"[PARTIAL] Strategic investment/equity stake, not a traditional angel round."
+36,Truth And Hair,Beauty Tech,$564K,Seed,Inflection Point Ventures,August 2026,StartupTalky,https://startuptalky.com/news/truth-hair-raises-5-4-crore-in-seed-round-funding/,Seed,
+37,Aham Housing Finance,Consumer Loans,$10.4M,Series B,Sanmar Group,August 2026,YourStory,https://yourstory.com/2026/07/aham-housing-finance-raises-rs-100-cr-from-the-sanmar-group,Series B,
+38,Mahindra Last Mile Mobility,Auto Brands,$33.6M,Series C,Lightrock,August 2026,Unverified — no corroboration found,,Unverified,
+39,Tevanovatechtrade,Manufacturing/Printing,$12.5K,Grant,Kerala Startup Mission,August 2026,Unverified — no corroboration found,,Unverified,
+40,Arboreal,Food Tech,$24M,Series A,Omnivore,August 2026,Entrackr,https://entrackr.com/news/arboreal-bioinnovations-raises-rs-230-cr-in-series-a-led-by-edelweisss-eaaa-and-omnivore-12211900,Series A,"[CONFIRMED] Company is ""Arboreal Bioinnovations""."
+41,Omega Seiki Mobility,Electric Vehicles,$6M,Strategic,"Securocorp, Sangeeta Pareekh, Saket Aggarwal Family Office, Vanshika Sharma",August 2026,YourStory,https://yourstory.com/2026/07/omega-seiki-mobility-raises-rs-50-crore,Strategic (not Angel),"CORRECTED — original entry ($73.1K Angel, Roopsi Agarwal) didn't match any real deal. Actual raise was ₹50cr (~$6M) strategic round (YourStory, Inc42)."
+42,Apnamart,Retail Chains,$12.7M,Series C,Accel,August 2026,Entrackr,https://entrackr.com/news/apna-mart-raises-rs-120-cr-in-series-c-round-led-by-accel-fundamentum-12211453,Series C,
+43,Revspot,Sales Automation,$4.8M,Series A,Inflexor,August 2026,YourStory,https://yourstory.com/2026/07/ai-startup-revspot-raises-funding-series-a-round,Series A,
+44,Walbha,Bioenergy,$1.04M,Seed,Recykal,August 2026,Entrackr,https://entrackr.com/snippets/circular-economy-company-recykal-invests-rs-10-cr-in-walbha-industries-12205320,Seed,
+45,Yaanendriya,Sensors,$1.56M,Seed,Piper Serica,August 2026,Entrackr,https://entrackr.com/snippets/piper-serica-leads-rs-15-cr-seed-round-in-deep-tech-startup-yaanendriya-12205479,Seed,
+46,Lohum,Energy Storage Tech,$24M,Series C,Poonawalla Vision Fund,August 2026,Unverified — no corroboration found,,Unverified,
+47,Happy Pet,Pet Tech,$525K,Seed/Strategic,Angel group; Dr. Devi Shetty (strategic),August 2026,ANI News,https://aninews.in/news/business/happy-pet-indias-first-pet-tech-company-secures-strategic-funding-from-dr-devi-shetty20260217121514/,Seed/Strategic,CORRECTED — amount was ~10x too low and investor was fabricated. Real raise is ₹5cr with strategic backing from Dr. Devi Shetty (ANI News).
+48,Urban Harvest,Food/Beverage Products,$35.4M,Series D,Info Edge Ventures,July 2026,Entrackr,https://entrackr.com/exclusive/exclusive-urban-harvest-board-to-approve-rs-341-cr-series-d-round-from-58-investors-12191374,Series D,
+49,Mikiamo Limoncello,Alcoholic Beverages,Undisclosed,Seed,Diageo India,July 2026,Unverified — no corroboration found,,Unverified,
+50,Omega Seiki Mobility,Electric Vehicles,$5.18M,Series A,Securocrop Securities,July 2026,Entrackr,https://entrackr.com/snippets/electric-commercial-vehicle-manufacturer-omega-seiki-mobility-raises-rs-50-cr-12201685,Series A,
+51,Beyond The Sugar,Food/Beverage,$104K,Seed,Not Disclosed,July 2026,Whalesbook,https://www.whalesbook.com/news/English/startupsvc/Beyond-The-Sugar-Raises-indian-rupee1-Crore-After-Viral-LinkedIn-Post/6a4e157ee2027284097010bc,Bridge,
+52,Carpl,HealthTech/Healthcare IT,$10M,Series A,Stellaris,July 2026,Entrackr,https://entrackr.com/snippets/healthtech-startup-carplai-raises-10-mn-series-a-led-by-ifc-12191147,Series A,[DISCREPANCY] Led by IFC not Stellaris
+53,Upkraft,Consumer/Music Tech,$166K,Seed,PedalStart,July 2026,Indian Startup News,https://indianstartupnews.com/funding/extracurricular-learning-platform-upkraft-raises-rs-16-crore-in-funding-led-by-pedalstart-12190868,Pre-seed,
+54,BUSINESSNEXT,FinTech/Insurance IT,$40M,Series B,ServiceNow,July 2026,Entrackr,https://entrackr.com/news/businessnext-raises-40-mn-from-servicenow-ventures-at-700-mn-valuation-12189549,Series C,[DISCREPANCY] Series C not Series B
+55,NeuralKart,FinTech/Insurance IT,$244K,Seed,Inflection Point Ventures,July 2026,Entrackr,https://entrackr.com/snippets/ai-insurtech-startup-neuralkart-raises-seed-funding-led-by-inflection-point-ventures-12189954,Seed,
+56,Farm Watt,Food/Crop Tech,$3.37M,Seed,Indian Angel Network,July 2026,Entrackr,https://entrackr.com/snippets/farm-watt-innovations-raises-rs-325-cr-co-led-by-ian-alpha-fund-and-rainmatter-12190175,Seed,[DISCREPANCY] Co-led by IAN Alpha Fund and Rainmatter
+57,Bioscan Research,Life Sciences/Neurology,$1M,Seed,Unicorn India Ventures,July 2026,Entrackr,https://entrackr.com/snippets/medtech-startup-bioscan-research-raises-1-mn-in-seed-round-led-by-unicorn-india-ventures-12186756,Seed,
+58,Shapoorji Pallonji,Conglomerates,$1.6B,Conventional Debt,DSP Finance,July 2026,Business Standard,https://www.business-standard.com/companies/news/shapoorji-pallonji-group-closes-one-of-india-s-biggest-private-credit-deals-126072001554.html,Conventional Debt,
+59,Ather Energy,Energy Tech/EVs,$135M,Post IPO,ADIA,July 2026,Business Standard,https://www.business-standard.com/companies/start-ups/india-s-ather-energy-to-raise-125-million-via-share-issue-warrants-126071500813.html,Post IPO,
+60,Agropak,Industrial/Packaging Tech,$32.6K,Grant,Pilani Innovation Entrepreneurship,July 2026,StartupTalky,https://startuptalky.com/news/agropak-bags-31-4-lakh-non-dilutive-grant-at-suscrunch-2026-zerodha-3one4-capital-reliance-join-climate-push/,Grant,
+61,Fire AI,Enterprise/Business Intelligence,$259K,Seed,SucSEED Indovation,July 2026,Entrackr,https://entrackr.com/snippets/fireai-raises-rs-25-cr-from-sucseed-indovation-fund-12184501,Seed,
+62,Suminter,Food/Beverage,$2.6M,Conventional Debt,BlackSoil,July 2026,Entrackr,https://entrackr.com/snippets/suminter-india-organics-secures-rs-25-cr-debt-from-blacksoil-capital-12184884,Conventional Debt,
+63,Hop,FinTech/Banking Tech,$950K,Strategic Acquisition,Zaggle,July 2026,FinTech Futures,https://www.fintechfutures.com/m-a/zaggle-to-acquire-minority-stake-in-unobanc,Strategic acquisition,"CORRECTED — not a seed round. This is Zaggle acquiring up to 19.9% of Unobanc (Hop's subsidiary), up to ₹7.96cr (FinTech Futures)."
+64,Khageshvara Aviation,Consumer/Online Travel,Undisclosed,Seed,Finvolve,July 2026,Unverified — no corroboration found,,Unverified,[UNVERIFIED] Amount undisclosed
+65,Bringgg,Consumer/Logistics Tech,$41.5K,Seed,Not Disclosed,July 2026,The Chenab Times,https://thechenabtimes.com/2026/07/21/andhra-pradesh-startup-bringgg-secures-investment-from-nris/,Angel (NRI),
+66,VERIQUS,Investment Tech,$40.1M,Series C,Norwest,July 2026,Entrackr,https://entrackr.com/news/wealthtech-platform-veriqus-raises-rs-387-cr-in-funding-round-led-by-norwest-12182570,Series C,
+67,Raghu Vamsi,Aircraft Parts Manufacturing,$40M,Series B,Norwest,July 2026,Entrackr,https://entrackr.com/news/raghu-vamsi-aerospace-group-raises-40-mn-led-by-norwest-skegen-asset-management-12181153,Series B,
+68,LNGVTY,Beauty/Personal Care,$518K,Seed,Rukam Capital,July 2026,Entrackr,https://entrackr.com/snippets/rukam-capital-leads-seed-round-in-skin-longevity-beauty-brand-lngvty-12181648,Seed,
+69,Plazza,Healthcare Booking,$15M,Series A,Accel,July 2026,Entrackr,https://entrackr.com/news/instant-medicine-delivery-startup-plazza-raises-15-mn-led-by-accel-elevation-and-nexus-12180237,Series A,
+70,Neo Group,Investment Tech,$36.3M,Series C,Peak XV Partners,July 2026,Entrackr,https://entrackr.com/news/neo-group-raises-rs-350-cr-led-by-peak-xv-partners-12172440,Series C,
+71,Sort My Prep,Test Preparation,$350K,Seed,Undisclosed,July 2026,Business Today,https://www.businesstoday.in/technology/startups/story/bits-pilani-backed-sortmyprep-raises-350000-in-pre-seed-funding-to-expand-ai-powered-exam-preparation-platform-542672-2026-07-13,Pre-seed,
+72,Othor AI,Chatbots,$62.3K,Seed,Amit Ashu,July 2026,Dealroom,https://app.dealroom.co/news/note/othor-ai-raises-60-lakh-bridge-round-recruits-its-lead-investor-as-product-chief,Bridge,
+73,SwitchOn,Manufacturing Tech,$8M,Series A,IvyCap Ventures,July 2026,Entrackr,https://entrackr.com/news/physical-ai-startup-switchon-raises-8-mn-in-pre-series-b-round-led-by-ivycap-12168741,Pre-Series B,[DISCREPANCY] Pre-Series B not Series A
+74,Neo Wealth and Asset Management,Asset Management,$36.3M,Series C,Peak XV Partners,July 2026,Entrackr,https://entrackr.com/news/neo-group-raises-rs-350-cr-led-by-peak-xv-partners-12172440,Series C,
+75,NapTapGo,Autonomous Hotels,$831K,Seed,Inflection Point Ventures,July 2026,Indian Startup News,https://indianstartupnews.com/funding/pod-hotel-startup-naptapgo-raises-rs-8-crore-in-funding-from-inflection-point-ventures-12169964,Seed,
+76,Kalki,Social Platforms,$1.98M,Seed,Crane Venture Partners,July 2026,Unverified — no corroboration found,,Unverified,
+77,Quick Clean,Professional Services,$14M,Series B,Stakeboat Capital,July 2026,Entrackr,https://entrackr.com/snippets/quick-clean-raises-14-mn-in-series-b-round-led-by-stakeboat-capital-12168892,Series B,
+78,Groyyo,Brands Tech,$9.4M,Series B,Cornerstone Ventures,July 2026,Entrackr,https://entrackr.com/news/groyyo-raises-rs-90-cr-in-first-close-of-series-b-round-led-by-cornerstone-ventures-12170977,Series B,
+79,Promom,Online Mom/Baby Care,$3.1M,Series A,Fireside Ventures,July 2026,Entrackr,https://entrackr.com/snippets/maternal-and-baby-care-brand-promom-raises-rs-30-cr-from-fireside-ventures-12167109,Series A,
+80,Anmasa,Food/Beverage,$3.12M,Seed,Fireside Ventures,July 2026,Entrackr,https://entrackr.com/snippets/fireside-leads-rs-30-cr-seed-round-in-d2c-grocery-startup-anmasa-12165707,Seed,
+81,Open Secret,Online Grocery,$2.08M,Conventional Debt,Desai Brothers,July 2026,Unverified — no corroboration found,,Unverified,[UNVERIFIED] Debt breakdown not detailed
+82,Open Secret,Online Grocery,$3.12M,Series C,Desai Brothers,July 2026,YourStory,https://yourstory.com/2026/07/healthy-snacks-brand-open-secret-raises-rs-50-crore,Equity,[DISCREPANCY] Not labeled as Series C in press
+83,Emergent,Application Development Tools,$130M,Series C,Creaegis,July 2026,Entrackr,https://entrackr.com/news/emergent-becomes-third-ai-unicorn-of-2026-with-130-mn-series-c-led-by-creaegis-12166031,Series C,
+84,E3 Electric,Electric Vehicles,$2.6M,Conventional Debt,BluVenture Holdings,July 2026,Entrackr,https://entrackr.com/news/bluventure-leads-rs-100-cr-series-a-round-in-e3-electricai-12164631,Conventional Debt,
+85,E3 Electric,Electric Vehicles,$7.8M,Series A,BluVenture Holdings,July 2026,Entrackr,https://entrackr.com/news/bluventure-leads-rs-100-cr-series-a-round-in-e3-electricai-12164631,Series A,[DISCREPANCY] 10.5M not 7.8M
+86,Hisab Kitab,Finance/Accounting Tech,Undisclosed,Seed,Undisclosed,July 2026,Unverified — no corroboration found,,Unverified,[UNVERIFIED] Amount undisclosed
+87,Udaan,B2B E-Commerce,Undisclosed,Conventional Debt,Undisclosed,July 2026,Unverified — no corroboration found,,Unverified,[UNVERIFIED] Amount undisclosed
+88,Udaan,B2B E-Commerce,$160M,Series H,Lightspeed Venture Partners,July 2026,Entrackr,https://entrackr.com/news/udaan-announces-160-mn-structured-financing-to-strengthen-balance-sheet-12163926,Series H,
+89,4baseCare,Genomics,Undisclosed,Series B,BIRAC,July 2026,Unverified — no corroboration found,,Unverified,[UNVERIFIED] BIRAC component unclear
+90,Sea6,Aquaculture Tech,Undisclosed,Series B,BIRAC,July 2026,Unverified — no corroboration found,,Unverified,[UNVERIFIED] Amount undisclosed
+91,Revelations Biotech,Food Tech,Undisclosed,Seed,BIRAC,July 2026,Unverified — no corroboration found,,Unverified,[UNVERIFIED] Amount undisclosed
+92,Fermbox,Advanced Materials,Undisclosed,Series A,BIRAC,July 2026,Unverified — no corroboration found,,Unverified,[UNVERIFIED] Amount undisclosed
+93,Tellurisbiotech,Crop Tech,Undisclosed,Series A,BIRAC,July 2026,Unverified — no corroboration found,,Unverified,[UNVERIFIED] No July 2026 announcement
+94,ideaForge,Drones,$52.2M,Post IPO,Arohi Emerging India Master Fund,July 2026,Entrackr,https://entrackr.com/news/ideaforge-raises-500-cr-via-qip-allots-62-9-lakh-shares-12164103,Post IPO,
+95,Naturis Cosmetics,Industrial/Manufacturing,$3.53M,Series A,Sharrp Ventures,July 2026,Entrackr,https://entrackr.com/snippets/naturis-cosmetics-raises-rs-100-cr-in-maiden-institutional-round-led-by-sharrp-ventures-12169138,Series A,
+96,OneCard,FinTech,$7.6M,Series D,Peak XV Partners,July 2026,Entrackr,https://entrackr.com/exclusive/exclusive-onecard-to-raise-rs-72-cr-in-its-ongoing-series-d-round-led-by-peak-xv-12159996,Series D,[PARTIAL] Partial round only
+97,BimaKavach,FinTech,Undisclosed,Seed,Beyond Capital Ventures,July 2026,Unverified — no corroboration found,,Unverified,
+98,Sumosave,Retail,$5.23M,Series A,12 Flags Group,July 2026,"Business Standard, Entrackr",https://www.businessoffood.in/mohit-kampani-bags-rs-50-crore-to-accelerate-sumosaves-500-supermarket-vision/,Series A,
+99,Sumosave,Retail,Undisclosed,Conventional Debt,Stride Ventures,July 2026,Entrackr,https://parsers.substack.com/p/funding-rounds-report-weekly-of-july-a87,Conventional Debt,"[PARTIAL] Company and round type confirmed, amount undisclosed"
+100,Purple Style Labs,Consumer,$17M,Conventional Debt,Kairos Ventures,July 2026,Unverified — no corroboration found,,Unverified,[UNVERIFIED] Conventional Debt in July 2026 confirmed but Kairos Ventures not identified as investor
+101,Aukera,Consumer Goods,$10M,Conventional Debt,Alteria Capital,July 2026,Inc42,https://inc42.com/company/aukera/,Series B,"[DISCREPANCY] Aukera is jewelry brand, not consumer goods. Series B confirmed July 10, 2026"
+102,BiofuelCircle,Energy Tech,$3.67M,Series B,Varanium,July 2026,Inc42,https://inc42.com/buzz/biofuelcircle-raises-%E2%82%B935-cr-to-expand-its-biomass-supply-chain-ecosystem/,Bridge,"[PARTIAL] Rs 35 crore bridge funding confirmed, Series B planned for early 2027"
+103,DocsTribe,Enterprise Applications,Undisclosed,Seed,ABGD Ventures,July 2026,Business Standard,https://www.business-standard.com/content/press-releases-ani/docstribe-raises-strategic-funding-from-abgd-ventures-to-accelerate-market-expansion-across-the-us-and-gcc-126070901172_1.html,Seed,"[PARTIAL] ABGD Ventures confirmed, amount undisclosed"
+104,Savemfi,FinTech,$4.19M,Conventional Debt,Indian Overseas Bank,July 2026,Unverified — no corroboration found,,Unverified,
+105,BAAS Technologies,Defense Tech,$524K,Seed,Inflection Point Ventures,July 2026,Entrackr,https://entrackr.com/snippets/ipv-leads-pre-seed-round-in-space-tech-startup-baas-technologies-12148802,Pre-seed,
+106,Iswarya Hospital,Healthcare,$37M,Series C,Orbimed,July 2026,YourStory,https://yourstory.com/2026/07/iswarya-fertility-center-350-crore-orbimed-funding,Series C,[DISCREPANCY] Company is Iswarya Fertility/Health not Hospital. Amount Rs 355 crore (~$42.7M) vs $37M claimed
+107,Battery Smart,Energy Tech,$13M,Conventional Debt,responsAbility,July 2026,YourStory,https://yourstory.com/2026/04/battery-smart-raises-15m-debt-mirova,Conventional Debt,
+108,Wheelocity,Retail,$8.5M,Series A,Anicut Capital,July 2026,Entrackr,https://entrackr.com/news/wheelocity-raises-15-mn-led-by-lightspeed-7573595,Series A,"[PARTIAL] July 2026 funding ~Rs 82 crore confirmed, amount differs from $8.5M"
+109,V6 Clinics,Healthcare,$2M,Seed,Undisclosed,July 2026,Not yet checked,,,
+110,Adage,Environment Tech,$24.2M,Series B,Global South Capital,July 2026,YourStory,https://yourstory.com/2026/07/funding-dage-automation-230-crore-ai-led-industrial-expansion,Series B,
+111,Yotta,Enterprise Infrastructure,$150M,Series D,SBI,July 2026,Business Standard,https://www.business-standard.com/companies/start-ups/yotta-raises-150-mn-at-37-000-crore-valuation-to-fund-ai-expansion-126070500709_1.html,Series D,"[DISCREPANCY] $150M confirmed but from HNI/family offices, NOT from SBI"
+112,EnLife,Life Sciences,$630K,Seed,Piper Serica,July 2026,Entrackr,https://entrackr.com/snippets/piper-serica-leads-seed-round-in-deep-tech-startup-enlife-research-12146237,Seed,
+113,Sunstone,EdTech,$17.7M,Series D,WestBridge Capital,July 2026,YourStory,https://yourstory.com/2026/07/elevate-education-bags-170-crore-from-westbridge-capital,Series D,
+114,Avni Wellness,Retail,$420K,Seed,Puru Gupta,July 2026,Entrackr,https://entrackr.com/snippets/womens-health-brand-avni-wellness-raises-seed-round-12143541,Seed,
+115,Neothera,HealthTech,$945K,Seed,Blume Venture,July 2026,Indian Startup News,https://indianstartupnews.com/funding/science-led-skin-health-startup-neothera-raises-rs-9-crore-in-funding-from-blume-ventures-other-investors-12144956,Pre-seed,
+116,FibroHeal,Life Sciences,$1.47M,Angel,Naresh Bhat,July 2026,StartupStory,https://startupstorymedia.com/fibroheal-raises-%E2%82%B914-crore-to-fuel-next-phase-of-growth-and-entry-in-developed-markets/,Angel,[PARTIAL] Rs 14 crore with Naresh Bhat among other investors confirmed
+117,Doodhvale Farms,Food/Agriculture Tech,$1M,Seed,Atomic Capital,July 2026,Outlook Business,https://www.outlookbusiness.com/news/doodhvale-farms-raises-1-million-from-existing-investor-atomic-capital,Seed,
+118,Milo Drive,Energy Tech,$2.4M,Seed,Caret Capital,July 2026,EVReporter,https://evreporter.com/milo-drive-secures-2-4-million-seed-round-co-led-by-caret-capital-and-antler/,Seed,[PARTIAL] $2.4M confirmed but co-led by Caret Capital AND Antler
+119,Edysor,Native AI,$126K,Angel,Jasmine Sarupria,July 2026,Entrackr,https://entrackr.com/snippets/voice-ai-platform-edysorai-raises-pre-seed-round-12146048,Pre-seed,
+120,Blurgs,Defense Tech,$2.2M,Seed,Pravega Ventures,July 2026,Business Standard,https://www.business-standard.com/amp/technology/tech-news/blurgs-ai-raises-2-2-million-to-expand-maritime-defence-ai-platforms-126070700358_1.html,Seed,[PARTIAL] $2.2M confirmed but co-led by Pravega Ventures AND Shastra VC
+121,Mowito,High Tech,$3M,Seed,Version One Ventures,July 2026,Entrackr,https://entrackr.com/news/physical-ai-startup-mowito-raises-3-mn-led-by-version-one-ventures-12141325,Seed,
+122,JRG,Auto,$13.2M,Conventional Debt,Piramal Capital & Housing Finance,July 2026,Business Standard,https://www.business-standard.com/amp/companies/news/piramal-alternatives-invests-125-crore-in-jrg-automotive-industries-126070701195_1.html,Conventional Debt,"[PARTIAL] Rs 125 crore (~$15M) confirmed, amount differs from $13.2M"
+123,On-Points,Retail,$600K,Seed,First Cheque,July 2026,Entrackr,https://entrackr.com/snippets/rewards-platform-onpoint-raises-600k-in-pre-seed-round-12140935,Pre-seed,
+124,Noval Waste Management,Environment,Undisclosed,Seed,RISE,July 2026,Not yet checked,,,
+125,Fizzy Goblet,Consumer,Undisclosed,Angel,Kareena Kapoor Khan,July 2026,Business Standard,https://www.business-standard.com/companies/start-ups/d2c-startup-fizzy-goblet-gets-actor-kareena-kapoor-khan-as-investor-126070600851_1.html,Angel,"[PARTIAL] Kareena Kapoor Khan investment confirmed July 2026, amount undisclosed"
+126,Gaonrestaurant,Food/Agriculture,$1.05M,Seed,Indifi,July 2026,Unverified — no corroboration found,,Unverified,"[UNVERIFIED] GAON raised ~Rs 10 crore with Indifi as debt provider, not confirmed as Seed lead for $1.05M"
+127,Gaonrestaurant,Food/Agriculture,Undisclosed,Conventional Debt,Indifi,July 2026,Unverified — no corroboration found,,Unverified,[UNVERIFIED] GAON funding confirmed but Indifi debt round in July 2026 not independently verified
+128,Zoomcar,Consumer,$195K,Post IPO,Undisclosed,July 2026,TradingView,https://www.tradingview.com/news/tradingview:213847d0a199d:0-zoomcar-completes-195k-third-close-of-series-a-units-0-05-convert-0-0625-warrants/,Post-IPO placement,
+129,Stylework,Real Estate/Construction Tech,$1M,Series A,Auxano,July 2026,Unverified — no corroboration found,,Unverified,"[UNVERIFIED] Series A July 7, 2026 confirmed but Auxano not listed as investor, amount undisclosed"
+130,TOCAL,Logistics Tech,$1.04M,Seed,Navyug Global,July 2026,Entrackr,https://entrackr.com/snippets/ev-fleet-startup-tocal-secures-rs-9-cr-in-seed-round-12138551,Seed,
+131,RenaissThera,Diabetes Healthcare,Undisclosed,Seed,Arali Ventures,July 2026,YourStory,https://yourstory.com/2026/07/renaissthera-oral-obesity-diabetes-drugs,Seed,"[PARTIAL] Arali Ventures seed confirmed, amount undisclosed"
+132,Ninjacart,Crop Tech,$6M,Series D,Accel,July 2026,Unverified — no corroboration found,,Unverified,[UNVERIFIED] No July 2026 Series D found; Ninjacart launched $25M Agri Seed Fund instead
+133,Arvog,Alternative Lending,$5.25M,Post IPO,Franklin Templeton India,July 2026,Business Standard,https://www.business-standard.com/content/press-releases-ani/finkurve-financial-services-limited-arvog-raises-rs-50-crore-through-ncd-issuance-from-franklin-templeton-to-accelerate-growth-and-business-expansion-126070300007_1.html,Conventional Debt,"[DISCREPANCY] Rs 50 crore NCD from Franklin Templeton confirmed, not Post IPO structure"
+134,Inox Clean Energy,Renewable Energy,$73.6M,Series D,Poonawalla Family Office,July 2026,DealStreetAsia,https://www.dealstreetasia.com/stories/adar-poonawalla-family-office-inox-clean-487749,Series D,
+135,Tulon Materials,Chemicals Tech,$1.05M,Seed,Karthik Sundar Iyer,July 2026,Outlook Business,https://www.outlookbusiness.com/deeptech/specialty-chemical-start-up-tulon-materials-raises-10-cr-in-seed-round,Seed,"[PARTIAL] Rs 10 crore seed with Karthik Sundar Iyer confirmed, USD amount differs"
+136,Heatronics,Healthcare Booking,$189K,Seed,Inflection Point Ventures,July 2026,Indian Startup News,https://indianstartupnews.com/funding/healthcare-pain-management-startup-heatronics-raises-rs-18-crore-from-inflection-point-ventures-12125967,Seed,
+137,Age Care Labs,Professional Services,$9M,Series B,Rainmatter,July 2026,YourStory,https://yourstory.com/2026/07/age-care-labs-raises-85-crore-to-expand-elder-care-platform,Series B,"[PARTIAL] Rs 85 crore (~$10.2M) from Rainmatter confirmed, amount slightly differs"
+138,Supply6,Nutraceuticals Tech,$5M,Series A,Unilever Ventures,July 2026,Entrackr,https://entrackr.com/snippets/nutrition-startup-supply6-raises-rs-48-cr-led-by-unilever-ventures-12122813,Series A,
+139,Albatross Energetics,Energy Efficiency,$1.05M,Seed,Transition VC,July 2026,Entrackr,https://entrackr.com/snippets/transition-vc-leads-105-mn-pre-series-a-round-in-albatross-energetics-12122965,Seed,
+140,Data Science Wizards,AI Infrastructure,$5M,Seed,Undisclosed,July 2026,YourStory,https://yourstory.com/ai-story/enterprise-ai-firm-data-science-wizards-secures-pre-series-a-funding,Seed,"[PARTIAL] $5M pre-Series A confirmed, round type differs from Seed"
+141,BatX Energies,Energy Storage,$11M,Series A,IvyCap Ventures,July 2026,YourStory,https://yourstory.com/2026/07/cleantech-startup-batx-raises-rs-105-cr-series-a-ivycap-ventures,Series A,
+142,Dovetail Capital,Investment Services,Undisclosed,Series A,Elev8,July 2026,YourStory,https://yourstory.com/2026/07/dovetail-capital-raises-100-crore-from-elev8-venture-partners,Series A,[PARTIAL] Rs 100 crore Series A from Elev8 confirmed
+143,Limelight,Fashion Tech,$28.9M,Series B,Bhathwari Group,July 2026,YourStory,https://yourstory.com/2026/07/limelight-diamonds-raises-275-crore-series-a-ivycap-ventures,Series B,
+144,Spense,Banking Tech,$2.8M,Seed,Arkam Ventures,July 2026,Inc42,https://inc42.com/buzz/spense-raises-2-8-mn-from-arkam-ventures-to-build-secured-lending-infra/,Seed,
+145,Kapture,Enterprise/Customer Service,$10M,Series A,Cactus Partners,June 2026,YourStory,https://yourstory.com/2026/06/kapture-cx-raises-10-million-led-by-bajaj-finserv-ventures,Pre-Series B,[DISCREPANCY] Round is pre-Series B not Series A; Cactus is existing investor not lead (Bajaj Finserv leads); June 30 announcement
+146,The Indus Valley,Consumer/Household Durables,Undisclosed,Series B,Gaja Capital,June 2026,Business Standard,https://www.business-standard.com/companies/start-ups/indus-valley-raises-17-million-in-funding-round-led-by-gaja-capital-126063000703_1.html,Series B,"[PARTIAL] Batch listed amount as Undisclosed, but deal was $17M Series B."
+147,YoLearn,EdTech/K-12,$500K,Seed,dataAlpha,June 2026,Entrackr,https://entrackr.com/snippets/edtech-platform-yolearn-ai-raises-pre-seed-round-12120052,Pre-seed,
+148,The Func. Lab,HealthTech/Fitness,$1.5M,Seed,Nisaba Godrej,June 2026,Not yet checked,,,
+149,Incuspaze,Real Estate/Commercial,$15.9M,Series A,Bharat Value Fund,June 2026,YourStory,https://yourstory.com/2026/06/incuspaze-raises-rs-150-crore-led-by-bharat-value-fund,Series A,
+150,Mykare Health,HealthTech/Healthcare Booking,$1M,Series A,Andrew Parker,June 2026,Indian Startup Times,https://indianstartupnews.com/funding/healthtech-startup-mykareai-raises-1-million-to-expand-ai-healthcare-platform-12121004,Series A,[PARTIAL] Company raised $3.2M total Series A; Andrew Parker contributed $1M as part of this round.
+151,Rusk Media,Media/Film & TV,Undisclosed,Series B,Yash Raj Films,June 2026,Unverified — no corroboration found,,Unverified,
+152,Bartisans,Food/Online Grocery,$212K,Seed,Tilaknagar Industries,June 2026,Business Standard,https://www.business-standard.com/amp/markets/capital-market-news/tilaknagar-industries-invests-additional-rs-2-cr-in-bartisans-126062700397_1.html,Seed (follow-on),
+153,Lytmus,EdTech/K-12,$529K,Seed,Boundless Ventures,June 2026,Business Standard,https://www.business-standard.com/amp/companies/start-ups/lytmus-ai-raises-5-crore-in-pre-seed-round-led-by-boundless-ventures-126062800731_1.html,Pre-seed,
+154,Finnovate,FinTech/Investment Tech,$2M,Seed,Ramakant Deshpande,June 2026,Entrackr,https://entrackr.com/snippets/finnovate-raises-2m-in-pre-series-a-round-led-by-chiratae-ventures-12044185,Pre-Series A,[DISCREPANCY] Batch listed as Seed; sources confirm Pre-Series A round.
+155,Retner,Enterprise/Sales Automation,Undisclosed,Seed,Growth Sense,June 2026,Whalesbook,https://www.whalesbook.com/news/English/technology/Retnerai-Secures-Funding-From-Growth-Sense-Venture-Fund/6a3e663e1ea2458e09601001,Seed,[PARTIAL] Growth Sense investment confirmed but amount undisclosed in sources.
+156,AllHome,Real Estate/Building Materials,$21.2M,Series B,Stride Ventures,June 2026,Indian Retailer,https://www.indianretailer.com/news/funding-alert-allhome-raises-rs-200-cr-series-b-funding-led-bessemer-venture-partners,Series B,"[DISCREPANCY] Batch states Stride Ventures as lead, but round was led by Bessemer Venture Partners with Stride providing debt."
+157,Super Living,High Tech/Chatbots,$7M,Series A,Lightspeed Venture Partners,June 2026,Business Standard,https://www.business-standard.com/amp/companies/start-ups/health-tech-start-up-superliving-raises-7-million-led-by-lightspeed-126062500957_1.html,Series A,
+158,Lithium Urban Technologies,Consumer/Road Transport,Undisclosed,Series B,JSW Group,June 2026,Renewable Watch,https://renewablewatch.in/2026/06/29/jsw-green-mobility-invests-in-lithium-urban-technologies/,,"[PARTIAL] Investment from JSW Green Mobility confirmed, but amount undisclosed; batch claims $53M."
+159,Zave,FinTech/Investment Tech,$497K,Seed,Inflection Point Ventures,June 2026,Entrackr,https://entrackr.com/snippets/shopping-assistant-startup-zave-raises-bridge-round-led-by-ipv-12103687,Bridge,
+160,MediKno,Retail/Beauty Tech,Undisclosed,Seed,build3,June 2026,Unverified — no corroboration found,,Unverified,
+161,SaffronStays,Consumer/Online Travel,Undisclosed,Series A,Infinity Ventures,June 2026,Business Standard,https://www.business-standard.com/companies/start-ups/saffronstays-secures-3-5-million-funding-led-by-infinity-ventures-126062401179_1.html,Series B,[DISCREPANCY] Batch listed as Series A; press reports Series B round with $3.5M.
+162,IKIN Global,High Tech/Smart Homes,$2M,Seed,Unicorn India Ventures,June 2026,Indian Startup Times,https://www.indianstartuptimes.com/investment/iot-smart-lock-startup-ikin-global-raises-2-million-pre-series-a2-funding-to-accelerate-global-expansion/,Pre-Series A2,"[DISCREPANCY] Batch listed as Seed; sources confirm Pre-Series A2. Also sector is B2B IoT smart locks, not smart homes."
+163,AlienKind,Food/Food Service,$3.2M,Seed,Prakash Sikaria,June 2026,Indian Startup Times,https://www.indianstartuptimes.com/investment/alienkind-raises-3-2m-to-scale-its-sci-fi-qsr-and-wellness-beverage-story/,Series A,[PARTIAL] Funding co-led by Singularity AMC and Lumikai; batch only mentions Singularity AMC.
+164,Roofsol Energy,Energy/Solar,$27.6M,Conventional Debt,AIFL,June 2026,Energetica India,https://www.energetica-india.net/news/roofsol-energy-secures-inr-260-crore-funding-from-aseem-infrastructure-finance,Conventional Debt,
+165,BharatTender,Enterprise/SCM Software,$132K,Seed,Undisclosed,June 2026,Entrackr,https://entrackr.com/snippets/b2b-procurement-tech-platform-bharattender-raises-pre-seed-round-12065634,Pre-seed,
+166,Square Yards,Consumer/Real Estate Tech,Undisclosed,Conventional Debt,Undisclosed,June 2026,Unverified — no corroboration found,,Unverified,[UNVERIFIED] Amount listed as Undisclosed; unable to independently verify separate conventional debt deal in June 2026.
+167,Square Yards,Consumer/Real Estate Tech,$95.1M,Series C,Muzinich & Co,June 2026,DealStreet Asia,https://www.dealstreetasia.com/stories/square-yards-eaaa-alternatives-muzinich-486509,Series C,
+168,Blue Tokai Coffee Roasters,Food/Online Grocery,$6.87M,Series C,Bhoruka Supply Chain Solutions Holdings,June 2026,Tracxn,https://tracxn.com/d/companies/blue-tokai-coffee-roasters/__IRRnhdU7e338ACHIUcfl6SpNIOiHQYljF3-5c47zyMY,Series C,"[PARTIAL] Amount and round confirmed but sector is specialty coffee, not online grocery."
+169,LiLLBUD,Consumer/Baby & Kids,$634K,Seed,Zeropearl,June 2026,Entrackr,https://entrackr.com/snippets/toys-startup-lillbud-raises-seed-round-led-by-zeropearl-vc-12065382,Seed,
+170,KickSky,Investment/VC Funds,Undisclosed,Seed,Idea Baaz,June 2026,Business Standard,https://www.business-standard.com/companies/news/ideabaaz-acquires-25-strategic-stake-in-space-tech-accelerator-kicksky-space-lab-126062200477_1.html,Seed,[PARTIAL] Ideabaaz stake acquisition in KickSky confirmed; characterization as investment/seed funding unclear.
+171,Mitigata,FinTech/Insurance IT,$15M,Series B,Bessemer Venture Partners,June 2026,Business Standard,https://www.business-standard.com/companies/start-ups/cybersecurity-startup-mitigata-raises-15-mn-in-bessemer-led-series-b-round-126062301118_1.html,Series B,
+172,Unnati,Food/Crop Tech,$1.8M,Conventional Debt,Recur Club,June 2026,Indian Startup Times,https://www.indianstartuptimes.com/investment/unnati-agri-raises-rs-17-crore-debt-funding-from-recur-club-to-strengthen-growth-and-distribution-network/,Conventional Debt,[DISCREPANCY] Batch lists $1.8M; sources confirm ₹17 crore (~$2.04M) debt.
+173,Monk CI,Enterprise/DevOps,$450K,Seed,Campus Fund,June 2026,Dealroom,https://app.dealroom.co/news/note/monk-ci-raises-450k-pre-seed-to-reinvent-ci-for-ai-driven-software-teams,Pre-seed,
+174,CRED,Payments,$900M,Series H,Meta,June 2026,fintech.global,https://fintech.global/2026/06/24/meta-backs-cred-in-900m-series-h-at-4-5bn-value/,Series H,
+175,Recykal,Waste Management,$17.6M,Series D,Strat Ventures,June 2026,Entrackr,https://entrackr.com/exclusive/exclusive-morgan-stanley-backed-recykal-raises-18-mn-at-280-mn-valuation-12056152,Bridge,[DISCREPANCY] Batch lists Series D; sources confirm $23M bridge round with $17.6M primary deals.
+176,ForeignAdmits,Higher Education Tech,$132K,Seed,Crizac,June 2026,Entrackr,https://entrackr.com/snippets/student-mobility-platform-crizac-acquires-3741-stake-in-foreignadmits-12053445,Strategic stake acquisition,
+177,Rusk Media,Film & TV Studios,$10.6M,Series B,Audacity,June 2026,Inc42,https://inc42.com/company/rusk-media/funding/,Pre-Series C,[DISCREPANCY] Batch lists Series B; sources confirm Pre-Series C round led by Audacity (~$10.6M).
+178,Karo Sambhav,Waste Management,$6M,Seed,Rainmatter,June 2026,YourStory,https://yourstory.com/2026/06/funding-karo-sambhav-56-crore-from-rainmatter-zerodha,Pre-Series A,[DISCREPANCY] Batch lists Seed; sources confirm Pre-Series A round.
+179,Vetic,Veterinary Healthcare,$40M,Series D,Bessemer Venture Partners,June 2026,Business Standard,https://www.business-standard.com/companies/start-ups/vetic-raises-40-million-to-expand-pet-healthcare-network-126061700912_1.html,,[PARTIAL] Funding amount and lead investor confirmed; round type as Series D not explicitly confirmed in sources.
+180,Influish,MarketingTech,Undisclosed,Seed,Pankaj Vermani,June 2026,YourStory,https://yourstory.com/2026/06/creator-platform-influish-pre-seed-funding-clovia-co-founder-others,Pre-Seed,[PARTIAL] Batch lists Seed; sources confirm Pre-Seed round. Amount undisclosed.
+181,Xtovia,Beauty/Personal Care,$729K,Seed,V3 Ventures,June 2026,Entrackr,https://entrackr.com/snippets/haircare-startup-xtovia-raises-pre-seed-funding-led-by-v3-ventures-12047086,Pre-seed,
+182,cGreen,Alternative Lending,Undisclosed,Seed,Indifly Ventures,June 2026,NewsX,https://www.newsx.com/bl-news/indifly-invests-in-cgreen-to-build-ai-powered-loan-resolution-infrastructure-across-bharat-259913/,Seed,"[PARTIAL] Indifly investment confirmed; seed round on June 17, 2026 confirmed but amount undisclosed."
+183,Lissun,Healthcare Booking,$293K,Seed,Rainmatter,June 2026,Entrackr,https://entrackr.com/snippets/exclusive-mental-health-startup-lissun-raises-fresh-funds-from-zerodha-backed-rainmatter-12048004,Bridge/follow-on,
+184,Gimimichi,Food/Beverage,$1M,Seed,India Quotient,June 2026,Indian Startup Times,https://www.indianstartuptimes.com/investment/gimi-michi-raises-1-million-to-bring-authentic-korean-flavours-to-indias-growing-food-market/,Seed,
+185,TruNativ,Food/Beverage,Undisclosed,Series B,Orbimed,June 2026,DealStreet Asia,https://www.dealstreetasia.com/stories/orbimed-trunativ-485746,Series B,[DISCREPANCY] Batch lists amount as Undisclosed; sources confirm $30M Series B.
+186,ContraVault AI,GovTech,$3.1M,Seed,Chiratae Ventures,June 2026,Business Standard,https://www.business-standard.com/amp/content/press-releases-ani/contravault-ai-raises-usd-3-1m-led-by-chiratae-ventures-with-titan-capital-winners-fund-to-build-the-future-of-ai-powered-procurement-intelligence-126061700519_1.html,Pre-Series A,[DISCREPANCY] Batch listed as Seed; sources confirm Pre-Series A round.
+187,Speedioo,Auto E-Commerce,$1.06M,Seed,Atomic Capital,June 2026,Entrackr,https://entrackr.com/snippets/used-two-wheeler-platform-speedioo-raises-seed-funding-led-by-atomic-capital-12043624,Seed,
+188,SolarSquare,Solar Energy,$53M,Series C,B Capital,June 2026,Energetica India,https://www.energetica-india.net/news/solarsquare-raises-usd-53-mn-in-series-c-round-led-by-b-capital-to-expand-residential-solar-business,Series C,
+189,Trackersuite,Enterprise Collaboration,$634K,Seed,Pontaq,June 2026,YourStory,https://yourstory.com/2026/06/startup-news-and-updates-daily-roundup-june-16-2026,Pre-Series A,
+190,Crest Capital,Single Family Offices,$3.1M,Seed,Beenext,June 2026,Indian Startup Times,https://www.indianstartuptimes.com/investment/crest-raises-usd-3-1-mn-pre-seed-funding-to-build-ai-native-fractional-family-offi-ce-led-by-beenext/,Pre-Seed,[PARTIAL] Batch lists Seed; sources confirm Pre-Seed round.
+191,Foodstories,Food Retailers,$5.25M,Series B,NSFO,June 2026,Business Standard,https://www.business-standard.com/companies/start-ups/foodstories-raises-50-crore-in-funding-round-led-by-nikhil-kamath-126061500730_1.html,Series B,
+192,Autovrse,Virtual Reality/AI Training,$2.4M,Series A,Singularity AMC,June 2026,Not yet checked,,,
+193,Sarvam,Speech/Voice Recognition/AI,$234M,Series B,Bessemer Venture Partners,June 2026,Business Standard,https://www.business-standard.com/technology/artificial-intelligence/sovereign-ai-startup-sarvam-raises-234-mn-from-hcltech-bessemer-126061501007_1.html,Series B,"[PARTIAL] Lead investor was HCLTech ($150M), not Bessemer; Bessemer participated in the round."
+194,Glam,Professional Services,$1.2M,Conventional Debt,Undisclosed,June 2026,Unverified — no corroboration found,,Unverified,
+195,Zumutor,Immunotherapy,$7.3M,Series B,Accel,June 2026,Inc42,https://inc42.com/buzz/zumutor-biologics-secures-7-3-mn-to-advance-clinical-trials-for-cancer-therapy/,Pre-Series B,[DISCREPANCY] Batch lists Series B; sources confirm Pre-Series B round.
+196,Rekise Marine,Professional Service Robots,$9.7M,Seed,Accel,June 2026,Business Standard,https://www.business-standard.com/amp/companies/start-ups/rekise-marine-raises-9-7-mn-led-by-nikhil-kamath-s-firm-and-accel-126061200902_1.html,Seed,
+197,Lumiq,Big Data Analytics/AI,$5.9M,Series B,Info Edge Ventures,June 2026,IBS Intelligence,https://ibsintelligence.com/ibsi-news/lumiq-raises-5-9m-in-series-b-to-scale-ai-platforms/,Series B,[DISCREPANCY] Investor listed as 'Info Edge Ventures' but Bajaj Finserv Ventures led the round
+198,Equal,RegTech,$30M,Series B,Prosus,June 2026,TechCrunch,https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/,Series B,
+199,Privue,GRC Services,Undisclosed,Angel,Undisclosed,June 2026,Business Standard,https://www.business-standard.com/content/press-releases-ani/ai-risk-intelligence-startup-privue-raises-angel-round-to-expand-dealer-intelligence-application-126061200774_1.html,Angel,
+200,FITTR,Fitness/Wellness Tech,Undisclosed,Angel,Rohit Gurunath Sharma,June 2026,YourStory,https://yourstory.com/2026/06/a-hackathon-to-empower-girl-innovators-rohit-sharma-investment-in-fittr,Angel,
+201,Dream Aerospace,Space Tech,$1.04M,Seed,247VC,June 2026,Entrackr,https://entrackr.com/snippets/dream-aerospace-raises-10-cr-pre-series-a-round-12030835,Pre-Series A,[DISCREPANCY] Listed as Seed but is Pre-Series A; amount Rs 10 crore (~$1.2M) not $1.04M
+202,Madverse,Music Tech,Undisclosed,Seed,Ahdritz,June 2026,Digital Music News,https://www.digitalmusicnews.com/2026/06/11/madverse-music-funding-seed/,Seed,
+203,QubeHealth,HRTech/Healthcare Finance,Undisclosed,Series A,Unicorn India Ventures,June 2026,Business Standard,https://www.business-standard.com/companies/news/qubehealth-secures-pre-series-a-funding-from-unicorn-india-canbank-vc-124110500477_1.html,Series A,
+204,BioDimension,Life Sciences,$839K,Seed,Indian Angel Network,June 2026,Entrackr,https://entrackr.com/snippets/biodimension-secures-rs-8-cr-from-ian-angel-fund-others-12026979,Early-stage (post-seed),
+205,Dartle,Sports Tech,$100K,Seed,Inflection Point Ventures,June 2026,Entrackr,https://entrackr.com/snippets/sports-tech-startup-dartle-raises-100k-in-seed-funding-led-by-ipv-12026482,Seed,
+206,ONLY ELECTRIQ SOLUTIONS,Auto/EV Brands,Undisclosed,Seed,Earlyseed Ventures,June 2026,The Wire,https://m.thewire.in/article/ptiprnews/electriq-closes-early-seed-funding-round-to-accelerate-ev-ecosystem-expansion-in-india-and-beyond/,Seed,
+207,Manam Chocolate,Food/Beverage,$9M,Series A,Omnivore,June 2026,YourStory,https://yourstory.com/2026/06/manam-chocolate-raises-usd-9-m-in-series-a-led-by-omnivore,Series A,
+208,Mygate,Property Management,Undisclosed,Series B,Dharana,June 2026,YourStory,https://yourstory.com/2026/06/mygate-raises-rs-225-cr-from-dharana-capital,Series B,[DISCREPANCY] Amount listed as Undisclosed but confirmed as Rs 225 crore (~$27M)
+209,HyperNorm AI,Investment Tech,$2.2M,Seed,Capital 2B,June 2026,StartupTalky,https://startuptalky.com/hypernorm-ai-2-2-million-seed-funding-wealth-advisors/,Seed,
+210,Rivvun AI,Finance/Accounting Tech,$7.55M,Seed,3one4 Capital,June 2026,Rivvun AI,https://rivvun.ai/rivvun-ai-seed-funding-announcement/,Seed,
+211,Uni Seoul,Retail Chains,$3.6M,Series A,Sauce,June 2026,Entrackr,https://entrackr.com/snippets/impulse-lifestyle-retail-brand-uni-seoul-raises-rs-35-cr-in-series-a-round-12022701,Series A,
+212,Hoola,Clinic Chains,$5M,Series A,Peak XV Partners,June 2026,YourStory,https://yourstory.com/2026/06/hoola-health-5-million-funding-peak-xv-surge,Series A,
+213,BazaarNow,Online Grocery,$7.8M,Seed,Peak XV Partners,June 2026,YourStory,https://yourstory.com/2026/06/quick-commerce-startup-bazaarnow-raises-rs-72-cr-led-by-peak-xv-partners,Series A,[DISCREPANCY] Listed as Seed but confirmed Series A
+214,The Wedding Company,Wedding Tech,$2.75M,Seed,Wellingdon Advisors,June 2026,Entrackr,https://entrackr.com/snippets/the-wedding-company-raises-275-mn-in-seed-round-12014070,Seed,
+215,Celebal Technologies,Digital Transformation,$5.2M,Conventional Debt,BlackSoil,June 2026,IBS Intelligence,https://ibsintelligence.com/ibsi-news/enterprise-ai-firm-celebal-technologies-raises-5-2m-from-blacksoil-capital/,Conventional Debt,
+216,Integra Robotics,Industrial Robotics,$1.12M,Seed,Finvolve,June 2026,Entrackr,https://entrackr.com/snippets/integra-robotics-raises-112-mn-in-pre-series-a-round-12017897,Pre-Series A,[DISCREPANCY] Listed as Seed but confirmed Pre-Series A
+217,Recur Club,FinTech/Alternative Lending,Undisclosed,Series A,Enrission India Capital,June 2026,StartupFox,https://startupfox.in/article/recur-club-series-a-50m-funding-debt-marketplace,Series A,[DISCREPANCY] Amount listed as Undisclosed but confirmed $50M Series A
+218,Hygenco,Green Hydrogen/Energy Storage,$105M,Series C,Fullerton Carbon Action Fund,June 2026,IFC,https://www.ifc.org/en/pressroom/2026/hygenco-signs-definitive-agreements-for-us-105-million-equity-investment,Series C,"[PARTIAL] Co-led by IFC, Siemens, and Fullerton; not solely Fullerton"
+219,Immuneel,Oncology/Cell Therapy,$10.5M,Series B,Singularity AMC,June 2026,Entrackr,https://entrackr.com/news/immuneel-therapeutics-raises-over-rs-100-cr-in-series-b-12012724,Series B,
+220,InteliQuant AI,GRC Software,Undisclosed,Seed,Marwari Catalysts,June 2026,ANI,https://www.aninews.in/news/business/inteliquant-ai-secures-strategic-investment-from-global-industry-leaders-to-scale-enterprise-audit-amp-risk-intelligence20260606170416/,Seed,
+221,Innefu Labs,Cybersecurity/AI Analytics,Undisclosed,Series B,Panthera,June 2026,YourStory,https://yourstory.com/2026/06/innefu-labs-raises-30-million-in-series-b-from-panthera-growth-partners,Series B,[DISCREPANCY] Amount listed as Undisclosed but confirmed $30M Series B
+222,AADYAH,Space Tech,$3.3M,Series A,Suraj Nalin,June 2026,Dealroom,https://app.dealroom.co/news/feed/ex-isro-scientists-aadyah-aerospace-raises-3-3m-series-a-led-by-helios-holdings,Series A,[DISCREPANCY] Investor listed as Suraj Nalin but led by Helios Holdings (Suraj Nalin's vehicle)
+223,Estro Tech Robotics,Retail Tech/In-Store Marketing,$104K,Seed,Genrobotics,June 2026,UNI India,https://www.uniindia.com/genrobotics-leads-rs-1-crore-seed-funding-in-estro-tech-robotics/business-economy/news/3867471.html,Seed,
+224,Ekatra,Fashion Accessories,Undisclosed,Angel,Ekta Kapoor Ravi,June 2026,Bollywood Hungama,https://www.bollywoodhungama.com/amp/news/bollywood/ektaa-kapoor-joins-sussanne-khans-ekatra-jewels-as-investor-and-partner/,Angel,"[PARTIAL] Company is Ekatra Jewels (luxury jewellery), not Fashion Accessories; investor Ektaa Kapoor"
+225,Transchem,Chemicals/Pharmaceuticals,$9.4M,Post IPO,Bakkt,June 2026,Unverified — no corroboration found,,Unverified,
+226,Firstclub,Online Grocery,$55M,Series B,Peak XV Partners,June 2026,YourStory,https://yourstory.com/2026/06/firstclub-raises-55-million-series-b-co-led-by-peak-xv-partners-sofina,Series B,
+227,TrueFan AI,AI Video Creation,$10M,Series A,Baring Private Equity Partners,June 2026,YourStory,https://yourstory.com/2026/06/ai-video-generation-startup-truefan-ai-raises-series-a-funding,Series A,
+228,WeRize,FinTech/Alternative Lending,$7M,Series B,Sony Innovation Fund,June 2026,Entrackr,https://entrackr.com/news/sony-innovation-fund-leads-7-mn-round-in-fintech-startup-werize-11999594,Pre-Series C,[DISCREPANCY] Listed as Series B but confirmed pre-Series C
+229,VoltSeal,Energy Storage,$1.5M,Seed,Theia Ventures,June 2026,Mercom India,https://www.mercomindia.com/energy-storage-startup-voltseal-raises-1-5m-pre-seed,Pre-Seed,[DISCREPANCY] Listed as Seed but confirmed pre-seed
+230,The Sweet Change,Food/Beverage,$178K,Seed,Rebalance,June 2026,StartupTalky,https://startuptalky.com/news/the-sweet-change-raises-1-7-crore-pre-seed-funding-round/,Pre-seed,
+231,GPS Renewables,Clean Fuels/Waste Management,$66.3M,Series C,PixelSky Capital,June 2026,Deal Street Asia,https://www.dealstreetasia.com/stories/gps-renewables-series-c-484889,Series C,
+232,Propsoch,Real Estate Tech,$2M,Seed,Athera,June 2026,Indian Startup Times,https://www.indianstartuptimes.com/investment/propsoch-raises-2-million-seed-funding-led-by-athera-venture-partners-sparrow-capital-and-vakil-group/,Seed,
+233,Phab,Nutraceuticals,$4M,Seed,OTP Ventures,June 2026,StartupTalky,https://startuptalky.com/news/phab-raises-4-million-pre-series-a-round-funding/,Pre-Series A,[DISCREPANCY] Listed as Seed but confirmed Pre-Series A
+234,Fraganote,Beauty Tech/Fragrances,$3M,Series A,V3 Ventures,June 2026,Entrackr,https://entrackr.com/snippets/v3-ventures-leads-3-mn-series-a-round-in-perfumery-brand-fraganote-11905033,Series A,
+235,Rosada,Mom & Baby Care,Undisclosed,Angel,Shilpa Shetty Kundra,June 2026,Images BOF,https://www.imagesbof.in/kids-lifestyle-brand-rosada-onboards-shilpa-shetty-kundra-as-investor/,Angel,
+236,prolearn,K-12 EdTech,$3.15M,Seed,Beenext,June 2026,StartupRise,https://startuprise.org/edtech-startup-prolearn-raises-3-15-million-in-pre-seed-round/,Pre-Seed,[DISCREPANCY] Listed as Seed but confirmed Pre-Seed
+237,MediElaj,Telehealth/Healthcare Booking,$100K,Seed,Undisclosed,June 2026,Entrackr,https://entrackr.com/snippets/healthcare-startup-medelaj-raises-angel-round-11896174,Pre-seed/Angel,
+238,Dognosis,Veterinary HealthTech,Undisclosed,Seed,Momentum Capital,June 2026,Unverified — no corroboration found,,Unverified,[UNVERIFIED] Seed round confirmed for June 2 2026 but investor (Momentum Capital) and exact amount unverified
+239,Rovia,FinTech/Investment Tech,$1M,Seed,Antler,June 2026,Entrackr,https://entrackr.com/snippets/antler-india-leads-1-mn-pre-seed-round-in-wealthtech-platform-rovia-11895889,Pre-Seed,[DISCREPANCY] Listed as Seed but confirmed pre-seed
+240,Simpl Energy,Energy Tech/EVs,$12.9M,Conventional Debt,Capitar Ventures,June 2026,YourStory,https://yourstory.com/2026/06/simple-energy-raises-rs-250-crore-in-equity--debt,Conventional Debt,
+241,Simpl Energy,Energy Tech/EVs,$13.3M,Series B,Arokiaswamy Velumani,June 2026,YourStory,https://yourstory.com/2026/06/simple-energy-raises-rs-250-crore-in-equity--debt,Series B,
+242,KorinMi,Healthcare/Clinic Chains,$1.05M,Seed,Lotus Herbals,June 2026,Not yet checked,,,
+243,Agilitas,Consumer/Apparel Brands,Undisclosed,Angel,Anushka Sharma,June 2026,Not yet checked,,,
+244,Anveshan,Food/Beverage,$12.7M,Series B,Vertex Ventures,June 2026,Not yet checked,,,
+245,Evolve Energy Group,Energy/Solar,$11M,Conventional Debt,AIFL,June 2026,Not yet checked,,,
+246,C2I Semiconductors,Semiconductors,$16.7M,Series A,TDK Ventures,June 2026,Not yet checked,,,
+247,TIEA,Auto/Auto Components,$8M,Series A,IvyCap Ventures,June 2026,Not yet checked,,,
+248,Quantum Tiger,High Tech/AI Infrastructure,Undisclosed,Seed,Undisclosed,June 2026,Not yet checked,,,
+249,FlexPrice.io,Enterprise/MarketingTech,$1.5M,Seed,Shastra,June 2026,Not yet checked,,,
+250,BucketListt,Consumer/Online Travel,$112K,Angel,Arvind Choudhary,June 2026,Business Standard,https://www.business-standard.com/amp/content/press-releases-ani/bucketlistt-raises-inr-1-07-crore-in-pre-seed-funding-to-build-india-s-experiences-infrastructure-126060901085_1.html,Pre-seed,
+251,Fairdeal Market,Retail/B2B E-Commerce,$15M,Series A,Bertelsmann India Investments,June 2026,Not yet checked,,,
+252,Yoho,Consumer/Fashion Tech,$839K,Conventional Debt,GII,June 2026,Entrackr,https://entrackr.com/snippets/d2c-footwear-brand-yoho-raises-fresh-funds-11875347,Debt tranche,
+253,StrainX Biotech,Life Sciences/Genomics,$13M,Series B,Prime Venture Partners,May 2026,Not yet checked,,,
+254,Pramatra Space,Enterprise/Cybersecurity,Undisclosed,Seed,Seafund,May 2026,Not yet checked,,,
+255,GIVA,Consumer/Fashion Tech,Undisclosed,Angel,Kriti Sanon,May 2026,Not yet checked,,,
+256,Yes Madam,Retail/Beauty Tech,$5.2M,Series A,Info Edge,May 2026,Not yet checked,,,
+257,Abcoffee,Food/Food Service,$6.39M,Series A,Hero Enterprise Partner Ventures,May 2026,Not yet checked,,,
+258,Gabit,HealthTech/Fitness & Wellness,$3.76M,Angel,Deepak Gupta,May 2026,Not yet checked,,,
+259,TIST Media,Business/Photography Services,Undisclosed,Seed,Sthira Partners,May 2026,Not yet checked,,,
+260,Solfin,FinTech/Alternative Lending,$28.9M,Series C,Undisclosed,May 2026,Not yet checked,,,
+261,Meta Fashion,Retail/Retailers,$400K,Seed,"Lumikai (lead), Big Bets (angel)",May 2026,StartupTalky,https://startuptalky.com/news/meta-fashion-lumikai-400k-pre-seed-funding/,Pre-seed,"CORRECTED — wrong company name (""Metafy"" is an unrelated US gaming company) and wrong lead investor. Real deal is Meta Fashion, led by Lumikai."
+262,JP Power Ventures,Energy/Hydro Power,Undisclosed,Unattributed,Adani Power,May 2026,Not yet checked,,,
+263,VEM Technologies,Industrial/Manufacturing Services,$19.2M,PE,InCred Capital,May 2026,Not yet checked,,,
+264,Mythik,Media/Film & TV,$5M,Seed,Blume Founders Fund,May 2026,Not yet checked,,,
+265,Scapia,FinTech/Payments,$63M,Series C,General Catalyst,May 2026,Not yet checked,,,
+266,Sychedelic AI,HealthTech/Disease Management,$3.5M,Seed,Turbostart,May 2026,Not yet checked,,,
+267,ANSCER,Enterprise/SCM Software,$4.6M,Series A,Indian Angel Network,May 2026,Not yet checked,,,
+268,UpGrad,EdTech/Continued Learning,$38M,Series C,Temasek,May 2026,Not yet checked,,,
+269,EndureAir Systems,Defense Tech/Military,$3.1M,Grant,Anrf,May 2026,Not yet checked,,,
+270,ONO,Food/Crop Tech,$1.2M,Seed,Aeravti Ventures,May 2026,Not yet checked,,,
+271,Damroo,Consumer/Music Tech,$519K,Seed,Hindustan Times,May 2026,Entrackr,https://entrackr.com/snippets/music-streaming-and-distribution-platform-damroo-secures-investment-from-hindustan-times-11852251,Strategic investment,
+272,NTWIST,Enterprise/Business Intelligence,$727K,Conventional Debt,Government of Canada,May 2026,Tracxn,https://tracxn.com/d/companies/ntwist/__-H0UswDZETzYNHOobdIUgfyOJWOgzEWRxuihppIU4Ok,Conventional Debt (unverified amount),"UNVERIFIED — only found via Tracxn/PitchBook (not a news article); also an Edmonton, Canada company, which sits oddly in an India-only tracker."
+273,Country Delight,Food/Online Grocery,$6.75M,Venture Debt,Alteria Capital,May 2026,Not yet checked,,,
+274,Kalpi,FinTech/Investment Tech,$450K,Seed,Rainmatter,May 2026,Entrackr,https://entrackr.com/snippets/fintech-startup-kalpi-raises-seed-round-from-rainmatter-capital-11850443,Seed,
+275,Iscon Balaji Foods,Food/Food Processing,$150M,Series A,Advent International,May 2026,Not yet checked,,,
+276,Dhiway,Enterprise Applications,Undisclosed,Grant,HDFC Bank,May 2026,Not yet checked,,,
+277,Xaults,FinTech,Undisclosed,Grant,HDFC Bank,May 2026,Not yet checked,,,
+278,Inka Insurance,FinTech,Undisclosed,Grant,HDFC Bank,May 2026,Not yet checked,,,
+279,FinSpring,FinTech,Undisclosed,Seed,VideoCX,May 2026,Not yet checked,,,
+280,ValuEnable,FinTech,Undisclosed,Grant,HDFC Bank,May 2026,Not yet checked,,,
+281,PropLegit,Financial Services,Undisclosed,Grant,HDFC Bank,May 2026,Not yet checked,,,
+282,Finsall,FinTech,Undisclosed,Grant,HDFC Bank,May 2026,Not yet checked,,,
+283,Saventh,FinTech,Undisclosed,Grant,HDFC Bank,May 2026,Not yet checked,,,
+284,Cellogen Therapeutics,Life Sciences,$2M,Series A,Kotak Alternate Asset Managers,May 2026,Not yet checked,,,
+285,Lark Finserv,FinTech,Undisclosed,Grant,HDFC Bank,May 2026,Not yet checked,,,
+286,Entitled,Enterprise Applications,Undisclosed,Grant,HDFC Bank,May 2026,Not yet checked,,,
+287,Rapido,Consumer,$240M,Series F,Prosus,May 2026,Not yet checked,,,
+288,Dhruva Space,Space Tech,$11M,Grant,Anrf,May 2026,Entrackr,https://indianstartupnews.com/news/dhruva-space-secures-rs-105-crore-from-indian-govt-for-project-garud-satellite-manufacturing-11834043,Grant,"[DISCREPANCY] Grant is from RDIF (Research, Development and Innovation Fund), not ANRF as stated. Amount matches (~$11M = ₹105 crore)."
+289,Craon,AI,Undisclosed,Seed,Undisclosed,May 2026,IndianStartupNews,https://indianstartupnews.com/funding/craon-raises-funding-to-scale-its-prompt-based-video-editing-platform-11837897,Pre-Seed,
+290,Legend of Toys,Retail,$2.19M,Seed,Singularity AMC,May 2026,IndiaRetailing,https://www.indiaretailing.com/legend-of-toys-raises-21-crore-preseries-a-round,Pre-Series A,"[DISCREPANCY] Round type is Pre-Series A, not Seed. Amount matches (₹21 crore ≈ $2.19M)."
+291,The Sweet Change,Food/Beverage,$73.2K,Seed,Indian Angel Network,May 2026,IAN Group,https://iangroup.vc/2026/05/14/ian-angel-fund-leads-70-lakhs-funding-round-in-the-sweet-change/,Angel,
+292,Bombay Banta,Food/Beverage,$836K,Seed,DSG Consumer Partners,May 2026,Outlook Business,https://www.outlookbusiness.com/corporate/bombay-banta-raises-rs-8-crore-in-pre-series-a-round,Pre-Series A,
+293,ONDC,E-Commerce,$7.32M,Series A,Zoho,May 2026,Inc42,https://inc42.com/buzz/zoho-invests-%E2%82%B970-cr-in-ondc-to-back-sovereign-tech-infrastructure/,,"[PARTIAL] Zoho invested ₹70 crore ($7.32M) in May 2026, but this is a strategic investment, not a formal Series A round."
+294,Instafix,Local Services,$789K,Seed,Titan Capital,May 2026,Entrackr,https://entrackr.com/snippets/doorstep-smartphone-repair-startup-instafix-raises-pre-seed-round-led-by-titan-capital-8i-ventures-11829440,Pre-seed,
+295,MOI SOI,Food/Beverage,Undisclosed,Seed,Gujarat Venture Finance,May 2026,IndianStartupNews,https://www.archynewsy.com/moi-soi-secures-first-institutional-round-from-gvfl-and-wipro-consumer-ventures/,Seed,
+296,The EleFant,Retail,$1M,Seed,Growth Sense,May 2026,Entrackr,https://entrackr.com/snippets/toy-subscription-startup-the-elefant-raises-1-mn-in-pre-series-funding-11829958,Pre-Seed,
+297,HrdWyr,Semiconductors,$13M,Series A,Ideaspring Capital,May 2026,Entrackr,https://entrackr.com/news/semiconductor-startup-hrdwyr-raises-13-mn-led-by-ideaspring-capital-11826658,Series A,
+298,SCIkIQ,Enterprise Applications,$1.5M,Seed,Triton Investment Advisors,May 2026,Entrackr,https://entrackr.com/snippets/ai-startup-scikiq-raises-usd-15-mn-in-funding-from-triton-11825570,Seed,
+299,Dil Foods,Food Tech,$7.7M,Series B,V3 Ventures,May 2026,YourStory,https://yourstory.com/2026/05/dil-foods-raises-rs-72-crore-in-series-b-round,Series B,
+300,Sindhuja Microcredit,Financial/Microfinance,$5M,Series C,"Abler Nordic, Carpediem Capital",May 2026,Entrackr,https://entrackr.com/snippets/sindhuja-microcredit-raises-5-mn-in-pre-series-d-round-11822503,Pre-Series D,"[DISCREPANCY] Round type is Pre-Series D, not Series C. Amount and month match ($5M in May 2026)."
+301,Wingreens World,Food/Online Grocery,$12.6M,Series D,"Alchemy Capital, Anicut Capital",May 2026,YourStory,https://yourstory.com/2026/05/wingreens-acquires-safe-harvest-integrated-clean-label-platform-series-d,Series D,"[PARTIAL] Amount matches (₹120 crore ≈ $12.6M), but lead investor is Ashish Kacholia with Alchemy Fund participation."
+302,Lifesigns,HealthTech/Healthcare IT,Undisclosed,Seed,HealthQuad,May 2026,DigitalHealthNews,https://www.digitalhealthnews.com/healthquad-invests-in-lifesigns-to-expand-ai-based-remote-patient-monitoring-platform,Seed,
+303,Hero Realty,Real Estate,$127M,Debt,IndusInd Bank,May 2026,RealtynMore,https://realtynmore.com/hero-realty-secures-1200-crore-debt-indusind-bank/,Debt,
+304,Blunav Technologies,Travel Tech,$1M,Seed,"Piper Serica, StartupTN",May 2026,Entrackr,https://entrackr.com/snippets/piper-serica-leads-1-mn-seed-round-in-airport-operations-tech-company-blunav-11808501,Seed,"[PARTIAL] Piper Serica confirmed as lead, but StartupTN is not mentioned as co-investor."
+305,Alphadroid,High Tech/Robotics,$3.8M,Seed,Alkemi Growth Capital,May 2026,SiliconIndia,https://www.siliconindia.com/startup/startup-funding/alphadroid-raises-38-million-in-round-led-by-alkemi-capital-nwid-54442.html,Pre-Seed,
+306,Skyroot,Space Tech,$60M,Series C,"Sherpalo Ventures, Mukesh Bansal",May 2026,DealStreetAsia,https://www.dealstreetasia.com/stories/skyroot-fundraise-481532/,Series C,
+307,BigEndian,Semiconductors,$6M,Seed,"Indian Angel Network, Vertex Ventures",May 2026,YourStory,https://yourstory.com/2026/05/bigendian-semiconductors-bags-6-million-led-by-ian-alpha-fund,Seed,
+308,Ecofy,FinTech,$15M,Debt,"Mirova, FMO",May 2026,YourStory,https://yourstory.com/2026/05/ecofy-raises-15-million-from-mirova-to-expand-green-financing-portfolio,Debt,"[PARTIAL] Mirova investment confirmed in May 2026, but FMO is mentioned as prior investor (Jan 2024), not in this round."
+309,Nowound,Life Sciences,$1.91M,Seed,Alkemi Growth Capital,May 2026,Unverified — no corroboration found,,Unverified,"[UNVERIFIED] Alkemi Growth Capital seed investment confirmed in May 2026, but exact amount of $1.91M cannot be independently verified."
+310,Sarrthi IAS,EdTech,Undisclosed,Seed,Physics Wallah,May 2026,YourStory,https://yourstory.com/2026/05/physics-wallah-raises-sarrthi-ias-stake-to-51-takes-majority-control,,"[DISCREPANCY] Physics Wallah acquired stake in Sarrthi IAS (stake acquisition), not a seed funding round. This is M&A, not institutional funding."
+311,JobsUPI,HRTech,$0.25M,Seed,IIMA Ventures,May 2026,Entrackr,https://entrackr.com/snippets/jobsupi-raises-pre-seed-round-from-iima-ventures-and-others-11806024,Pre-seed,
+312,Gubbachhi,Retail,$0.158M,Seed,D2C Insider,May 2026,Entrackr,https://entrackr.com/snippets/gubbachhi-raises-pre-seed-round-from-d2c-insider-super-angels-fund-10598883,Pre-seed,
+313,PinSec,High Tech,$0.525M,Seed,Undisclosed,May 2026,Business Standard,https://www.business-standard.com/amp/content/specials/pinsec-ai-secures-rs-5-crore-seed-funding-for-regional-expansion-126052601421_1.html,Seed,
+314,Pronto,Consumer Services,$45M,Series B,"Lachy Groom, Bain Capital Ventures",May 2026,Entrackr,https://entrackr.com/news/pronto-raises-additional-20-mn-in-series-b-round-at-200-mn-valuation-11807841,Series B,
+315,XCaliber,HealthTech,$6.5M,Seed,ManchesterStory Group,May 2026,TechFundingNews,https://techfundingnews.com/manchesterstory-leads-6-5m-round-in-xcaliber-health-to-automate-healthcare-administration/,Seed,
+316,Securityfiresystems,Business Services,Undisclosed,Debt,Prospect Capital,May 2026,YahooFinance,https://finance.yahoo.com/markets/stocks/articles/prospect-capital-completes-26-million-110000411.html,Debt,"[PARTIAL] Prospect Capital investment confirmed, but described as first lien term loan (debt) for US-based company. Amount $26M matches entry 317."
+317,Securityfiresystems,Business Services,$26M,Series B,Prospect Capital,May 2026,YahooFinance,https://finance.yahoo.com/markets/stocks/articles/prospect-capital-completes-26-million-110000411.html,Series B,
+318,Vobiz,Enterprise Applications,$1M,Seed,Piper Serica,May 2026,Entrackr,https://entrackr.com/snippets/telephony-infra-startup-vobizai-raises-1-mn-led-by-piper-serica-11801843,Seed,
+319,Apollyon Dynamics,High Tech/Drones,$0.421M,Seed,"Naandi Ventures, DST",May 2026,Dealroom,https://app.dealroom.co/news/feed/student-led-defense-startup-apollyon-dynamics-raises-475-000-supplies-kamikaze-drones-to-indian-army,Pre-seed,
+320,Jurisphere,Legal Tech,$2.2M,Seed,Info Edge Ventures,May 2026,BarAndBench,https://www.barandbench.com/news/law-policy/legal-ai-startup-jurisphereai-raises-22-million-in-funding,Seed,
+321,HealthFab,Consumer/Apparel,$2.1M,Series A,Atomic Capital,April-May 2026,IndiaRetailing,https://www.indiaretailing.com/healthfab-bags-20-crore-in-series-a-round-led-by-atomic-capital,Series A,
+322,Kisah,Consumer/Fashion Tech,$3.8M,Series A,Fireside Ventures,April-May 2026,Entrackr,https://entrackr.com/news/fireside-ventures-leads-kisahs-series-a-round-valuation-jumps-to-rs-211-cr-11797334,Series A,
+323,CHOSEN,Consumer/Beauty & Personal Care,$5M,Series A,Fireside Ventures,April-May 2026,YourStory,https://yourstory.com/2026/05/chosen-raises-5-mn-in-series-a-led-by-fireside-ventures-lorals-bold,Series A,
+324,Aurm,High Tech/Security & Surveillance,$4.42M,Series A,Earthfund,April-May 2026,Entrackr,https://entrackr.com/snippets/aurm-raises-rs-42-cr-in-series-a-round-led-by-earth-fund-and-sattva-ventures-11799095,Series A,
+325,Rosier Foods,Food/Beverage,Undisclosed,Seed,SailThru Ventures,April-May 2026,Unverified — no corroboration found,,Unverified,"[UNVERIFIED] SailThru Ventures investment confirmed but timing is March 2026, not April-May. Exact amount remains undisclosed."
+326,Novorbis,Environment/Air Pollution,$1.41M,Seed,Rainmatter,April-May 2026,Entrackr,https://entrackr.com/snippets/cleantech-startup-novorbisitus-raises-rs-1335-crore-seed-round-led-by-rainmatter-11822503,Seed,"[DISCREPANCY] Funding amount is ₹13.35 crore (~$1.6M) not $1.41M. Company name also NovorbisItus, not Novorbis."
+327,Ubiqedge,High Tech/IoT,$1.05M,Seed,Piper Serica,April-May 2026,Entrackr,https://entrackr.com/snippets/piper-serica-leads-rs-10-cr-seed-round-in-aiot-startup-ubiqedge-11782019,Seed,[PARTIAL] Amount is ₹10 crore (~$1.2M) not $1.05M. Round and investor confirmed for May 2026.
+328,Fortuna Engineering,Auto/Auto Components,$13.6M,Unattributed,Bharat Forge,April-May 2026,BharatForge,https://www.bharatforge.com/assets/pdf/press-release/Press-release-Bharat-Forge-Limited-acquire.pdf,Equity,"[DISCREPANCY] This is a stake acquisition (30% stake at ₹129.60 crore valuation), not a traditional funding round. Announced April 30, 2026."
+329,Ctruh,High Tech/Augmented Reality,$2.5M,Seed,Inflection Point Ventures,April-May 2026,Entrackr,https://entrackr.com/snippets/deep-tech-startup-ctruh-secures-25-mn-in-seed-funding-11781538,Seed,
+330,Kimbal,Energy Tech/Smart Grid,$22M,Series B,GEF Capital Partners,April-May 2026,YourStory,https://yourstory.com/2026/04/kimbal-raises-22m-series-round-gef-capital,Series B,
+331,Rivarp Medical,Healthcare/Medical Devices,Undisclosed,Seed,Futura Surgicare,April-May 2026,Unverified — no corroboration found,,Unverified,"[UNVERIFIED] Futura Surgicare/Jashvik Capital investment confirmed, but exact funding amount is undisclosed."
+332,Vikra Ocean Tech,Maritime Tech,$1M,Seed,Finvolve,April-May 2026,IndianStartupNews,https://indianstartupnews.com/funding/chennai-deeptech-startup-vikra-ocean-tech-raises-1-million-to-build-indigenous-ocean-robotics-stack-11782323,Seed,
+333,sprect,Consumer/Communication Apps,$212K,Seed,Subhkam Ventures,April-May 2026,Indian Startup News,https://indianstartupnews.com/funding/sprect-raises-rs-2-crore-in-funding-to-expand-its-11-expert-consultation-platform-11777529,Seed,
+334,Sportvot,Media/OTT,$3.46M,Series A,Indian Angel Network,April-May 2026,Inc42,https://inc42.com/buzz/sportvot-bags-%E2%82%B932-7-cr-to-take-its-sports-streaming-platform-global/,Series A,[PARTIAL] Amount is ₹32.7 crore (~$3.9M) not $3.46M. Led by IAN Alpha Fund (not general Indian Angel Network). Month April-May 2026 confirmed.
+335,Sahamati,Nonprofits,$5.29M,Series A,State Bank of India,April-May 2026,Unverified — no corroboration found,,Unverified,
+336,Sahi,FinTech/Investment Tech,$33M,Series B,Accel,April-May 2026,Not yet checked,,,
+337,Trimex Foods,Food/Food Service,$40M,PE,Siguler Guff,April-May 2026,Not yet checked,,,
+338,Prithu,Environment/Air Pollution,$1.06M,Seed,Transition VC,April-May 2026,Not yet checked,,,
+339,House of Chikankari,Consumer/Fashion Tech,$2.65M,Series A,Cap Alpha,April-May 2026,Not yet checked,,,
+340,Kovon,HRTech,$250K,Seed,TDV Partners,April-May 2026,Entrackr,https://entrackr.com/snippets/workforce-mobility-platform-kovon-raises-pre-seed-led-by-tdv-partners-11771315,Pre-seed,
+341,Snabbit,Consumer/Local Services,$56M,Series D,SIG Venture Capital,April-May 2026,Not yet checked,,,
+342,Battery Smart,Energy Tech/EV,$15M,Debt,Mirova,April-May 2026,Not yet checked,,,
+343,Dview,Business Intelligence,Undisclosed,Seed,Grand View Research,April-May 2026,Not yet checked,,,
+344,HyugaLife,HealthTech,$10.6M,Series A,IvyCap Ventures,April-May 2026,Not yet checked,,,
+345,Mojro,Logistics Tech,$2.5M,Series A,Dallas Venture Capital,April-May 2026,Not yet checked,,,
+346,Novio,FinTech/Payments,$2.44M,Venture Debt,Innoven Capital,April-May 2026,Not yet checked,,,
+347,Novio,FinTech/Payments,$8.28M,Series A,Cornerstone Ventures,April-May 2026,Not yet checked,,,
+348,Treefe,Consumer/Social Platforms,Undisclosed,Seed,Swishin Ventures,April 2026,Not yet checked,,,
+349,Oolka,FinTech/Alternative Lending,$14M,Series A,Accel,April 2026,Not yet checked,,,
+350,Rosada,Retail/Mom & Baby Care,$45.9K,Angel,Namita Thapar,April 2026,Inc42,https://inc42.com/buzz/shilpa-shetty-invests-in-d2c-kids-lifestyle-brand-rosada/,Angel (Shark Tank),
+351,Artociti,Retail/Retailers,$53.3K,Angel,Namita Thapar,April 2026,StartupNews.fyi,https://startupnews.fyi/2026/02/18/artociti-raises-1-crore-shark-tank-india/,Angel (Shark Tank),
+352,Deep Algorithms,Enterprise/Cybersecurity,$1.71M,Seed,Unicorn India Ventures,April 2026,Not yet checked,,,
+353,Cluster Protocol,High Tech/AI Infrastructure,$5M,Series A,dao5,April 2026,Not yet checked,,,
+354,SoilSens,Food/Crop Tech,$26.7K,Angel,Vineeta Singh,April 2026,LocalSamosa,https://www.localsamosa.com/business/shark-tank-india-5-week-9-11190681,Angel (Shark Tank),
+355,stch,Industrial/Contract Manufacturers,$5.5M,Seed,Omnivore,April 2026,Not yet checked,,,
+356,Awsum,Food/Beverage,$53.3K,Angel,Ritesh Agarwal,April 2026,Indian Retailer,https://www.indianretailer.com/news/funding-alert-better-you-bakery-brand-awsum-secures-rs-1-crore-deal-shark-tank-india,Angel (Shark Tank),
+357,LightFury Games,Gaming/PC & Console,$11M,Seed,Blume Venture,April 2026,Not yet checked,,,
+358,Grest,Retail/Consumer Electronics,Undisclosed,Seed,ICMG Group,April 2026,Not yet checked,,,
+359,Alaya,Consumer/Fashion Tech,Undisclosed,Seed,LC Nueva AIF,April 2026,Not yet checked,,,
+360,Spill Games,Mobile/Mobile Gaming,$3.1M,Seed,PeerCapital,April 2026,Not yet checked,,,
+361,RehabVeda,Life Sciences/Neurology,$53.4K,Angel,Mohit Yadav,April 2026,Parul University,https://www.paruluniversity.ac.in/news-and-awards/how-a-rehabilitation-startup-secured-a-deal-from-namita-thapar-and-mohit-yadav/,Angel (Shark Tank),
+362,Agrow Allied,Food/Crop Inputs,$20M,Series B,ICICI Venture,April 2026,Not yet checked,,,
+363,Chupps,Consumer/Fashion Tech,Undisclosed,Series A,Ajinkya Rahane,April 2026,Not yet checked,,,
+364,Pragyan Child Development Centre,Healthcare/Rehabilitation,$53.4K,Angel,Mohit Yadav,April 2026,CEOVine,https://www.ceovine.com/pragyan-child-development-centre-raises-rs-1-crore-on-shark-tank-india,Angel (Shark Tank),
+365,DigitalPaani,Environment/Water Management,Undisclosed,Seed,AWE Funds,April 2026,Not yet checked,,,
+366,CureMeAbroad,HealthTech/Healthcare Booking,$600K,Seed,Roman Saini,April 2026,Entrackr,https://entrackr.com/snippets/med-tech-tourism-startup-curemeabroad-raises-pre-seed-round-11750934,Pre-seed,
+367,Acai Theory,Food/Restaurants,$430K,Seed,All In Capital,April 2026,Entrackr,https://entrackr.com/snippets/health-qsr-chain-acai-theory-raises-funds-from-all-in-capital-tdv-partners-others-11747855,Pre-seed,
+368,Lawyered,Enterprise/Legal Tech,$2.5M,Seed,Rainmatter,April 2026,Not yet checked,,,
+369,Nudgebee,Enterprise/IT Operations,$3M,Seed,Kalaari Capital,April 2026,Not yet checked,,,
+370,TruScholar,EdTech/K-12,Undisclosed,Seed,SucSEED Indovation,April 2026,Not yet checked,,,
+371,Hocco,Food/Food Service,$10.7M,Series C,Sauce,April 2026,Not yet checked,,,
+372,PhantomFX,Undisclosed,$12.4M,Post IPO,Zee Entertainment Enterprises,April 2026,Not yet checked,,,
+373,The Hosteller,Consumer/Online Travel,$16.1M,Series B,Promaft Partners,April 2026,Not yet checked,,,
+374,Aliste,High Tech/Smart Homes,$3.21M,Seed,BIG Global Investments,April 2026,Not yet checked,,,
+375,Algo8,Enterprise/Big Data Analytics,Undisclosed,Seed,Chemelex,April 2026,Not yet checked,,,
+376,Intellithink,Enterprise/Manufacturing Tech,$1.82M,Seed,Pentathlon Ventures,April 2026,Not yet checked,,,
+377,Polaris,Energy Tech/Smart Grid,$80M,Conventional Debt,British International Investment,April 2026,Not yet checked,,,
+378,Cohoma Coffee,Food/Beverage,$536K,Seed,Inflection Point Ventures,April 2026,Entrackr,https://entrackr.com/snippets/cohoma-coffee-raises-rs-5-cr-seed-round-led-by-ipv-11730918,Seed,
+379,Roofsol Energy,Energy/Solar,$35.6M,Series B,Undisclosed,April 2026,Not yet checked,,,
+380,Helium,Consumer/Real Estate Tech,$536K,Angel,Albinder Dhindsa,April 2026,Entrackr,https://entrackr.com/snippets/proptech-startup-helium-raises-angel-funding-from-albinder-dhindsa-kunal-shah-others-11726966,Angel,
+381,Ivory,HealthTech/Disease Management,$1M,Seed,Draper,April 2026,Not yet checked,,,
+382,GobbleCube,Enterprise/Sales Automation,$15M,Series A,SIG Venture Capital,April 2026,Not yet checked,,,
+383,Healync,HealthTech/Healthcare IT,Undisclosed,Seed,Volrado Venture Partners,April 2026,Not yet checked,,,
+384,Apothecon Pharmaceuticals,Healthcare,$270M,PE,Everstone Capital,April 2026,Not yet checked,,,
+385,TraqCheck,Enterprise/HRTech,$8M,Series A,IvyCap Ventures Advisors,April 2026,Not yet checked,,,
+386,SpEd@home,EdTech/K-12,Undisclosed,Grant,Scitech Park,April 2026,Not yet checked,,,
+387,Dextroware Devices,HealthTech/Assistive Tech,Undisclosed,Grant,Saksham,April 2026,Not yet checked,,,
+388,Smart Garage,Auto/Auto Retail,$258K,Seed,Undisclosed,April 2026,Indian Startup News,https://indianstartupnews.com/funding/smart-garage-raises-rs-24-crore-to-scale-its-ai-driven-auto-service-marketplace-11720573,Pre-Series A,
+389,Barneys,Food/Alcoholic Beverages,Undisclosed,Seed,TCA,April 2026,Not yet checked,,,
+390,Panoculon Labs,Business/AI Services,Undisclosed,Grant,Saksham,April 2026,Not yet checked,,,
+391,Sahayatha,Healthcare/Medical Devices,Undisclosed,Grant,Saksham,April 2026,Not yet checked,,,
+392,Kingdom Of Chess,Consumer/Sports Tech,$177K,Seed,BeyondSeed,April 2026,YourStory,https://yourstory.com/2026/04/startup-news-updates-daily-roundup-april-13-2026,Seed,
+393,FRUBON,Food/Beverage,Undisclosed,Series B,Fireside Ventures,April 2026,Not yet checked,,,
+394,Signsetu,Undisclosed,Undisclosed,Grant,Saksham,April 2026,Not yet checked,,,
+395,Glovatrix,HealthTech/Assistive Tech,Undisclosed,Grant,Saksham,April 2026,Not yet checked,,,
+396,Daakit,Consumer/Logistics Tech,$138K,Seed,Inflection Point Ventures,April 2026,Entrackr,https://entrackr.com/snippets/daakit-raises-138k-in-pre-seed-round-led-by-inflection-point-ventures-11704251,Pre-seed,
+397,Swageazy,Retail/B2B E-Commerce,$584K,Seed,Info Edge Ventures,April 2026,Entrackr,https://entrackr.com/snippets/swageazy-raises-rs-54-cr-follow-on-round-led-by-info-edge-ventures-11708256,Follow-on,
+398,OFF/BEAT,Consumer/Music Tech,$10.8M,Seed,Bessemer Venture Partners,April 2026,Not yet checked,,,
+399,Astranova Mobility,Energy Tech/EVs,$6.49M,Series A,IvyCap Ventures,April 2026,Not yet checked,,,
+400,Pluckk,Food/Online Grocery,$10.8M,Series A,Euro Gulf Investments,April 2026,Not yet checked,,,
+401,Nava,High Tech/AI Infrastructure,$22M,Series A,Greenoaks,April 2026,Not yet checked,,,
+402,ILIOS 72 Alternative Capital,FinTech/Investment Tech,$215K,Seed,Undisclosed,April 2026,BW Disrupt,https://www.bwdisrupt.com/article/wealth-management-platform-ilios-72-secures-pre-series-a-funding-from-a-clutch-of-family-offices-601532,Pre-Series A,
+403,SILA,Business/Consulting,$100M,PE,Permira,April 2026,Not yet checked,,,
+404,KreditBee,FinTech/Alternative Lending,$220M,Series E,Motilal Oswal,April 2026,Not yet checked,,,
+405,RoshAi,Auto Tech/Autonomous Vehicles,$2.36M,Seed,Indian Angel Network,April 2026,Not yet checked,,,
+406,Tsecond.ai,Defense Tech/AI,$21.5M,Series B,MSN Holdings,April 2026,Not yet checked,,,
+407,Atlas,FinTech/Accounting Tech,$6M,Seed,Accel,April 2026,Not yet checked,,,
+408,Angoor AI,High Tech/Generative AI,$215K,Seed,Uday Sodhi,April 2026,Entrackr,https://entrackr.com/snippets/customer-interaction-platform-angoor-ai-raises-pre-seed-round-led-by-venturizer-11700670,Pre-seed,
+409,TrEV,Consumer/Transport Tech,$393K,Angel,Undisclosed,April 2026,Entrackr,https://entrackr.com/snippets/ev-mobility-startup-trev-mobility-raises-angel-round-to-expand-across-delhi-ncr-11657382,Angel,
+410,Filliandme,Retail/Mom & Baby Care,$161K,Seed,D2C Insider,April 2026,Entrackr,https://entrackr.com/snippets/d2c-insider-super-angels-leads-pre-seed-round-in-kids-brand-filli-me-11586028,Pre-seed,
+411,Filliandme,Retail/Mom & Baby Care,Undisclosed,Debt,D2C Insider,April 2026,Not yet checked,,,
+412,Rudrac,Gaming,$10K,Grant,LVL Zero Incubator,April 2026,PocketGamer.biz,https://www.pocketgamer.biz/indias-lvl-zero-incubator-unveils-first-cohort-of-10-games-startups/,Grant,
+413,OFF BEAT,Business/HR,$10.7M,Seed,Bessemer Venture Partners,April 2026,Not yet checked,,,
+414,YK Game Studio,Gaming,$10K,Grant,LVL Zero Incubator,April 2026,PocketGamer.biz,https://www.pocketgamer.biz/indias-lvl-zero-incubator-unveils-first-cohort-of-10-games-startups/,Grant,
+415,Helium Air,Consumer Goods,$2M,Seed,India Quotient,April 2026,Not yet checked,,,
+416,Xigma Games,Gaming,$10K,Grant,LVL Zero Incubator,April 2026,PocketGamer.biz,https://www.pocketgamer.biz/indias-lvl-zero-incubator-unveils-first-cohort-of-10-games-startups/,Grant,
+417,Kyrel,Gaming,$10K,Grant,LVL Zero Incubator,April 2026,PocketGamer.biz,https://www.pocketgamer.biz/indias-lvl-zero-incubator-unveils-first-cohort-of-10-games-startups/,Grant,
+418,H2LooP.ai,High Tech/Generative AI,$2M,Seed,Speciale Invest,April 2026,Not yet checked,,,
+419,Arckon Arts,Gaming,$10K,Grant,LVL Zero Incubator,April 2026,Outlook Respawn,https://respawn.outlookindia.com/gaming/gaming-news/lvl-zero-unveils-10-startups-cohort-with-10000-grants,Grant,
+420,KisaanSay,Food/Agriculture,$3.65M,Series A,NABVENTURES,April 2026,Not yet checked,,,
+421,Ecoil,Environment Tech,$2.5M,Series A,Fundalogical Ventures,April 2026,Not yet checked,,,
+422,Zanskar,FinTech/Investment Tech,$2.7M,Seed,BlackSoil,March 2026,Not yet checked,,,
+423,SatLeo Labs,High Tech/Security & Surveillance,$2.2M,Seed,"Unicorn India Ventures, PointOne Capital",March 2026,Not yet checked,,,
+424,Dam Good Fish,Food/Online Grocery,Undisclosed,Seed,Undisclosed,March 2026,Not yet checked,,,
+425,Satark AI,Enterprise/Cybersecurity,Undisclosed,Seed,Infynno Solutions,March 2026,Not yet checked,,,
+426,GoSats,Retail/Coupons and Deals,$5M,Series A,"Konvoy Ventures, Y Combinator",March 2026,Not yet checked,,,
+427,Style Baazar,Retail/Retail Chains,$8.94M,Series B,"Cupid, Chandurkar Investments",March 2026,Not yet checked,,,
+428,uppercase,Consumer/Fashion Tech,$2.15M,Series B,"Accel, Sixth Sense Ventures",March 2026,Not yet checked,,,
+429,Skillre,EdTech/Test Preparation,Undisclosed,Seed,Real Time Accelerator Fund,March 2026,Not yet checked,,,
+430,Aquapulse,Food/Aquaculture Tech,$2.68M,Series A,"NABVENTURES, Caspian Debt",March 2026,Not yet checked,,,
+431,Gabify,HealthTech/Healthcare IT,$175K,Seed,Inflection Point Ventures,March 2026,Entrackr,https://entrackr.com/snippets/gabify-raises-175k-in-pre-seed-round-led-by-inflection-point-ventures-11445677,Pre-seed,
+432,Gabify,HealthTech/Healthcare IT,$26.8K,Grant,GHRTBIF,March 2026,Entrackr,https://entrackr.com/snippets/gabify-raises-175k-in-pre-seed-round-led-by-inflection-point-ventures-11445677,Grant,
+433,Navanc,FinTech/RegTech,$1M,Seed,Prarambh Ventures (QED Innovation Labs and ~39 others participated),March 2026,Business Standard,https://www.business-standard.com/content/press-releases-ani/navanc-strengthens-pre-series-a-round-to-rs-10-5-cr-led-by-equentis-and-growthcap-ventures-to-back-india-s-first-ai-native-banking-infrastructure-126040200010_1.html,Pre-Series A (real seed was separate $1M round),CORRECTED — original entry conflated two separate rounds. This now reflects the real $1M seed led by Prarambh Ventures. Equentis Wealth separately led a ₹10.5cr Pre-Series A.
+434,InterCosmos,Defense Tech/Space,Undisclosed,Seed,Indian Angel Network,March 2026,Not yet checked,,,
+435,Xovian Aerospace,Defense Tech/Space,$2M,Seed,"Inflection Point Ventures, IIM Udaipur",March 2026,Not yet checked,,,
+436,TenderCuts,Food/Livestock Tech,$2M,Debt,NS Trading and Investments,March 2026,Not yet checked,,,
+437,CredResolve,FinTech/Banking Tech,Undisclosed,Seed,"Merak Ventures, PedalStart",March 2026,Not yet checked,,,
+438,Samekar,Enterprise/Business Process,$5M,Seed,CGB Capital,March 2026,Not yet checked,,,
+439,NowPurchase,Chemicals/Materials Tech,$8.5M,Series B,"Bajaj Finserv, Orios Venture Partners",March 2026,Not yet checked,,,
+440,Mahagun Group,Real Estate,$24M,Debt,CSL Finance,March 2026,Not yet checked,,,
+441,Bachatt,FinTech/Investment Tech,$12M,Series A,"Accel, Lightspeed Venture Partners",March 2026,Not yet checked,,,
+442,Proho,Consumer/Real Estate Tech,$1M,Seed,Bharath Vivek Chandhok,March 2026,Not yet checked,,,
+443,Dugar Finance,FinTech/Alternative Lending,$5M,Seed,"Hegdinvst, Symbiotics Group",March 2026,Not yet checked,,,
+444,Fanon,Consumer/Digital Publishing,$1M,Seed,Kalaari Capital,March 2026,Not yet checked,,,
+445,Amaha,Enterprise/HRTech,$5.28M,Series A,Fireside Ventures,March 2026,Not yet checked,,,
+446,Epik,Retail/E-Commerce,$1M,Seed,Info Edge Ventures,March 2026,Not yet checked,,,
+447,Pehle Jaisa,Food/Crop Tech,$1.27M,Seed,Unicorn India Ventures,March 2026,Not yet checked,,,
+448,Sign3,FinTech/Banking Tech,$1.5M,Seed,Cedar Hill Capital,March 2026,Not yet checked,,,
+449,Gnani.ai,High Tech/Generative AI,$7.18M,Series B,Aavishkaar Capital,March 2026,Not yet checked,,,
+450,Bacancy Systems,Energy Tech/EVs,$4.22M,Series A,Sabre Partners,March 2026,Not yet checked,,,
+451,Kuku FM,Consumer/Vernacular Platforms,Undisclosed,Angel,Mahendra Singh Dhoni,March 2026,Not yet checked,,,
+452,Indifi,FinTech/Alternative Lending,$4.22M,Conventional Debt,BlackSoil,March 2026,Not yet checked,,,
+453,Arya,Environment,Undisclosed,Seed,Axis AMC,March 2026,Not yet checked,,,
+454,Bellatrix Aerospace,Defense Tech/Space,$20M,Series A,Cactus Partners,March 2026,Not yet checked,,,
+455,Mtandt,Real Estate/Construction Tech,$10.6M,Series A,ValueQuest,March 2026,Not yet checked,,,
+456,Uncia,FinTech/Banking Tech,$3M,Seed,Pavestone Capital,March 2026,Not yet checked,,,
+457,Aditya Birla Renewables,Energy/Solar,Undisclosed,PE,Global Infrastructure Partners,March 2026,Not yet checked,,,
+458,Elmed Probiotics,Healthcare/Nutraceuticals,$2.7M,Seed,NABVENTURES,March 2026,Not yet checked,,,
+459,BeastLife,HealthTech/Fitness & Wellness,$2.13M,Seed,Gujarat Venture Finance,March 2026,Not yet checked,,,
+460,Fullife,Life Sciences/Nutraceuticals,$32M,Series D,Elev8,March 2026,Not yet checked,,,
+461,Thread Factory,Consumer/Fashion Tech,$160K,Seed,Aviral Bhatnagar,March 2026,Entrackr,https://entrackr.com/snippets/fashion-supply-startup-thread-factory-raises-pre-seed-funding-led-by-ajvc-11261936,Pre-seed,
+462,Rocketlane,Enterprise/Enterprise Collaboration,$60M,Series C,Insight Partners,March 2026,Not yet checked,,,
+463,Skyroot Aerospace,Defense Tech/Space,$10.8M,Conventional Debt,BlackRock,March 2026,Not yet checked,,,
+464,HURL,Food/Crop Inputs,$1.37B,Conventional Debt,IRFC,March 2026,Not yet checked,,,
+465,Proxgy,Real Estate/Construction Tech,$213K,Angel,Culture Cap,March 2026,Inc42,https://inc42.com/company/proxgy/,Undisclosed/Angel,
+466,Deccan AI,Business/AI Services,$25M,Series A,A91 Partners,March 2026,Not yet checked,,,
+467,Burma Burma,Food/Food Service,$4M,Series A,Negen Capital PMS,March 2026,Not yet checked,,,
+468,Kidbea,Retail/Mom & Baby Care,$3.2M,Series A,Enrission India Capital,March 2026,Not yet checked,,,
+469,Metafin,Financial Services,$10M,Conventional Debt,Lendable,March 2026,Not yet checked,,,
+470,Euler Motors,Energy Tech/EVs,$47M,Series E,Lightrock,March 2026,Not yet checked,,,
+471,RN Kids,Retail/Mom & Baby Care,$760K,Seed,Ashish Kacholia,March 2026,Indian Startup News,https://indianstartupnews.com/funding/stock-market-investor-ashish-kacholia-others-invest-rs-71-crore-in-pediatric-wellness-startup-rn-kids-11263379,Pre-seed,
+472,Pranos Fusion,Energy/Nuclear,$6.8M,Seed,pi Ventures,March 2026,Not yet checked,,,
+473,Swish,Food/Food Tech,$38M,Series B,Haraglobalcap,March 2026,Not yet checked,,,
+474,Tutorac Academy,EdTech/Test Preparation,$500K,Seed,Undisclosed,March 2026,Unverified — no corroboration found,,Unverified,FLAGGED AS LIKELY FABRICATED — no funding on record anywhere; Tracxn lists this company as unfunded. Recommend excluding from totals.
+475,Boston Green,Environment/Waste & Water,Undisclosed,PE,Fort Point Capital,March 2026,Not yet checked,,,
+476,Magical Nest,Retail/Mom & Baby Care,$439K,Seed,Stargazer Fund,March 2026,Entrackr,https://entrackr.com/snippets/magical-nest-operator-raanro-raises-pre-seed-round-11256761,Pre-seed,
+477,Workroom,High Tech/IoT,$661K,Seed,Equirus Wealth,March 2026,Entrackr,https://entrackr.com/snippets/workroom-automation-raises-seed-funding-led-by-equirus-innovatex-fund-11254713,Seed,
+478,Bidso,Industrial/Contract Manufacturing,$1.28M,Venture Debt,Alteria Capital,March 2026,Not yet checked,,,
+479,Bidso,Industrial/Contract Manufacturing,$5.44M,Series A,Blume Venture,March 2026,Not yet checked,,,
+480,RoamPrime,Consumer/Auto E-Commerce,$320K,Seed,Kriscore,March 2026,viestories,https://viestories.com/funding-alert/two-wheeler-re-commerce-platform-roamprime-raises-inr-3cr-11254662,Seed,
+481,Finfinity,FinTech/Alternative Lending,$2.4M,Seed,Mankind Pharma Family Office,March 2026,Not yet checked,,,
+482,LETZRYD,Consumer/Road Transport Tech,$4M,Series A,15th Rock,March 2026,Not yet checked,,,
+483,Mayson,High Tech/Generative AI,Undisclosed,Seed,Undisclosed,March 2026,Not yet checked,,,
+484,Cult.fit,HealthTech/Fitness & Wellness,$47M,Series F,Temasek,March 2026,Not yet checked,,,
+485,FusionStays,Travel/Travel Agencies,$80.2K,Seed,Vruddhi Capital,March 2026,FirstIndia,https://firstindia.co.in/articles/fusionstays-raises-inr-75-lakhs-in-pre-seed-funding-led-by-vruddhi-capital-kolkata-india,Pre-seed,
+486,Kyvex,High Tech/AI Infrastructure,Undisclosed,Angel,Vaibhav Arora,March 2026,Not yet checked,,,
+487,Neo Group,Financial Services/Asset Mgmt,$53.7M,PE,TVS Capital Funds,March 2026,Not yet checked,,,
+488,KSKT,Food/Online Grocery,$1M,Seed,Hindustan Media Ventures,March 2026,Not yet checked,,,
+489,Assiduus,Retail/Cross Border Commerce,$25M,Series A,Bajaj Finserv,March 2026,Not yet checked,,,
+490,Mave Health,HealthTech/Disease Management,$2.1M,Seed,Blume Venture,March 2026,Not yet checked,,,
+491,Pinq,Retail/Beauty Tech,$431K,Seed,Inflection Point Ventures,March 2026,Indian Retailer,https://www.indianretailer.com/news/funding-alert-pinq-polka-raises-rs-4-cr-pre-series-funding-led-inflection-point-ventures,Pre-Series A,
+492,Rymo Technologies,Life Sciences/Orthopedics,$1.08M,Seed,Indian Angel Network,March 2026,Entrackr,https://entrackr.com/snippets/neuro-rehabilitation-startup-rymo-technologies-secures-rs-10-cr-in-seed-round-11228049,Seed,
+493,DeepLase Technologies,Semiconductors/Photonics,$647K,Seed,MGF Kavachh,March 2026,PRNewswire,https://www.prnewswire.com/in/news-releases/iit-delhi-spinout-deeplase-raises-6-crore-seed-round-co-led-by-kavachh-and-yali-capital-302718682.html,Seed,
+494,BlackSoil,FinTech/Alternative Lending,$22M,Conventional Debt,Impact Fund Denmark,March 2026,Entrackr,https://entrackr.com/snippets/blacksoil-capital-raises-rs-200-cr-from-impact-fund-denmark-11224120,Conventional Debt,
+495,Credilio,FinTech/Alternative Lending,$3.3M,Series A,Cornerstone Ventures,March 2026,Entrackr,https://entrackr.com/exclusive/exclusive-credilio-kicks-off-series-a-valuation-jumps-27x-11224086,Series A,
+496,Weaver,Real Estate/Affordable Housing,$156M,Unattributed,Premji Invest,March 2026,Entrackr,https://entrackr.com/snippets/lightspeed-and-premji-invest-lead-170-mn-round-in-weaver-services-9675044,Financing (multi-tranche),
+497,Optimo Capital,Financial Services/SME Loans,$10.8M,Conventional Debt,Punjab National Bank,March 2026,Not yet checked,,,
+498,Aerchain,Enterprise/SCM Software,$13M,Series A,Pavestone Capital,March 2026,Raising.fi,https://raising.fi/news/aerchain-series-a-march-2026,Series A,
+499,Laani,Retail/Beauty Tech,$984K,Seed,V3 Ventures,March 2026,Entrackr,https://entrackr.com/snippets/personal-care-brand-laani-raises-rs-91-cr-in-pre-seed-round-11226896,Pre-seed,
+500,Burger Singh,Food/Food Service,$9M,Series B,Artal Asia,March 2026,YourStory,https://yourstory.com/2026/03/burger-singh-raises-rs-82-crore-series-b-funding-franchise-platform,Series B,
+501,Bamboobox,Enterprise/MarketingTech,$6.6M,Series A,Peak XV Partners,March 2026,YourStory,https://yourstory.com/2026/03/b2b-marketing-startup-bamboobox-raises-66-million-in-round-led-by-peak-xv,Series A,
+502,Zoomies,Retail/Pet Tech,$541K,Seed,D2C Insider,March 2026,Entrackr,https://entrackr.com/snippets/d2c-insider-super-angels-leads-pre-seed-round-in-pet-food-startup-zoomies-11220348,Pre-seed,
+503,CometChat,Enterprise/Customer Success,$6.5M,Series A,Run Ventures,March 2026,Yahoo Finance,https://finance.yahoo.com/news/cometchat-secures-6-5m-strategic-033000089.html,Series A,
+504,IG Defence,High Tech/Drones,$5M,Seed,India Accelerator,March 2026,Inc42,https://inc42.com/buzz/exclusive-ig-defence-raises-5-mn-to-scale-up-indigenous-drone-tech/,Pre-Series A,[DISCREPANCY] Listed as Seed; press reports Pre-Series A.
+505,Mannlich,Consumer/Personal Care,$294K,Seed,BeyondSeed,March 2026,viestories,https://viestories.com/funding-alert/d2c-grooming-brand-mannlich-raises-294k-in-seed-funding-led-by-beyondseed-11227073,Seed,
+506,Svasti,Financial/Microfinance,Undisclosed,Conventional Debt,Abler Nordic,March 2026,Svasti.in,https://www.svasti.in/2026/03/svasti-microfinance-raises-inr-47-5-crores/,Mixed equity & debt,[CONFIRMED] INR 47.5cr raised March 2026 from Abler Nordic and others.
+507,Euler Motors,Energy Tech/EVs,$8.12M,Series D,BlackSoil,March 2026,Not yet checked,,,
+508,Svasti,Financial/Microfinance,$5.14M,Series C,Abler Nordic,March 2026,Unverified — no corroboration found,,Unverified,"[UNVERIFIED] Verifying agent treated this as the same underlying Svasti raise as #506, not independently confirmed as a separate Series C."
+509,Moe Puppy,Retail/Pet Tech,$217K,Seed,PedalStart,March 2026,Entrackr,https://entrackr.com/snippets/d2c-pet-care-brand-moe-puppy-raises-pre-seed-round-led-by-pedalstart-11219941,Pre-seed,
+510,Velmenni,Telecom/Infrastructure Tech,$3.3M,Seed,pi Ventures,March 2026,Entrackr,https://entrackr.com/snippets/pi-ventures-leads-rs-30-cr-pre-series-a-round-in-deep-tech-company-velmenni-11219430,Pre-Series A,[DISCREPANCY] Listed as Seed; press reports Pre-Series A.
+511,Canvaloop,Consumer/Fashion Tech,$1.44M,Series A,Gujarat Venture Finance,March 2026,Entrackr,https://entrackr.com/snippets/biomaterials-startup-canvaloop-raises-15-mn-11262208,Seed/Series A,[DISCREPANCY] Amount listed $1.44M; sources show ~$1.5M.
+512,Woodsmen Mountain Whiskey,Food/Alcohol,$1.19M,Series A,DA Group,March 2026,Not yet checked,,,
+513,Ultrahuman,Consumer/Health Wearables,$48M,Series C,Undisclosed,March 2026,YourStory,https://yourstory.com/2026/03/ultrahuman-closes-rs-400-cr-series-c-round,Series C,
+514,Mannlich,Retail/Beauty Tech,$294K,Seed,BeyondSeed,March 2026,viestories,https://viestories.com/funding-alert/d2c-grooming-brand-mannlich-raises-294k-in-seed-funding-led-by-beyondseed-11227073,DUPLICATE of #505 — same deal,"DUPLICATE OF #505 — same March 18, 2026 BeyondSeed round, listed twice under different sector tags. Exclude from totals."
+515,Persistence,High Tech/Speech Recognition,$2M,Seed,AI Futures Fund,March 2026,Not yet checked,,,
+516,Ecofy,FinTech/Alternative Lending,$42M,Series B,British International Investment,March 2026,Entrackr,https://entrackr.com/news/ecofy-raises-rs-3805-cr-in-series-b-round-led-by-bii-and-finnfund-11216830,Series B,
+517,ReNew,Energy/Solar,$95M,Post IPO,LeapFrog Investments,March 2026,LeapFrog Investments,https://leapfroginvest.com/press-release/renew-secures-95m-investment-from-leapfrog-led-consortium-to-expand-its-ci-platform/,Post-IPO placement,
+518,Grapevine,Enterprise/HRTech,$4.1M,Series B,Kae Capital,March 2026,Entrackr,https://entrackr.com/snippets/grapevine-raises-41-mn-from-kae-capital-peak-xv-others-11219589,Seed/Undisclosed,"[DISCREPANCY] Listed as Series B; press describes it as seed/undisclosed, $4.1M led by Kae Capital & Peak XV."
+519,AGNIT Semiconductors,High Tech/Advanced Materials,$2.6M,Seed,Shastra,March 2026,Entrackr,https://entrackr.com/snippets/agnit-semiconductors-raises-26-mn-in-seed-extension-led-by-shastra-vc-11216664,Seed Extension,
+520,SoilSens,Food/Crop Tech,$53.9K,Angel,Namita Thapar,March 2026,Unverified — no corroboration found,,Unverified,"UNVERIFIED — no coverage links Namita Thapar to this company; the figure matches Tracxn's all-time funding total, not a single round."
+521,Fitkin,Consumer/Apparel,$108K,Angel,Vineeta Singh,March 2026,Apparel Resources,https://apparelresources.com/business-news/retail/fitkin-secures-us-108000-shark-tank-deal-targets-growth-womens-activewear/,Angel (Shark Tank),
+522,AgniKul,Space Tech,$2.7M,Series C,TIDCO,March 2026,Inc42,https://inc42.com/buzz/exclusive-agnikul-cosmos-secures-government-backing-with-25-crore-investment/,Series C / Other Equity,
+523,OMC Power,Energy/Solar,$17.3M,Series C,Undisclosed,March 2026,N/A,,Series C,"[PARTIAL] Series C round (Mar 13, 2026) confirmed; $17.3M amount not fully verified."
+524,WayCool,Food/Supply Chain,$22.7M,Series E,Lightrock,March 2026,Entrackr,https://entrackr.com/news/waycool-raises-rs-210-cr-from-lightrock-india-11211096,Series E,
+525,OneKiraana,Food/Packaging,$1.6M,Seed,Ankur Capital,March 2026,Marcamoney,https://www.marcamoney.com/onekiraana-raises-1-6-million-in-seed-funding-led-by-ankur-capital/,Seed,
+526,Ctruh,High Tech/AR/Metaverse,$109K,Angel,Anupam Mittal,March 2026,CIOL,https://www.ciol.com/funding-acquistion-merger/ctruh-raises-25-million-to-build-the-infrastructure-layer-of-the-spatial-internet-11784794,"Angel (Shark Tank) — caveat, URL covers separate $2.5M seed",
+527,GalaxEye,Space Tech,$4.8M,Series A,Speciale Invest,March 2026,Siliconindia,https://www.siliconindia.com/startup/startup-funding/galaxeye-secures-rs-44-crore-in-series-a-round-for-satellite-tech-nwid-53712.html,Series A Extension,
+528,Mosaic Wellness,HealthTech,$21.7M,Series B,360 One,March 2026,Entrackr,https://entrackr.com/news/mosaic-wellness-raises-rs-200-cr-from-360-one-spring-marketing-capital-partially-exits-11206195,Series B,
+529,Skye Air,Logistics Tech,$4M,Series B,Indian Angel Network,March 2026,IAN Group,https://iangroup.vc/2026/03/11/ian-alpha-fund-leads-series-b-investment-round-in-skye-air-mobility/,Series B,[DISCREPANCY] Listed $4M; actual total is $9M ($4M Series B1 + $5M Series B2 tranche).
+530,Confluxe,Retail/Brands Tech,$1.6M,Seed,Wavemaker Partners,March 2026,YourStory,https://yourstory.com/2026/03/former-myntra-hm-executives-launch-retail-tech-platform-confluxe-16-mln-pre-seed-funding,Pre-Seed,[DISCREPANCY] Listed as Seed; press reports Pre-Seed.
+531,Nprep,EdTech,$1.5M,Seed,Lumikai,March 2026,Entrepreneur India,https://www.entrepreneurindia.com/blog/en/news/edtech-startup-nprep-secures-15-million-funding-to-expand-ai-learning.59504,Seed,
+532,Constems-AI,High Tech/Surveillance,$2M,Seed,Finvolve,March 2026,Entrackr,https://entrackr.com/snippets/constems-ai-systems-raises-2-mn-led-by-finvolve-and-india-accelerator-11203937,Pre-Series A,[DISCREPANCY] Listed as Seed; press reports Pre-Series A.
+533,Fulva,Food/Beverage,Undisclosed,Angel,Aman Gupta,March 2026,Business Standard,https://www.business-standard.com/companies/news/aman-gupta-invests-in-keralabased-confectionery-brand-fulva-126031000644_1.html,Angel/Undisclosed,
+534,DrinkPrime,Smart Home Tech,$2.17M,Series B,Artha Venture Fund,March 2026,Raising.fi,https://raising.fi/news/drinkprime-series-a-march-2026,Series A3,[DISCREPANCY] Listed as Series B; press reports Series A3.
+535,Captain Fresh,Food/Aquaculture Tech,$31.4M,Debt,Blue Earth Capital,March 2026,YourStory,https://yourstory.com/2026/03/funding-captain-fresh-impact-investor-blue-earth-capital,Debt,
+536,Aqua Exchange,Food/Aquaculture Tech,$8M,Series B,Endiya Partners,March 2026,YourStory,https://yourstory.com/2026/03/aquaexchange-raises-8m-series-round-endiya-partners,Series B,
+537,Namma Yatri,Mobility Tech,$4.4M,Seed,Blume Ventures,March 2026,Entrackr,https://entrackr.com/exclusive/exclusive-google-backed-namma-yatri-raises-fresh-capital-11192150,Pre-Series A Extension,[DISCREPANCY] Listed as Seed; press reports Pre-Series A Extension.
+538,Mozark,Software Testing,$40M,Series B,IFC,March 2026,PRNewswire,https://www.prnewswire.com/news-releases/mozark-raises-40-million-series-b-to-expand-real-world-digital-experience-testing-globally-302710905.html,Series B,
+539,AGI Infra,Real Estate,$8.12M,Post IPO,Craft Emerging Market Fund,March 2026,Screener,https://www.screener.in/company/AGIIL/,Post-IPO,
+540,Yes Sir,Wellness Services,Undisclosed,Seed,Kolkata Ventures,March 2026,ANI News,https://www.aninews.in/news/business/kolkatas-startup-yes-sir-secures-funding-to-expand-men-only-at-home-massage-amp-grooming-services-across-india20260310124027/,Seed,
+541,NewTrace,Energy Storage,$6.3M,Seed,HDFC Bank,March 2026,Entrackr,https://entrackr.com/news/newtrace-raises-63-mn-in-pre-series-a-round-led-by-hdfc-bank-msivc-11191069,Seed,
+542,Awenest,Home Care E-commerce,$75.8K,Angel,Viraj Bahl,March 2026,Local Samosa,https://www.localsamosa.com/news/viraj-bahl-backs-kids-care-startup-awenest-11206007,Angel (Shark Tank),
+543,Basil,Food Service,$1.5M,Seed,Whiteboard Capital,March 2026,Entrackr,https://entrackr.com/snippets/basil-health-raises-15-mn-in-pre-series-a-round-11191786,Seed,"[DISCREPANCY] Basil Health is beverage brand, not food service; $1.5M from Whiteboard Capital confirmed"
+544,Verdant Impact,Food/Livestock Tech,$3M,Seed,Unicorn India Ventures,March 2026,Entrackr,https://entrackr.com/snippets/verdant-impact-raises-3-mn-in-seed-round-led-by-unicorn-india-ventures-11190942,Seed,
+545,True Balance,FinTech/Alternative Lending,$10M,Conventional Debt,Northern Arc Capital,March 2026,Entrackr,https://entrackr.com/snippets/true-balance-raises-10-mn-in-debt-11187964,Conventional Debt,
+546,ZOFF Foods,Food/Online Grocery,$2M,Series A,JM Financial Private Equity,March 2026,Entrackr,https://entrackr.com/snippets/zoff-foods-raises-2-mn-from-jm-financial-pe-11190432,Pre-Series B,[DISCREPANCY] Spice brand not online grocery; pre-Series B not Series A
+547,StrideOne,FinTech/Alternative Lending,$11M,Series B,Matrix,March 2026,Not yet checked,,,
+548,StrideOne,FinTech/Alternative Lending,Undisclosed,Conventional Debt,Matrix,March 2026,Unverified — no corroboration found,,Unverified,[UNVERIFIED] No corroboration for $11M StrideOne debt with Matrix
+549,BharatPe,FinTech/Payments,$10M,Conventional Debt,RevX Capital,March 2026,Unverified — no corroboration found,,Unverified,[UNVERIFIED] No $10M from RevX Capital found
+550,Nurix,High Tech/Chatbots,Undisclosed,Series A,Prosus,March 2026,Inc42,https://inc42.com/buzz/exclusive-prosus-joins-mukesh-bansal-led-nurix-ais-cap-table-with-fresh-capital-infusion/,Series A,[DISCREPANCY] Prosus Rs 135 Cr ($14.8M approx); additional funding with existing investors
+551,Zeno,Energy Tech/EVs,$25M,Series A,Congruent Ventures,March 2026,Unverified — no corroboration found,,Unverified,
+552,Zeno,Energy Tech/EVs,Undisclosed,Conventional Debt,Trifecta Capital,March 2026,Unverified — no corroboration found,,Unverified,
+553,Bonkers Corner,Consumer/Apparel,$10.5M,Series A,India SME Investments,March 2026,Entrackr,https://entrackr.com/news/d2c-brand-bonkers-corner-raises-105-mn-at-48-mn-valuation-11179893,Series A,[DISCREPANCY] $15M Series A (not $10.5M) from India SME Investments
+554,Hi-Q Electronics,Semiconductors/PCBs,$19.1M,PE,ValueQuest,March 2026,Unverified — no corroboration found,,Unverified,
+555,Rozana,Retail/Rural Ecommerce,$26.6M,Series B,Bertelsmann India Investments,March 2026,Entrackr,https://entrackr.com/news/rural-commerce-startup-rozana-raises-rs-290-cr-in-series-b-led-by-bertelsmann-11179444,Series B,[DISCREPANCY] Rs 290 Cr ($31.6M not $26.6M)
+556,ThunderPlus,Energy/Energy Storage,$327K,Conventional Debt,SBI,March 2026,APN News,https://www.apnnews.com/thunderplus-raises-3-crore-debt-from-sbi-to-scale-ev-charging-infrastructure/,Conventional Debt,
+557,Rozana,Retail/Rural Ecommerce,$5M,Conventional Debt,Bertelsmann India Investments,March 2026,Entrackr,https://entrackr.com/snippets/rozana-raises-%E2%82%B95-mn-in-debt-alongside-series-b-led-by-bertelsmann-india-investments-11807841,Conventional Debt,[PARTIAL] Debt mentioned but Bertelsmann involvement unconfirmed
+558,Cent,HealthTech/Healthcare IT,$5M,Seed,OneFlow Holdings,March 2026,Entrackr,https://entrackr.com/snippets/healthtech-startup-cent-secures-funding-from-oneflow-south-park-commons-11179508,Seed,
+559,Easy Fix,Consumer/Local Services,$651K,Seed,Campus Angels Network,March 2026,Tracxn,https://tracxn.com/d/angel-network/campus-angels-network/__iJ5sQa1njA_ytW8Pk61CkZAh0K3LifMDloCvpdVD-7o,Seed,
+560,Cheerio AI,Enterprise/Customer Success,$868K,Seed,Artha Venture Fund,March 2026,BestMediaInfo,https://bestmediainfo.com/mediainfo/mediainfo-digital/cheerio-ai-raises-rs-8-crore-seed-round-led-by-artha-venture-fund-ii-11177301,Seed,
+561,InfinityBox,Food/Food Tech,$1.53M,Seed,Rainmatter,March 2026,Entrackr,https://entrackr.com/exclusive/exclusive-rainmatter-leads-infinityboxs-pre-series-a-round-11177343,Pre-Series A,[DISCREPANCY] Rs 14.1 Cr ($1.7M); Pre-Series A not Seed
+562,Battery Smart,Energy Tech/EVs,$7.4M,Series B,Acacia Inclusion,March 2026,Entrackr,https://entrackr.com/exclusive/exclusive-battery-smart-kicks-off-pre-series-c-funding-round-11176828,Pre-Series C,[DISCREPANCY] $7.4M pre-Series C not Series B
+563,LUZO,Retail/Beauty Tech,$250K,Pre-seed,100X.VC,March 2026,Entrepreneur India,https://www.entrepreneur.com/en-in/news-and-trends/luzo-raises-250000-pre-seed-funding/455372,Pre-seed,CORRECTED — real round is $250K pre-seed led by 100X.VC; no separate $109K angel round exists.
+564,Peping,Food/Online Grocery,$271K,Seed,Indian Angel Network,March 2026,Indian Retailer,https://www.indianretailer.com/news/funding-alert-peping-bags-rs-25-cr-led-ian-angel-fund,Seed/Angel,
+565,Moneyboxx,Financial/Consumer Loans,$3.63M,Post IPO,Caspian Debt,March 2026,Unverified — no corroboration found,,Unverified,[UNVERIFIED] No $3.63M Moneyboxx debt with Caspian found
+566,Rimigo,Consumer/Online Travel,$550K,Pre-seed,"Reazon Capital, SGgrow Capital",March 2026,Entrackr,https://entrackr.com/snippets/travel-tech-company-rimigo-raises-550k-in-pre-seed-round-8996856,Pre-seed,"CORRECTED — real round is $550K pre-seed co-led by Reazon Capital + SGgrow, reported April 2025 (source lists it as March 2026 — likely misdated)."
+567,Bubble Me,Retail/Beauty Tech,$164K,Seed,ajvc,March 2026,Entrackr,https://entrackr.com/snippets/bubble-me-raises-rs-15-cr-in-pre-seed-round-led-by-ajvc-11171125,Pre-seed,
+568,Padhle,EdTech/K-12,Undisclosed,Seed,Filadd,March 2026,Unverified — no corroboration found,,Unverified,
+569,Land of Cakes,Food/Beverage,$109K,Angel,Anupam Mittal,March 2026,Outlook Business,https://www.outlookbusiness.com/corporate/pw-school-of-start-ups-alumna-modge-cakes-secures-1-cr-on-shark-tank-season-5,Angel (Shark Tank),
+570,Kaar Technologies,Business/ERP Services,$11M,Series B,Playbook Partners,March 2026,Entrackr,https://entrackr.com/news/kaartech-raises-11-mn-led-by-playbook-partners-11187444,Series B,[PARTIAL] $11M from Playbook confirmed; announced March not February
+571,Orbit Wallet,FinTech/Payments,$65.6K,Angel,100X.VC,March 2026,Tracxn,https://tracxn.com/d/companies/orbitwallet/___c3PmB1W_l_Ux0das6xOlbzz-87gW7RWRxyBacstoLo,Pre-seed (2024 round; 2026 claim unverified),FLAGGED — only a $269K pre-seed round from June 2024 is documented anywhere. This March 2026 $65.6K entry is unverified; may be a stale/misdated reference to the 2024 round.
+572,Turiyam.ai,AI/AGI,$4M,Seed,Ankur Capital,February 2026,Inc42,https://inc42.com/buzz/exclusive-turiyam-ai-raises-4-mn-to-build-full-stack-ai-hardware-platform/,Seed,[DISCREPANCY] $4M from Ankur Capital; announced March not February
+573,Bounce Infinity,Energy Tech/EVs,$3.9M,Series F,Accel,February 2026,Not yet checked,,,
+574,RAS Luxury Oils,Retail/Beauty Tech,$7.5M,Series B,Dabur,February 2026,Entrackr,https://entrackr.com/snippets/ras-luxury-skincare-raises-75-mn-in-series-b-led-by-dabur-ventures-11171406,Series B,[PARTIAL] $7.5M from Dabur; announced early March not February
+575,Inamo,Retail/E-Commerce Enablers,$6M,Series A,Prime Venture Partners,February 2026,Entrackr,https://entrackr.com/news/quick-commerce-enabler-inamo-raises-8-mn-led-by-prime-venture-partners-11167854,Series A,[DISCREPANCY] $8M not $6M; announced March not February
+576,Inamo,Retail/E-Commerce Enablers,$2M,Venture Debt,Prime Venture Partners,February 2026,Entrackr,https://entrackr.com/news/quick-commerce-enabler-inamo-raises-8-mn-led-by-prime-venture-partners-11167854,Venture Debt,[PARTIAL] $2M venture debt portion confirmed
+577,SFO Technologies,Industrial/Manufacturing,$82M,PE,Trident Growth Partners,February 2026,Business Standard,https://www.business-standard.com/companies/start-ups/sfo-tech-raises-750-cr-funding-led-by-trident-growth-amicus-capital-126030100535_1.html,PE,[DISCREPANCY] Rs 750 Cr ($90M not $82M); announced March not February
+578,Pronto,Consumer/Local Services,$25M,Series B,Epiq Capital,February 2026,Entrackr,https://entrackr.com/news/pronto-raises-25-mn-in-series-b-led-by-epiq-capital-11170918,Series B,
+579,Innoviti,Retail/In Store Retail Tech,$11.4M,Unattributed,Bessemer Venture Partners,February 2026,Inc42,https://inc42.com/buzz/exclusive-innoviti-closes-series-m-funding-round-at-%E2%82%B9104-cr/,Series M,[PARTIAL] Rs 104 Cr ($11.4M) and Bessemer confirmed; Series M not Unattributed
+580,RehabVeda,Life Sciences/Neurology,$110K,Angel,Mohit Yadav,February 2026,Parul University,https://www.paruluniversity.ac.in/news-and-awards/how-a-rehabilitation-startup-secured-a-deal-from-namita-thapar-and-mohit-yadav/,Angel (Shark Tank),
+581,The Artment,Consumer/Home Furnishing,$1.1M,Seed,Indian Angel Network,February 2026,YourStory,https://yourstory.com/2026/02/startup-news-and-updates-daily-roundup-february-27-2026,Seed,[PARTIAL] Seed from Indian Angel Network confirmed; specific $1.1M unconfirmed
+582,Grevoro,Enterprise/Manufacturing Tech,$4.73M,Seed,Undisclosed,February 2026,Inc42,https://inc42.com/buzz/grevoro-bags-%E2%82%B943-cr-from-family-offices-to-build-low-carbon-products/,Seed,
+583,Pragyan Child Development Centre,Healthcare/Rehabilitation,$110K,Angel,Namita Thapar,February 2026,CEOVine,https://www.ceovine.com/pragyan-child-development-centre-raises-rs-1-crore-on-shark-tank-india,Angel (Shark Tank),
+584,Temple,High Tech/Wearable Tech,$54M,Seed,Steadview,February 2026,Entrackr,https://entrackr.com/news/deepinder-goyals-new-startup-temple-raises-54-mn-at-a-190-mn-valuation-11161849,Seed,
+585,Nailinit,Retail/Beauty Tech,$330K,Seed,Gruhas Collective Consumer Fund,February 2026,StartupTalky,https://startuptalky.com/news/nailinit-raises-pre-seed-round-from-gruhas-collective-consumer-fund-to-build-a-community-led-nail-care-brand/,Pre-seed,
+586,FREED,FinTech/Alternative Lending,$6.6M,Series A,Aavishkaar Capital,February 2026,Entrackr,https://entrackr.com/snippets/aavishkaar-capital-leads-rs-60-cr-round-in-debt-relief-platform-freed-11158185,Series A,
+587,CurryIt,Food/Beverage,$165K,Angel,Mohit Yadav,February 2026,The Tribune,https://www.tribuneindia.com/news/business/curryit-secures-rs-1-5-crore-deal-on-shark-tank-india-from-mohit-yadav-of-minimalist/,Angel (Shark Tank),
+588,Reneonix,Environment/Waste & Water,$187K,Seed,Inflection Point Ventures,February 2026,StartupTalky,https://startuptalky.com/news/deep-tech-startup-reneonix-raises-1-70-crore-in-pre-seed-round-led-by-inflection-point-ventures/,Pre-seed,
+589,Gushwork,Enterprise/MarketingTech,$9M,Seed,SIG Venture Capital,February 2026,Entrackr,https://entrackr.com/snippets/gushwork-secures-9-mn-led-by-susquehanna-asia-vc-11157636,Seed,[DISCREPANCY] Lead is Susquehanna Asia VC not SIG Venture Capital
+590,Spintly,Real Estate/Facility Management,$8M,Series A,Accel,February 2026,Entrackr,https://entrackr.com/snippets/spintly-raises-8-mn-from-accel-enrission-india-and-others-11160379,Series A,
+591,Gut Clinic & Endoscopy Centre,Healthcare/Clinics,$1M,Seed,Amitoj Singh,February 2026,Entrackr,https://entrackr.com/snippets/healthcare-platform-gut-clinic-raises-1-mn-in-seed-round-11153828,Seed,
+592,Pulse,Healthcare/Medical Device Outsourcing,$4M,Seed,3one4 Capital,February 2026,Entrackr,https://entrackr.com/snippets/medical-equipment-startup-pulse-secures-4-mn-led-by-30ne4-capital-11152811,Seed,
+593,Misfits,Consumer/Social Platforms,$110K,Angel,Kanika Tekriwal,February 2026,Dealroom,https://app.dealroom.co/news/feed/misfits-bags-120-000-from-shark-tank-india-to-scale-offline-community-platform,Angel (Shark Tank),
+594,SuperProcure,Consumer/Logistics Tech,$1.6M,Seed,Pentathlon Ventures,February 2026,Business Standard,https://www.business-standard.com/content/press-releases-ani/superprocure-a-unified-tms-platform-secures-14-cr-investment-led-by-pentathlon-ventures-126022500400_1.html,Seed,
+595,Varaha,Environment/Air Pollution,$2.2M,Series B,Vaom Special Opportunity,February 2026,Business Standard,https://www.business-standard.com/companies/start-ups/varaha-series-b-45-million-westbridge-capital-126020401702_1.html,Series B,[DISCREPANCY] $45M from WestBridge not $2.2M from Vaom; climate-tech not air pollution
+596,Zeromoblt,EdTech/K-12,$165K,Seed,Sandeep Varaganti,February 2026,Entrackr,https://entrackr.com/snippets/student-mobility-startup-zeromobit-raises-pre-seed-round-11150709,Pre-seed,
+597,Home Essentials,Retail/Home Improvements,$7.7M,Series A,360 One,February 2026,Entrackr,https://entrackr.com/snippets/home-essentials-raises-rs-70-cr-in-pre-series-b-led-by-360-one-asset-11154140,Pre-Series B,[PARTIAL] Rs 70 Cr ($7.7M) confirmed; Pre-Series B not Series A
+598,OptoMl,High Tech/AI Infrastructure,$1.8M,Seed,Bluehill VC,February 2026,Entrackr,https://entrackr.com/snippets/semiconductor-startup-optoml-raises-18-mn-in-pre-series-a-round-11149795,Pre-Series A,[DISCREPANCY] Listed as Seed; press reports Pre-Series A.
+599,Basil,Retail/Home Improvements,$2M,Seed,Prime Venture Partners,February 2026,Entrackr,https://entrackr.com/snippets/d2c-brand-basil-raises-2-mn-in-pre-series-a-led-by-prime-venture-partners-11149862,Pre-Series A,[DISCREPANCY] Listed as Seed; press reports Pre-Series A.
+600,Puresta,Consumer/Beauty & Personal Care,$3.7M,Seed,Spring,February 2026,Inc42,https://inc42.com/buzz/puresta-bags-3-7-mn-to-build-ai-powered-full-stack-dermatology-platform/,Pre-Seed,[DISCREPANCY] Listed as Seed; press reports Pre-Seed.
+601,Kris@Work,Enterprise/Sales Automation,$3M,Seed,Info Edge Ventures,February 2026,Incubees,https://incubees.com/kriswork-raises-3m-seed-funding-led-by-infoedge-ventures-to-build-the-new-ai-native-go-to-market-gtm-execution-platform/,Seed,
+602,OnCare,Healthcare/Clinic Chains,$2.97M,Series A,Sky Impact Capital,February 2026,StartupNews.fyi,https://startupnews.fyi/2026/02/24/healthcare-startup-oncare-raises-rs-27-crore-in-round-led-by-sky-impact-capital/,Series A,"[DISCREPANCY] Amount ~₹27cr (~$3.24M) vs listed $2.97M, minor."
+603,Wishlink,Retail/Social Commerce,$17.5M,Series B,Vertex Ventures,February 2026,Entrackr,https://entrackr.com/news/wishlink-raises-175-mn-in-series-b-round-led-by-vertex-ventures-11149626,Series B,
+604,Hycosys,Energy Tech/Energy Storage,$1M,Seed,MountTech Growth Fund,February 2026,Entrackr,https://entrackr.com/snippets/hycosys-raises-seed-round-led-by-mounttech-growth-funds-kavachh-11147416,Seed,
+605,Coulomb Litech,Energy/Energy Storage,$2.2M,Seed,Anikarth Ventures,February 2026,Energetica India,https://energetica-india.net/news/coulomb-litech-raises-usd-2-2-million-for-heavy-ev-batteries,Seed,
+606,My Designation,Consumer/Apparel,$4.41M,Series A,RPSG Capital Ventures,February 2026,Entrackr,https://entrackr.com/snippets/d2c-fashion-brand-mydesignation-raises-40-cr-in-series-a-round-11146761,Series A,
+607,DATOMS,Enterprise/Manufacturing Tech,$2.76M,Series A,Big Capital JSC,February 2026,Entrackr,https://entrackr.com/snippets/deeptech-iot-startup-datoms-raises-rs-25-cr-in-series-a-led-by-big-capital-jsc-11146538,Series A,
+608,Heizen,High Tech/Agentic AI,$99K,Angel,Amit Jain,February 2026,CEOVine,https://www.ceovine.com/heizen-secures-rs-90-lakh-deal-on-shark-tank-india/,Angel (Shark Tank),
+609,Hoopr,Consumer/Music Tech,Undisclosed,Seed,TCA,February 2026,StartupNews.fyi,https://startupnews.fyi/2026/02/25/optoml-has-raised-1-8-million/,Pre-Series A,[DISCREPANCY] Listed as Seed; press reports Pre-Series A. (Source URL may be mismatched by verifying agent.)
+610,Myelin Foundry,High Tech/Agentic AI,$5.27M,Series B,ASM Technologies,February 2026,Inc42,https://inc42.com/buzz/ai-startup-myelin-foundry-raises-48-cr-from-asm-technologies/,Series B,
+611,Maity,Healthcare/Home Healthcare,Undisclosed,Angel,Favcy Venture Builders,February 2026,Startup Story,https://startupstorymedia.com/from-corporate-careers-to-caring-for-indias-elders-maitys-secures-angel-funding-to-scale-the-silver-economy/,Angel,
+612,Roopya,FinTech/Alternative Lending,$439K,Seed,Inflection Point Ventures,February 2026,Entrackr,https://entrackr.com/snippets/lending-infra-startup-roopya-raises-seed-round-led-by-ipv-11138087,Seed,
+613,CoreShield,High Tech/Security & Surveillance,Undisclosed,Seed,ThinKuvate,February 2026,Fundz.net,https://app.fundz.net/fundings/coreshield-technologies-funding-round-seed-b458ca,Seed,[DISCREPANCY] Listed as undisclosed; press reports $7.832M.
+614,Kelvin6k,Real Estate/Construction Tech,$110K,Angel,Ritesh Agarwal,February 2026,D2C Insider Pulse,https://pulse.d2cinsider.com/kelvin6k-secures-1-crore-shark-tank-deal-to-accelerate-3d-printed-sustainable-construction-in-india/,Angel (Shark Tank),
+615,Pluto Mobility,Energy Tech/EVs,$2M,Seed,Version One Ventures,February 2026,Entrackr,https://entrackr.com/snippets/pluto-mobility-raises-2-mn-in-seed-round-11132728,Seed,
+616,Portkey,High Tech/AI Infrastructure,$15M,Series A,Elevation Capital,February 2026,YourStory,https://yourstory.com/2026/02/ai-application-infra-startup-portkey-raises-series-a-round-elevation-capital,Series A,
+617,Gappu,Consumer/Social Platforms,$22K,Conventional Debt,Amit Jain,February 2026,Startup Article,https://startuparticle.com/shark-tank-india/2026/02/i-feel-like-supporting-you-amit-jain-to-gappu-on-shark-tank-india-season-5-episode-34/,Debt tranche (Shark Tank),
+618,Gappu,Consumer/Social Platforms,$11K,Angel,Amit Jain,February 2026,Startup Article,https://startuparticle.com/shark-tank-india/2026/02/i-feel-like-supporting-you-amit-jain-to-gappu-on-shark-tank-india-season-5-episode-34/,Angel tranche (Shark Tank),
+619,Zoop,Retail/Video Commerce,Undisclosed,Seed,Peak XV Partners,February 2026,YourStory,https://yourstory.com/2026/02/peak-xv-partners-invests-in-zoop-indias-first-video-bazaar,Seed,
+620,Stable Money,FinTech/Investment Tech,$25M,Series B,Peak XV Partners,February 2026,YourStory,https://yourstory.com/2026/02/stable-money-raises-25-million-in-pre-series-c-funding-led-by-peak-xv-partners,Pre-Series C,[DISCREPANCY] Listed as Series B; press reports Pre-Series C.
+621,Statiq,High Tech/Smart Cities,Undisclosed,Conventional Debt,Undisclosed,February 2026,Unverified — no corroboration found,,Unverified,
+622,House of Biryan,Food/Food Tech,Undisclosed,Angel,Amol Parashar,February 2026,Afaqs,https://www.afaqs.com/news/mktg/amol-parashar-joins-ms-dhoni-as-house-of-biryan-investor-11123161,Angel,
+623,Memfold,Enterprise/MarketingTech,Undisclosed,Seed,Peak XV Partners,February 2026,Entrepreneur India,https://www.entrepreneurindia.com/blog/en/news/five-ai-startups-secure-peak-xv-support-to-build-population-scale-solutions.59306,Seed,
+624,Statiq,High Tech/Smart Cities,$18M,Series A,Tenacity Ventures,February 2026,YourStory,https://yourstory.com/2026/02/statiq-raises-18m-tenacity-ventures,Series A,
+625,ToneTag,FinTech/Payments,$5M,Series B,Qualcomm Ventures,February 2026,Business Standard,https://www.business-standard.com/companies/start-ups/tonetag-secures-5-mn-from-qualcomm-ventures-to-scale-sound-based-payments-126021801350_1.html,Series B Extension,
+626,BabyWorks By Swapnil,Consumer/Fashion Accessories,$66.2K,Angel,Aman Gupta,February 2026,Startup Article,https://startuparticle.com/shark-tank-india/2026/02/babyworks-by-swapnil-secures-60-lakh-investment-for-6-equity-from-shark-aman-gupta/,Angel (Shark Tank),
+627,Grapevine,Enterprise/HRTech,Undisclosed,Series A,Peak XV Partners,February 2026,Not yet checked,,,
+628,Annapurna Finance,Financial/Microfinance,$100M,Conventional Debt,Undisclosed,February 2026,StartupNews.fyi,https://startupnews.fyi/2026/02/19/annapurna-finance-100m-social-loan/,Conventional Debt,
+629,TruBoard,Energy/Renewable Energy,$2.2M,Seed,Earthfund,February 2026,Entrackr,https://entrackr.com/snippets/truboard-partners-raises-rs-20-cr-led-by-earth-fund-11125735,Seed,
+630,Zeroharm,Life Sciences/Nutraceuticals,$4.41M,Series A,Kotak Life Sciences Fund I,February 2026,YourStory,https://yourstory.com/2026/02/zeroharm-sciences-raises-rs-65-cr-led-by-kotak-life-sciences-fund,Series A,[DISCREPANCY] Total round ₹65cr; Kotak's tranche alone is ₹40cr (~$4.8M) vs listed $4.41M.
+631,Mama Nourish,Food/Online Grocery,$221K,Angel,Aman Gupta,February 2026,Inc42,https://inc42.com/company/mama-nourish/funding/,Angel (Shark Tank),
+632,Peptris,HealthTech/Life Sciences,$7.72M,Series A,Speciale Invest,February 2026,YourStory,https://yourstory.com/2026/02/peptris-raises-rs-70-crore-in-series-a-co-led-by-ian-alpha-fund-and-speciale-invest,Series A,
+633,HomeRun,Real Estate/Construction Tech,$6.6M,Series A,Sorin,February 2026,Entrackr,https://entrackr.com/snippets/homerun-raises-rs-60-cr-in-series-a-led-by-sorin-investments-11112913,Series A,
+634,Exponent One,FinTech/Alternative Lending,$2M,Seed,AdvantEdge,February 2026,YourStory,https://yourstory.com/2026/02/exponent-energy-ev-financing-arm-exponent-one-funding-advantedge-founders,Pre-Seed,[DISCREPANCY] Listed as Seed; press reports Pre-Seed.
+635,Rosada,Retail/Mom & Baby Care,$138K,Angel,Ritesh Agarwal,February 2026,Apparel Resources,https://apparelresources.com/business-news/retail/kids-lifestyle-brand-rosada-secures-investment-deal-shark-tank-india/,Angel (Shark Tank),
+636,Companion Labs,High Tech/Chatbots,Undisclosed,Seed,Peak XV Partners,February 2026,Inc42,https://inc42.com/buzz/exclusive-ai-companion-app-mello-in-talks-with-peak-xv-devc-to-raise-funding/,Seed,[DISCREPANCY] Listed as undisclosed; press reports $2.5M from Peak XV Surge.
+637,CraftifAI,Native AI,$3M,Seed,Ankur Capital,February 2026,Entrackr,https://entrackr.com/snippets/craftifai-secures-3-mn-in-seed-round-led-by-ankur-capital-11121741,Seed,
+638,Daffodil Health,Consumer/Social Platforms,$16.3M,Series A,Flare Capital Partners,February 2026,YourStory,https://yourstory.com/2026/02/daffodil-health-raises-16-3-million-in-series-a-funding-led-by-flare-capital/,Series A,
+639,Artociti,Retail/Retailers,$110K,Angel,Vineeta Singh,February 2026,Entrackr,https://entrackr.com/snippets/artociti-raises-rs-1-cr-on-shark-tank-india-at-rs-1333-cr-valuation-11124946,Angel (Shark Tank),
+640,Kreo,Retail/Consumer Electronics,$110K,Angel,Ritesh Agarwal,February 2026,Indian Retailer,https://www.indianretailer.com/news/funding-alert-gaming-brand-kreo-raises-funding-shark-tank-india-rs-100-cr-valuation,Equity tranche (Shark Tank),
+641,Kreo,Retail/Consumer Electronics,$110K,Conventional Debt,Ritesh Agarwal,February 2026,Indian Retailer,https://www.indianretailer.com/news/funding-alert-gaming-brand-kreo-raises-funding-shark-tank-india-rs-100-cr-valuation,Debt tranche (Shark Tank),
+642,EventBeep,EdTech/Higher Education,$850K,Seed,Knowhere,February 2026,Entrackr,https://entrackr.com/snippets/edtech-startup-beep-raises-850k-in-pre-series-a-round-11116886,Pre-Series A,
+643,Intrinsic Foundries,Environment/Air Pollution,$1.4M,Seed,Transition VC,February 2026,Entrackr,https://entrackr.com/snippets/intrinsic-foundries-raises-rs-12-cr-in-seed-round-led-by-transition-vc-11116737,Seed,
+644,Kello,Enterprise/HRTech,Undisclosed,Seed,Peak XV Partners,February 2026,Peak XV,https://www.peakxv.com/companies/kello-ai,Seed,
+645,Navikenz,Business/Digital Transformation,$7.5M,Seed,Sudip Nandy,February 2026,CXO Today,https://cxotoday.com/media-coverage/navikenz-raises-7-5m-in-seed-funding-to-drive-ai-led-enterprise-productivity-transformation/,Seed,
+646,PRED,Consumer/Sports Tech,$2.5M,Seed,Accel,February 2026,DL News,https://www.dlnews.com/external/pred-raises-dollar25m-to-build-the-fastest-trading-experience-in-sports-prediction/,Seed,
+647,Happy Pet Tech,Consumer/Local Services,Undisclosed,Angel,Devi Prasad Shetty,February 2026,Tribune India,https://www.tribuneindia.com/news/business/happy-pet-indias-first-pet-tech-company-secures-strategic-funding-from-dr-devi-shetty/,Angel,
+648,Clayco,Retail/Beauty Tech,$3.3M,Series A,Twenty Nine Capital Partners,February 2026,Entrackr,https://entrackr.com/snippets/skincare-brand-clayco-raises-rs-3459-cr-in-series-a-led-by-twenty-nine-capital-11701187,Series A,
+649,Neysa,Enterprise/Cloud Infrastructure,$600M,Series B,TVS Capital Funds,February 2026,Blackstone,https://www.blackstone.com/news/press/blackstone-leads-funding-of-over-1-billion-to-neysa-to-work-towards-building-indias-leading-ai-infrastructure-platform,Series B,[DISCREPANCY] Listed only TVS Capital; Blackstone led the $600M round with TVS as co-investor.
+650,C2I Semiconductors,Semiconductors,$15M,Series A,Peak XV Partners,February 2026,Not yet checked,,,
+651,Atypical Advantage,Enterprise/HRTech,$290K,Seed,Next Bharat Ventures,February 2026,Tracxn,https://tracxn.com/d/companies/atypicaladvantage/__loTVwz9v9UHahrJcrUJe5MzTw1vVpj96VVhCNOrQ0sw/funding-and-investors,Seed,
+652,MeMeraki,Retail/Home Improvements,$110K,Angel,Varun Alagh,February 2026,StartupTalky,https://startuptalky.com/news/memeraki-secures-four-shark-investment-of-1-crore-on-shark-tank-india/,Angel (Shark Tank),
+653,IDfy,Enterprise/GRC Software,$24.3M,Series F,Neo Asset Management,February 2026,Not yet checked,,,
+654,e-TRNL Energy,Energy/Energy Storage,$3.02M,Seed,Indian Angel Network,February 2026,Not yet checked,,,
+655,Warriorworld,Consumer/Apparel,$82.8K,Angel,Vineeta Singh,February 2026,InFashionBusiness,https://infashionbusiness.com/home/news_details/7355/11,Angel (Shark Tank),
+656,Culinary Brands,Food/Food Service,$15M,Series B,Playbook Partners,February 2026,Not yet checked,,,
+657,Edify.Club,Retail/Consumer Electronics,Undisclosed,Angel,Ravi Bishnoi,February 2026,Not yet checked,,,
+658,Six Sense Mobility,Consumer/Road Transport,$4.8M,Seed,Piper Serica,February 2026,Not yet checked,,,
+659,GREW Solar,Energy/Solar,$116M,Series D,Bay Capital,February 2026,Not yet checked,,,
+660,The Binge Town,Undisclosed,$110K,Conventional Debt,Varun Alagh,February 2026,BW Disrupt,https://www.bwdisrupt.com/article/the-binge-town-secures-rs-2-cr-on-shark-tank-india-receives-show-s-highest-ever-rs-8-cr-offer-593162,Debt tranche (Shark Tank),
+661,The Binge Town,Undisclosed,$110K,Angel,Varun Alagh,February 2026,India IPO,https://www.indiaipo.in/news/detail/the-binge-town-bags-rs-2-crore-on-shark-tank-india,Angel/Equity tranche (Shark Tank),
+662,Ukhi,High Tech/Advanced Materials,$1.16M,Seed,Venture Catalysts,February 2026,Not yet checked,,,
+663,Elixiir Foods,Food/Online Grocery,$9M,Seed,3one4 Capital,February 2026,Not yet checked,,,
+664,Azista,Food/Beverage,$551K,Grant,IN-SPACe,February 2026,Inc42,https://inc42.com/buzz/dhruva-astrome-azista-to-build-indigenous-small-satellite-bus-platforms/,Grant (IN-SPACe),
+665,Digitory,Food/Food Tech,$500K,Seed,Tejas Paresh Lodaya,February 2026,Entrackr,https://entrackr.com/snippets/restaurant-tech-startup-digitory-raises-pre-series-a-funding-from-tejas-paresh-lodaya-11099615,Pre-Series A,
+666,Dhruva Space,Defense Tech/Space,$551K,Grant,IN-SPACe,February 2026,Inc42,https://inc42.com/buzz/dhruva-astrome-azista-to-build-indigenous-small-satellite-bus-platforms/,Grant (IN-SPACe),
+667,Astrome,Telecom/Infrastructure Tech,$551K,Grant,IN-SPACe,February 2026,Inc42,https://inc42.com/buzz/dhruva-astrome-azista-to-build-indigenous-small-satellite-bus-platforms/,Grant (IN-SPACe),
+668,7 Ring,FinTech/Payments,Undisclosed,Seed,Shivam Malhotra,February 2026,Not yet checked,,,
+669,CotoPay,FinTech/Finance & Accounting,$82.8K,Angel,Anupam Mittal,February 2026,Inc42,https://inc42.com/company/cotopay/funding/,Angel (Shark Tank),
+670,PickMyWork,Enterprise/HRTech,$500K,Angel,Tim Draper,February 2026,ANI News,https://aninews.in/news/business/pickmywork-raises-capital-from-silicon-valley-billionaire-tim-draper20260211155646/,Angel,
+671,TimBuckDo,Enterprise/HRTech,$298K,Seed,Turbostart,February 2026,ThePrint,https://theprint.in/ani-press-releases/timbuckdo-closes-rs-2-70-crore-funding-round-backed-by-industry-titans-and-vcs-after-national-tv-showcase-on-ideabaaz/2854144/,Seed,
+672,Articulus Surgical,High Tech/Professional Service Robots,Undisclosed,Seed,Kalaari Capital,February 2026,Not yet checked,,,
+673,ShowroomB2B,Retail/Brands Tech,Undisclosed,Conventional Debt,Alteria Capital,February 2026,Not yet checked,,,
+674,Crink,HealthTech/Disease Management,$199K,Seed,Kerala Startup Mission,February 2026,ANI News,https://www.aninews.in/news/business/crink-secures-rs-18-crore-pre-seed-funding-to-scale-its-ai-driven-human-wellbeing-platform20260211173747/,Pre-seed,
+675,Care.fi,HealthTech/Healthcare IT,$5M,Series A,July Ventures,February 2026,Not yet checked,,,
+676,Care.fi,HealthTech/Healthcare IT,$3M,Conventional Debt,Trifecta Capital,February 2026,Not yet checked,,,
+677,Nester,Retail/Home Improvements,$2.1M,Seed,Fireside Ventures,February 2026,Not yet checked,,,
+678,Panda's Box,Retail/Mom & Baby Care,$132K,Angel,Aman Gupta,February 2026,Entrackr,https://entrackr.com/snippets/early-learning-startup-pandas-box-raises-rs-12-cr-from-shark-tank-india-11092671,Angel (Shark Tank),
+679,SportsSkill,Consumer/Sports Tech,Undisclosed,Angel,Nirav Mody,February 2026,Not yet checked,,,
+680,GIVA,Consumer/Fashion Tech,$11.1M,Series C,IQ-EQ,February 2026,Not yet checked,,,
+681,Benny's Bowl,Retail/Pet Tech,$1.4M,Seed,Atomic Capital,February 2026,Not yet checked,,,
+682,Ethera,Consumer/Fashion Accessories,$2.75M,Seed,BlueStone,February 2026,Not yet checked,,,
+683,Litemed,HealthTech/Disease Management,$2.21M,Seed,V3 Ventures,February 2026,Not yet checked,,,
+684,Slurrp Farm,Food/Beverage,$3.3M,Series C,Scarlet Ventures,February 2026,Not yet checked,,,
+685,Supertails,Retail/Pet Tech,$30M,Series C,Venturi Partners,February 2026,Not yet checked,,,
+686,Olyv,Financial Services,$23M,Series C,Fundamentum,February 2026,Not yet checked,,,
+687,DSLR,Consumer/Apparel,$9M,Series A,Z47,February 2026,Not yet checked,,,
+688,Satlabs Space Systems,Space Tech,$1M,Seed,Finvolve,February 2026,Not yet checked,,,
+689,Elevate Now,HealthTech,$1.99M,Seed,Physis Capital,February 2026,Not yet checked,,,
+690,Radiance Renewables,Solar Energy,$100M,Series C,Impact Fund Denmark,February 2026,Not yet checked,,,
+691,Preventify,Healthcare,$221K,Seed,PedalStart,February 2026,India Technology News,https://indiatechnologynews.in/preventify-raises-2-crore-pre-seed-funding-led-by-pedalstart-to-expand-branded-healthcare-clinics-in-tier-2-and-tier-3-india/,Pre-seed,
+692,Fiona Diamond,Fashion Tech,$1.93M,Seed,Recur Club,February 2026,Not yet checked,,,
+693,KILRR,Food Tech,$110K,Angel,Anupam Mittal,February 2026,Indian Retailer,https://www.indianretailer.com/news/funding-alert-clean-label-meat-brand-kilrr-gets-anupam-mittals-back-shark-tank-india-pitch,Angel (Shark Tank),
+694,Wholeleaf,Cannabis HealthTech,$166K,Angel,Aman Gupta,February 2026,Indian Retailer,https://www.indianretailer.com/news/funding-alert-wholeleaf-bags-rs-15-cr-funding-shark-tank-india-season-5,Seed (Shark Tank),
+695,Jaincord,Manufacturing,$22.1M,Series A,Indroma Ventures,February 2026,Not yet checked,,,
+696,House of EM5,Beauty Tech,Undisclosed,Angel,Suryakumar Yadav,February 2026,Not yet checked,,,
+697,KUHI BATH,Beauty & Personal Care,$11.1K,Grant,Government of Assam,February 2026,Unverified — no corroboration found,,Unverified,"UNVERIFIED — ₹11.1K Assam government grant, too small/regional for any outlet to have covered. Plausible but uncorroborated."
+698,Material Depot,Home Improvement,$10M,Series A,Accel,February 2026,Not yet checked,,,
+699,Dr Doodley,Pet Tech,$2.21M,Seed,V3 Ventures,February 2026,Not yet checked,,,
+700,Dr Doodley,Pet Tech,$1.11M,Debt,V3 Ventures,February 2026,Not yet checked,,,
+701,Digital Striker,Telecom Infrastructure,$1M,Seed,Foxhog Ventures,February 2026,Not yet checked,,,
+702,Good Monk,Food & Beverage,$3.65M,Seed,RPSG Capital Ventures,February 2026,Not yet checked,,,
+703,ZILO,Fashion Tech,$15.3M,Series A,Peak XV Partners,February 2026,Not yet checked,,,
+704,Octobotics Tech,Robotics,$1.11M,Seed,Navam Capital,February 2026,Not yet checked,,,
+705,EyeROV,Maritime Tech,$1.44M,Seed,AWE Funds,February 2026,Not yet checked,,,
+706,Invogue Shop,Fashion Tech,$221K,Angel,Aman Gupta,February 2026,Apparel Resources,https://in.apparelresources.com/business-news/retail/shapewear-brand-invogue-raises-us-22000-shark-tank-india-us-1-47-million-valuation/,Angel (Shark Tank),
+707,ALT,FinTech,$664K,Seed,Nila Spaces,February 2026,CB Insights,https://www.cbinsights.com/company/alt-drx/financials,Seed,
+708,The Whole Truth Foods,Food Tech,Undisclosed,Series D,Sofina,February 2026,Not yet checked,,,
+709,NASH,Auto Components,Undisclosed,PE,ChrysCapital,February 2026,Not yet checked,,,
+710,Natturz,Plant-based Dairy,$1M,Seed,35North Ventures,February 2026,Entrackr,https://entrackr.com/snippets/alternative-dairy-startup-15-degree-raises-1-mn-in-pre-series-a-led-by-35north-ventures-11074779,Pre-Series A,"[DISCREPANCY] Real company is ""1.5 Degree""; round mislabeled (Pre-Series A, not Seed)."
+711,Gamepoint,Sports Tech,$775K,Seed,Raj P Narayanam,February 2026,Entrackr,https://entrackr.com/snippets/sports-tech-startup-gamepoint-raises-pre-series-a-round-11075216,Pre-Series A,
+712,Krvvy,Fashion Tech,$133K,Angel,Namita Thapar,February 2026,Indian Retailer,https://www.indianretailer.com/news/funding-alert-krvvy-raises-rs-12-cr-shark-tank-india-rs-40-cr-valuation,Angel (Shark Tank),
+713,CHINI KUM,Food & Beverage,$111K,Angel,Varun Sachdeva,February 2026,Entrackr,https://entrackr.com/snippets/beverage-startup-chini-kum-raises-pre-seed-funding-11077951,Pre-seed,
+714,EndureAir,Military Tech,Undisclosed,Series A,Sagar Defence Engineering,February 2026,Inc42,https://inc42.com/buzz/dronetech-startup-endureair-raises-inr-25-cr-from-ian-alpha-fund/,Seed (IAN Alpha),"[DISCREPANCY] Drone-tech, not military tech; the listed Series A with Sagar Defence not found."
+715,Taasha Craft,Fashion Tech,$83K,Angel,Aman Gupta,February 2026,Indian Retailer,https://www.indianretailer.com/news/funding-alert-taasha-craft-secures-rs-75-lakh-deal-shark-tank-india-season-5,Angel (Shark Tank),
+716,Neverinstall,Cloud OS,Undisclosed,Seed,Equirus Capital,February 2026,Unverified — no corroboration found,,Unverified,
+717,Mindcase,MarketingTech,$164K,Seed,ajvc,February 2026,Entrackr,https://entrackr.com/snippets/market-intelligence-startup-mindcase-raises-seed-funding-led-by-ajvc-11069641,Seed,
+718,ONYC,Fashion Tech,$164K,Debt,Recur Club,February 2026,Tracxn,https://tracxn.com/d/companies/onyc/__47_052tT45k4NnEx_4SS4-z9OdXcr4odlRNooLaBdtE/funding-and-investors,Debt,
+719,ONYC,Fashion Tech,$378K,Seed,Recur Club,February 2026,Tracxn,https://tracxn.com/d/companies/onyc/__47_052tT45k4NnEx_4SS4-z9OdXcr4odlRNooLaBdtE/funding-and-investors,Seed,
+720,Trisu,Fashion Tech,$115K,Angel,Ankur Mittal,February 2026,LinkedIn (Wizzy AI),https://www.linkedin.com/posts/wizzy-ai_trisu-raises-105-crore-for-525-equity-activity-7424690651323281408-CJqR,Angel,
+721,Varaha,Climate Tech,$20M,Series B,WestBridge Capital,February 2026,Entrackr,https://entrackr.com/news/climate-tech-startup-varaha-raises-20-mn-in-series-b-led-by-westbridge-capital-11074654,Series B,[CONFIRMED] $20M tranche of a larger $45M Series B.
+722,JS Auto Cast Foundry,Manufacturing,$32.8M,PE,Premji Invest,February 2026,Unverified — no corroboration found,,Unverified,
+723,Dreamfly Innovations,Energy Tech,$327K,Venture Debt,SIDBI,January 2026,Entrackr,https://entrackr.com/snippets/dreamfly-innovations-raises-rs-3-cr-debt-from-sidbi-11066996,Venture Debt,
+724,63SATS,Business/IT Services,$26.7M,Series B,Aarii Ventures,January 2026,YourStory,https://yourstory.com/2026/02/63sats-cybertech-raises-rs-245-cr-to-build-cybersecurity-for-the-ai-era,Series B,[DISCREPANCY] Listed as Business/IT Services; actually cybersecurity.
+725,REGRIP,Auto/Auto Retail,$545K,Conventional Debt,"SiriusOne, Red Bricks Capital",January 2026,Inc42,https://inc42.com/buzz/refurbished-tyre-startup-regrip-nets-funding-from-siriusone/,Debt tranche (part of larger raise),"CORRECTED — investors are named equity leads, not undisclosed. This debt tranche is part of a larger ₹20.25cr equity+debt raise."
+726,REGRIP,Auto/Auto Retail,$1.66M,Seed,Auxano,January 2026,Unverified — no corroboration found,,Unverified,
+727,Shesha Ayurveda,Retail/Beauty Tech,$218K,Angel,Aman Gupta,January 2026,Indian Retailer,https://www.indianretailer.com/news/funding-alert-shesha-ayurveda-secures-funding-shark-tank-india-season-5,Angel (Shark Tank),
+728,Avni Wellness,Retail/Beauty Tech,$84.5K,Angel,Arokiaswamy Velumani,January 2026,D2C Insider Pulse,https://pulse.d2cinsider.com/avni-wellness-raises-77-5-lakh-on-bharat-ke-super-founders-strengthening-indias-sustainable-menstrual-d2c-movement/,Angel (BKSF),
+729,JJG Machining Group,Industrial Manufacturing,$30M,Series B,Norwest,January 2026,Entrackr,https://entrackr.com/news/aerospace-components-manufacturer-jjg-aero-raises-30-mn-led-by-norwest-11066196,Series B,"[DISCREPANCY] Company is ""JJG Aero"" (aerospace), listed as Industrial Manufacturing."
+730,Maraal Aerospace,Aerospace Tech,$218K,Seed,HPCL,January 2026,Business Standard,https://www.business-standard.com/markets/capital-market-news/hindustan-petroleum-to-invest-rs-2-cr-in-startup-maraal-aerospace-126013001204_1.html,Strategic equity,
+731,Sanyark,Space Tech,Undisclosed,Seed,AUM Ventures,January 2026,Inc42,https://inc42.com/company/sanyark-space/,Seed,
+732,Bonkers Corner,Consumer/Apparel,$163K,Angel,Namita Thapar,January 2026,AngelOne,https://www.angelone.in/news/unlisted-companies/bonkers-corner-raises-95-crore-in-series-a-at-430-crore-valuation-after-shark-tank-india-feature,Angel (Shark Tank),
+733,Vimag Labs,Energy Tech/EVs,$5M,Series A,Accel,January 2026,Entrackr,https://entrackr.com/snippets/deep-tech-startup-vimag-labs-raises-5-mn-led-by-accel-11039322,Series A,
+734,CAVA Athleisure,Consumer/Fashion Tech,$4.35M,Series A,Sharrp Ventures,January 2026,Entrackr,https://entrackr.com/snippets/cava-athleisure-secures-rs-40-cr-in-series-a-round-led-by-sharrp-ventures-11055826,Series A,
+735,Earthsync,Environment Tech,$1M,Seed,Theia Ventures,January 2026,Entrackr,https://entrackr.com/snippets/earthsync-raises-1-mn-in-pre-seed-round-led-by-theia-ventures-11038751,Pre-Seed,[DISCREPANCY] Listed as Seed; press reports Pre-Seed.
+736,OneARVO Ventures,High Tech/Computer Vision,$134K,Seed,Inflection Point Ventures,January 2026,Entrackr,https://entrackr.com/snippets/deep-tech-startup-onearvo-raises-pre-seed-round-led-by-ipv-11039524,Pre-seed,
+737,Antinorm,Beauty & Personal Care,$112K,Angel,Anupam Mittal,January 2026,Indian Retailer,https://www.indianretailer.com/news/funding-alert-antinorm-raises-investment-shark-tank-india-data-driven-haircare-solutions,Angel (Shark Tank),
+738,Kesari Awayddings,Events Tech,$218K,Angel,Aman Gupta,January 2026,Business Today,https://www.businesstoday.in/latest/trends/story/mera-business-main-naam-nahi-aaega-aman-gupta-sets-condition-before-rs-2-crore-deal-on-shark-tank-india-513574-2026-01-29,"Angel (single ₹2cr deal, bad split)","CORRECTED — real deal is a single ₹2cr equity investment from Aman Gupta (5%), not a debt+equity split. See #739."
+739,Kesari Awayddings,Events Tech,$109K,Angel,Aman Gupta,January 2026,EVENTFAQS,https://in.eventfaqs.com/2026/02/02/awayddings-raises-2-crore-on-shark-tank-india-with-focus-on-affordable-destination-weddings/,"Angel (same deal as #738, bad split)","DUPLICATE OF #738 (corrected) — same single ₹2cr Aman Gupta equity deal, wrongly split into two rows. Exclude from totals."
+740,ScrapUncle,Environment/Recycling,$2.4M,Seed,Orios Venture Partners,January 2026,Entrackr,https://entrackr.com/snippets/clean-tech-startup-scrapuncle-raises-rs-22-cr-in-pre-series-a-round-11036941,Pre-Series A,[DISCREPANCY] Listed as Seed; press reports Pre-Series A.
+741,The Stack,Life Sciences/Nutraceuticals,$600K,Seed,OTP Ventures,January 2026,Entrepreneur India,https://india.entrepreneur.com/news-and-trends/the-stack-raises-pre-seed-capital-to-expand-science-backed/502238,Pre-seed,
+742,Steadfast Consultants,Financial Services,Undisclosed,Seed,Raju Menon,January 2026,Unverified — no corroboration found,,Unverified,
+743,Easy Home Finance,FinTech/Alternative Lending,$30M,Series C,Investcorp,January 2026,Entrackr,https://entrackr.com/news/easy-home-finance-raises-30-mn-in-series-c-led-by-investcorp-11039108,Series C,
+744,D-Propulse,Aerospace Tech,$2.73M,Seed,Indian Angel Network,January 2026,Inc42,https://inc42.com/buzz/d-propulse-raises-inr-25-cr-to-build-aerospace-propulsion-system/,Seed,
+745,Gully Labs,Consumer/Fashion Tech,$109K,Angel,Aman Gupta,January 2026,Indian Retailer,https://www.indianretailer.com/news/funding-alert-gully-labs-seals-rs-1-cr-deal-aman-gupta-shark-tank-india-season-5,Angel (Shark Tank),
+746,RCX Light,High Tech/LED & Outdoor Advertising,$10.9K,Angel,Aman Gupta,January 2026,CEO Vine,https://www.ceovine.com/bihar-startup-rcx-light-secures-deal-on-shark-tank-india,Equity tranche (Shark Tank),"CORRECTED sector — company does LED digital-façade/outdoor advertising, not event management."
+747,RCX Light,High Tech/LED & Outdoor Advertising,$43.6K,Conventional Debt,Aman Gupta,January 2026,Indian Masterminds,https://indianmasterminds.com/news/bihar-startup-rcx-lighting-secures-investment-shark-tank-181285/,Debt tranche (Shark Tank),"CORRECTED sector — company does LED digital-façade/outdoor advertising, not event management."
+748,4baseCare,Life Sciences/Oncology,$9.82M,Series B,Yali Capital,January 2026,Entrackr,https://entrackr.com/news/oncology-startup-4basecare-raises-rs-90-cr-led-by-ashish-kacholia-and-lashit-sanghvi-11033252,Series B,
+749,Spotdraft Legal,Enterprise/RPA,$8M,Series B,Qualcomm Ventures,January 2026,Entrackr,https://entrackr.com/news/legal-tech-startup-spotdraft-raises-8-mn-in-series-b-extension-11032844,Series B Extension,
+750,Awsum,Food & Beverage,$109K,Angel,Namita Thapar,January 2026,Indian Retailer,https://www.indianretailer.com/news/funding-alert-better-you-bakery-brand-awsum-secures-rs-1-crore-deal-shark-tank-india,Angel (Shark Tank),
+751,MeMeraki,Retail/Home Improvements,Undisclosed,Seed,Next Bharat Ventures,January 2026,YourStory,https://yourstory.com/2026/01/memeraki-raises-funding-from-suzuki-backed-next-bharat-ventures,Seed,
+752,Entellus,High Tech/Advanced Materials,$5.5M,Series A,ZeroW,January 2026,Entrackr,https://entrackr.com/snippets/entellus-industries-raises-rs-50-cr-from-zerow-11034298,Series A,
+753,Phitku,Beauty & Personal Care,$205K,Angel,Aman Gupta,January 2026,Indian Retailer,https://www.indianretailer.com/news/funding-alert-phitku-bags-rs-18-cr-shark-tank-india-season-5-rs-180-cr-valuation,Angel (Shark Tank),
+754,Skitii,HealthTech/Disease Management,$436K,Angel,Undisclosed (US-based angel),January 2026,Digital Health News,https://www.digitalhealthnews.com/mumbai-healthtech-startup-skitii-raises-funding-to-advance-ai-driven-cancer-care,Angel,"CORRECTED — company is a Mumbai healthtech doing AI music-therapy for cancer care, not speech/voice recognition. Investor is an undisclosed US-based angel, not IIT Mandi Catalyst (Digital Health News)."
+755,Gati Drives,Industrial Automation,Undisclosed,Seed,Campus Fund,January 2026,YourStory,https://yourstory.com/2026/08/gati-drives-rare-earth-free-motors,Pre-Seed,[DISCREPANCY] Listed as Seed; press reports pre-seed from Campus Fund.
+756,Juspay,Payments,Undisclosed,Series D,WestBridge Capital,January 2026,Entrackr,https://entrackr.com/news/juspay-raises-50-mn-from-westbridge-capital-at-12-bn-valuation-11023645,Series D,
+757,IndiGrid,Transmission Operators,$163M,Post IPO,KKR,January 2026,Unverified — no corroboration found,,Unverified,
+758,Babai Tiffins,Food/Food Service,$273K,Venture Debt,Recur Club,January 2026,Entrepreneur India,https://entrepreneur.com/en-in/news-and-trends/babai-tiffins-secures-inr-155-cr-funding-to-grow-regional/502354,Venture Debt,
+759,Babai Tiffins,Food/Food Service,$872K,Seed,Warmup Ventures,January 2026,Indian Retailer,https://www.indianretailer.com/news/funding-alert-babai-tiffins-attracts-rs-155-cr-investment-build-scalable-andhra-qsr-chain,Equity (BKSF),
+760,Chargeup,Energy Storage,$2.4M,Seed,Indian Angel Network,January 2026,Inc42,https://inc42.com/company/chargeup/,Seed,
+761,Transvolt,Road Transport Tech,$15M,Series B,Finnfund,January 2026,Unverified — no corroboration found,,Unverified,
+762,Dhun Wellness,Fitness/Wellness,$4M,Series A,SRF,January 2026,Not yet checked,,,
+763,Indel Money,Consumer Loans,$11M,Conventional Debt,Kotak Alternate Asset Managers,January 2026,Unverified — no corroboration found,,Unverified,
+764,House Of Diagnostics,Clinical Labs,Undisclosed,Seed,360 One,January 2026,Unverified — no corroboration found,,Unverified,
+765,Zerocircle,Packaging Tech,$546K,Seed,3one4 Capital,January 2026,Entrackr,https://entrackr.com/snippets/materials-science-company-zerocircle-raises-pre-series-a-round-from-3one4-capital-rainmatter-and-others-11021693,Pre-Series A,
+766,PropertyPistol Realty,Real Estate IT,$2.73M,Series A,Ashish Kacholia,January 2026,Inc42,https://inc42.com/buzz/proptech-startup-propertypistol-bags-2-7-mn-to-expand-presence-in-uae/,Pre-Series B,[DISCREPANCY] Listed as Series A; press reports Pre-Series B.
+767,Qure.ai,Clinical Labs IT,Undisclosed,Grant,Gates Foundation,January 2026,Unverified — no corroboration found,,Unverified,
+768,Escape Plan,Fashion Tech,$25M,Series A,Jungle Ventures,January 2026,Entrackr,https://entrackr.com/news/travel-products-platform-escape-plan-raises-25-mn-led-by-jungle-venture-11019825,Series A,[DISCREPANCY] Listed as Fashion Tech; actually travel products/accessories.
+769,Optimist,Energy Efficiency,$12M,Seed,Accel,January 2026,Entrackr,https://entrackr.com/news/optimist-raises-12-mn-in-seed-round-led-by-accel-and-arkam-ventures-11020870,Seed,
+770,Brisil Technologies,Advanced Materials,$328K,Seed,Momentum Capital,January 2026,Entrackr,https://entrackr.com/snippets/climate-tech-startup-brisil-technologies-raises-pre-seed-round-led-by-momentum-capital-11021031,Pre-seed,
+771,MEINE Electric,Energy Storage,$750K,Seed,Antler,January 2026,Entrackr,https://entrackr.com/snippets/deeptech-startup-meine-electric-raises-750k-in-pre-seed-round-11021373,Pre-seed,
+772,Dalvoy,Test Preparation,$680K,Seed,8i Ventures,January 2026,PitchBook,https://pitchbook.com/profiles/company/1243321-84,Seed (thin corroboration),
+773,Cinefai,Video Creation,$54.9K,Conventional Debt,Ritesh Agarwal,January 2026,Indian Startup News,https://indianstartupnews.com/news/cinefai-studios-impresses-shark-tank-india-judges-with-ai-made-superhero-films-of-their-avatars-11031022,Debt tranche (Shark Tank),
+774,Cinefai,Video Creation,$54.9K,Angel,Ritesh Agarwal,January 2026,Indian Startup News,https://indianstartupnews.com/news/cinefai-studios-impresses-shark-tank-india-judges-with-ai-made-superhero-films-of-their-avatars-11031022,Equity tranche (Shark Tank),
+775,Caredale,Home Furnishing,$165K,Seed,ajvc,January 2026,Entrackr,https://entrackr.com/snippets/water-wellness-startup-care-dale-raises-pre-seed-funding-led-by-ajvc-11017614,Pre-seed,
+776,Arthum,Alternative Lending,$1.09M,Seed,Caret Capital,January 2026,Entrackr,https://entrackr.com/snippets/arthum-raises-rs-10-cr-in-seed-round-led-by-caret-capital-11018048,Seed,
+777,GreenCell Mobility,Energy Tech/EVs,Undisclosed,Conventional Debt,IFC,January 2026,Unverified — no corroboration found,,Unverified,
+778,GreenCell Mobility,Energy Tech/EVs,$89M,Series C,IFC,January 2026,YourStory,https://yourstory.com/2026/01/greencell-mobility-mezzanine-funding-to-expand-electric-bus-fleet,Series C / Mezzanine,
+779,StepOut,Artificial Intelligence,$1.5M,Seed,Rainmatter,January 2026,Entrackr,https://entrackr.com/snippets/sports-tech-startup-stepout-raises-15-mn-led-by-rainmatter-11017911,Pre-Series A,"[DISCREPANCY] Listed as Seed/AI; actually sports-tech, Pre-Series A."
+780,Enerzolve,AI Infrastructure,$5.1M,Seed,Jungle Ventures,January 2026,Entrackr,https://entrackr.com/snippets/enerzolve-raises-51-mn-in-seed-round-led-by-jungle-ventures-and-kae-capital-11018091,Seed,"[CONFIRMED] Clean-tech, not AI."
+781,Sensesemi,Embedded Systems,$2.7M,Seed,Piper Serica,January 2026,Entrackr,https://entrackr.com/snippets/semiconductor-startup-sensesemi-raises-rs-25-cr-led-by-piper-serica-11018670,Seed,
+782,Aerem,Renewable Energy,$15M,Series A,SMBC Asia Rising Fund,January 2026,Entrackr,https://entrackr.com/news/solar-platform-aerem-solutions-raises-15-mn-in-pre-series-b-11018368,Pre-Series B,[DISCREPANCY] Listed as Series A; press reports Pre-Series B.
+783,Grest,Consumer Electronics,$1.76M,Seed,Equentis Wealth Advisory,January 2026,Entrackr,https://entrackr.com/snippets/full-stack-re-commerce-company-grest-raises-16-cr-led-by-equentis-wealth-11018721,Growth Round,[PARTIAL] Rs 16cr raised but specific $1.76M seed tranche not independently confirmed.
+784,Bolna,Customer Service Software,$6.3M,Seed,General Catalyst,January 2026,Not yet checked,,,
+785,Hala Mobility,Auto E-Commerce,$1.35M,Series A,Recur Club,January 2026,Not yet checked,,,
+786,Hala Mobility,Auto E-Commerce,Undisclosed,Conventional Debt,Recur Club,January 2026,Not yet checked,,,
+787,Intellend Technologies Advisors,Alternative Lending,$1.2M,Seed,Incubate Fund India,January 2026,Not yet checked,,,
+788,PolyCycl,Waste Management,$2.86M,Series A,Rainmatter,January 2026,Not yet checked,,,
+789,Surya Hospitals,Hospital Chains,Undisclosed,PE,Novo Holdings,January 2026,Not yet checked,,,
+790,Wonder Home Finance,Consumer Loans,$55M,PE,Growtheum Capital Partners,January 2026,Not yet checked,,,
+791,Super Living,Internet First Media,$2M,Seed,Kae Capital,January 2026,Not yet checked,,,
+792,Raana semiconductors,Semiconductor Manufacturing,$3M,Seed,Artha Venture Fund,January 2026,Not yet checked,,,
+793,Fire AI,Natural Language Processing,$682K,Seed,SucSEED Indovation,January 2026,Entrackr,https://entrackr.com/snippets/fireai-raises-rs-25-cr-from-sucseed-indovation-fund-12184501,"Seed (caveat: URL is Jul round, not Jan)",
+794,Whizzo,Advanced Materials,$15M,Series A,Fundamentum,January 2026,Not yet checked,,,
+795,Ringg AI,Customer Service Software,$5.5M,Series A,Arkam Ventures,January 2026,Not yet checked,,,
+796,Pinky Promise,Healthcare Booking,$1M,Seed,Rebalance,January 2026,Not yet checked,,,
+797,WanderOn,Online Travel,$5.94M,Series A,DSG Consumer Partners,January 2026,Not yet checked,,,
+798,Troovy,Online Grocery,$5M,Series A,Fireside Ventures,January 2026,Not yet checked,,,
+799,For Real,B2B E-Commerce,$352K,Seed,Titan Capital,January 2026,Entrackr,https://entrackr.com/snippets/factory-outlet-marketplace-for-real-raises-pre-seed-round-from-titan-capital-11012694,Pre-seed,
+800,Culture,Social Platforms,$220K,Seed,Acuvest Infra,January 2026,Indian Startup News,https://indianstartupnews.com/funding/human-first-social-networking-platform-culture-raises-rs-2-crore-from-acuvest-infra-11012059,Seed,
+801,33&Brew,Food/Food Service,$2.2M,Series A,Optimistic Capital,January 2026,Not yet checked,,,
+802,Mufin Finance,Alternative Lending,$12M,Conventional Debt,Finnfund,January 2026,Not yet checked,,,
+803,insideFPV,Drones,$660K,Seed,Gujarat Venture Finance,January 2026,Indian Startup News,https://indianstartupnews.com/news/shark-tank-india-featured-defense-dronetech-startup-insidefpv-raises-rs-6-crore-in-funding-11012869,Pre-Series A,
+804,AssetPlus,Investment Tech,$19.3M,Series B,Nexus Venture Partners,January 2026,Not yet checked,,,
+805,Namdev Finvest,Consumer/SME Loans,$37M,Conventional Debt,FMO,January 2026,Not yet checked,,,
+806,RidEV,Logistics Tech,$551K,Conventional Debt,Kunal Bahl,January 2026,StartupArticle,https://startuparticle.com/shark-tank-india/2026/01/ridev-secures-inr-1-cr-deal-on-shark-tank-india-season-5/,Debt tranche (Shark Tank),
+807,RidEV,Logistics Tech,$110K,Angel,Kunal Bahl,January 2026,StartupArticle,https://startuparticle.com/shark-tank-india/2026/01/ridev-secures-inr-1-cr-deal-on-shark-tank-india-season-5/,Angel/Equity tranche (Shark Tank),
+808,Aloe Ecell,Energy Storage,$110K,Conventional Debt,Recur Club,January 2026,YourStory,https://yourstory.com/2026/01/eco-battery-startup-aloe-ecell-raises-rs-35-cr,Debt tranche,
+809,Aloe Ecell,Energy Storage,$276K,Seed,A Velumani,January 2026,YourStory,https://yourstory.com/2026/01/eco-battery-startup-aloe-ecell-raises-rs-35-cr,Equity tranche,
+810,Stroom,Food/Beverage,$110K,Angel,Vineeta Singh,January 2026,Ascendants,https://ascendants.in/the-ascendants/stroom-protein-snacks-shark-tank-india-founders-revenue/,Angel (Shark Tank),
+811,Gully Labs,Fashion Tech,$3M,Series A,Saama Capital,January 2026,Not yet checked,,,
+812,Veera,Internet Browsers,$4M,Seed,Titan,January 2026,Not yet checked,,,
+813,Japam,Religion Tech,$166K,Angel,Namita Thapar,January 2026,DNP India,https://www.dnpindia.in/entertainment/shark-tank-india-5-anti-superstition-namita-thapar-invests-in-spiritual-wearable-brand-japam-pitcher-calls-her-offer-unfair-what-are-you/584137/,Angel (Shark Tank),
+814,Truth And Hair,Beauty Tech,$277K,Angel,Varun Alagh,January 2026,StartupTalky,https://startuptalky.com/news/truth-hair-secures-inr-2-5-crore-investment-from-varun-alagh-shark-tank-india/,"Angel (Shark Tank, Jan round)",
+815,RenewCred,Air Pollution Management,Undisclosed,Grant,ACT Grants,January 2026,Not yet checked,,,
+816,RenewCred,Air Pollution Management,$471K,Seed,Campus Angels Network,January 2026,Mercom India,https://www.mercomindia.com/carbon-credits-platform-renewcred-secures-42-5-million-in-seed-funding,Seed,
+817,Emversity,Higher Education,$30M,Series A,Premji Invest,January 2026,Not yet checked,,,
+818,MYPB,Online Grocery,$77.6K,Angel,Varun Alagh,January 2026,Indian Retailer,https://www.indianretailer.com/news/peanut-butter-powder-brand-mypb-bags-rs-70-lakh-investment-shark-tank-india,Angel (Shark Tank),
+819,xStep,Neurology,$111K,Angel,Kunal Bahl,January 2026,Viestories,https://viestories.com/shark-tank/xstep-on-shark-tank-india-non-invasive-neuromodulation-10999697,Angel (Shark Tank),
+820,Aule Space,Space Tech,$2M,Seed,pi Ventures,January 2026,Not yet checked,,,
+821,Truva,Residential Real Estate,$1.7M,Venture Debt,Stride Ventures,January 2026,Not yet checked,,,
+822,Pee Safe,Beauty Tech,Undisclosed,Series C,Orbimed,January 2026,Not yet checked,,,
+823,Xoxoday,HRTech,Undisclosed,Series C,Apis Partners,January 2026,Not yet checked,,,
+824,Oriana Power,Solar Energy,$4.75M,Post IPO,Dalmia Cement Bharat,January 2026,Not yet checked,,,
+825,HandyPanda,Construction Tech,$222K,Seed,ajvc,January 2026,Entrackr,https://entrackr.com/snippets/construction-tech-startup-handypanda-raises-rs-2-cr-led-by-ajvc-10996918,Pre-seed,
+826,Wint Wealth,Investment Tech,$28M,Series B,Vertex Ventures,January 2026,Not yet checked,,,
+827,Corel Lifecare,Aquaculture Tech,$133K,Angel,Anupam Mittal,January 2026,Indian Startup News,https://indianstartupnews.com/news/this-is-very-strong-foundermarket-fit-sharks-back-corel-lifecares-aquaculture-pitch-on-shark-tank-india-11030887,Angel (Shark Tank),
+828,GrowthPal,Investment Banks,$2.6M,Series A,Ideaspring Capital,January 2026,Not yet checked,,,
+829,Dazzl,Local Services,$3.2M,Seed,Stellaris Venture Partners,January 2026,Not yet checked,,,
+830,Hexalog,Logistics Tech,$4M,Seed,Enrission India Capital,January 2026,Not yet checked,,,
+831,Misochain,Aircraft Components,$2M,Seed,Capital-A,January 2026,Not yet checked,,,
+832,Atomgrid,Diversified Chemicals,Undisclosed,Conventional Debt,Trifecta Capital,January 2026,Not yet checked,,,
+833,Drickle,Food/Beverage,$660K,Seed,"Multiple angels via Ideabaaz TV show, incl. Shaili Chopra",January 2026,Entrackr,https://entrackr.com/snippets/coffee-first-beverage-brand-drickle-raises-rs-6-cr-in-seed-round-10995189,Seed (dataset amount is one investor's slice only),CORRECTED — $55.4K was only Shaili Chopra's individual slice of the round; full raise is ~₹6cr (~$660K).
+834,GreenTech,Renewable Energy,$3.33M,Seed,Transition VC,January 2026,Not yet checked,,,
+835,GreenTech,Renewable Energy,Undisclosed,Conventional Debt,Transition VC,January 2026,Not yet checked,,,
+836,Sukino,Rehabilitation & Long-Term Care,$31M,Series B,Bessemer Venture Partners,January 2026,Not yet checked,,,
+837,Liquidnitro Games,Gaming,$19.1M,Series A,Nexus Venture Partners,January 2026,Not yet checked,,,
+838,CloudSEK,Cybersecurity,Undisclosed,Series B,Connecticut Innovations,January 2026,Not yet checked,,,
+839,Carrum,Road Transport Tech,Undisclosed,Series A,Uber,January 2026,Not yet checked,,,
+840,Nootie,Pet Tech,$111K,Angel,Namita Thapar,January 2026,Indian Retailer,https://www.indianretailer.com/news/pet-care-brand-nootie-bags-rs-1-cr-shark-tank-india-season-5,Angel (Shark Tank),
+841,LearnTube,Continued Learning,Undisclosed,Seed,Indian Angel Network,January 2026,Not yet checked,,,
+842,Edgistify,Logistics Tech,$1.4M,Seed,NB Ventures,January 2026,Entrackr,https://entrackr.com/snippets/edgistify-raises-14-mn-from-nb-ventures-and-rajesh-ranavat-10992138,Seed,
+843,ProjectStudio,Home Improvement Tech,Undisclosed,Seed,Modulor Capital,January 2026,Unverified — no corroboration found,,Unverified,[UNVERIFIED] Company and investor exist but no specific announcement found for January 2026
+844,TravClan,Online Travel,Undisclosed,Seed,August One,January 2026,Unverified — no corroboration found,,Unverified,
+845,PumPumPum,Auto Retail,$2M,Seed,Lighthouse Canton,January 2026,Unverified — no corroboration found,,Unverified,[UNVERIFIED] No corroboration found for Lighthouse Canton investment in January 2026
+846,ClimaCrew,Aquaculture,$1.67M,Angel,Undisclosed,January 2026,YourStory,https://yourstory.com/2026/01/how-this-deeptech-startup-is-driving-seaweed-cultivation-along-the-western-coast-of-india,Angel,[DISCREPANCY] Amount reported as Rs 15 crore (~$1.79M) not $1.67M
+847,Fabpad,Beauty & Personal Care,Undisclosed,Seed,Inflection Point Ventures,January 2026,Not yet checked,,,
+848,Varthana,Education Finance,$6M,Conventional Debt,WaterEquity,January 2026,YourStory,https://yourstory.com/2026/01/nbfc-varthana-bags-6m-loan-from-waterequity-for-school-sanitation-projects,Conventional Debt,
+849,&Done,Beauty & Personal Care,$3M,Series A,RTP Global,January 2026,Entrackr,https://entrackr.com/snippets/haircare-brand-done-raises-3-mn-in-series-a-led-by-rtp-global-10980040,Series A,
+850,MiniPIX,OTT/Media,$267K,Seed,PedalStart,January 2026,Indian Startup News,https://indianstartupnews.com/funding/bharat-focused-micro-drama-platform-minipix-raises-rs-24-crore-in-seed-funding-from-pedalstart-10982212,Pre-seed,
+851,Antinorm,Beauty & Personal Care,$3.11M,Seed,Fireside Ventures,January 2026,Inc42,https://inc42.com/buzz/d2c-brand-antinorm-bags-inr-28-cr-to-expand-product-portfolio/,Seed,
+852,Aivar Innovations,AI & Cloud Solutions,$4.6M,Seed,Sorin,January 2026,Entrackr,https://entrackr.com/snippets/ai-services-startup-aivar-raises-46-mn-from-sorin-investments-and-bessemer-10980240,Seed,
+853,Be Clinical,Beauty Tech,$665K,Seed,V3 Ventures,January 2026,Entrackr,https://entrackr.com/snippets/skincare-brand-be-clinical-raises-seed-round-led-by-v3-ventures-10978768,Seed,
+854,Capture A Trip,Travel & Tourism,$83.2K,Angel,Kunal Bahl,January 2026,Indian Startup News,https://indianstartupnews.com/funding/experiential-travel-startup-capture-a-trip-secures-rs-75-lakh-investment-from-shark-tank-india-judges-10981287,Angel (Shark Tank),
+855,C-Zentrix,Customer Service Software,Undisclosed,Seed,Aroa Venture Partners,January 2026,Business Standard,https://www.business-standard.com/content/press-releases-ani/aroa-invests-in-c-zentrix-an-ai-powered-ccaas-provider-126010700930_1.html,,[PARTIAL] Investment confirmed but amount and specific round details not available
+856,Flent,Real Estate Tech,$444K,Conventional Debt,Incubate Fund Asia,January 2026,TechStory,https://techstory.in/flent-raises-rs-21-crore-in-pre-series-a-round/,Pre-Series A (dataset amount is only debt tranche),"CORRECTED lead investor name (was ""Incubate Fund India""). This row is the ₹4cr debt tranche of a ₹21cr (~$2.5M) Pre-Series A — see row #857 for the equity portion."
+857,Flent,Real Estate Tech,$1.89M,Seed,Incubate Fund India,January 2026,YourStory,https://yourstory.com/2026/01/proptech-startup-flent-raises-rs-21-cr-to-expand-premium-housing-rental-platform,Pre-Series A,[DISCREPANCY] Amount reported as ~$2.3M (Rs 21 Cr) not $1.89M; investor is Incubate Fund Asia not Incubate Fund India
+858,Arrowhead,AI Voice Bots,$3M,Seed,Stellaris Venture Partners,January 2026,Entrackr,https://entrackr.com/snippets/voice-ai-startup-arrowhead-raises-3-mn-in-seed-round-led-by-stellaris-10977766,Seed,
+859,RoadGrid,EV Charging Tech,$1.33M,Seed,Venture Catalysts,January 2026,Entrackr,https://entrackr.com/snippets/ev-charging-startup-roadgrid-raises-rs-12-cr-in-pre-series-a-round-10978135,Pre-Series A,
+860,SkinInspired,Skincare,$2.9M,Series A,Spring,January 2026,Entrackr,https://entrackr.com/snippets/skininspired-raises-29-mn-led-by-spring-marketing-capital-10976401,Series A,
+861,OSSO,Healthcare Clinics,$443K,Seed,Haldirams Family Office,January 2026,Inc42,https://inc42.com/buzz/exclusive-ortho-treatment-startup-osso-raises-inr-4-cr-from-haldiram-family-office-others/,Seed,
+862,GoOAT,Food & Nutrition,$177K,Seed,D2C Insider,January 2026,Entrackr,https://entrackr.com/snippets/gooat-raises-pre-seed-round-led-by-d2c-insider-super-angels-8864524,Pre-seed (likely a 2025 raise),"FLAGGED — likely a 2025 raise (Entrackr snippet ID is consistent with 2025 sequencing), misdated as January 2026. Company has since rebranded to ""GOAT Life."""
+863,FreshToHome,Online Meat & Seafood,$8.5M,Conventional Debt,Trifecta Capital,January 2026,Entrackr,https://entrackr.com/snippets/exclusive-freshtohome-to-raise-rs-75-cr-in-debt-funding-10965347,Conventional Debt,
+864,Arya.ag,Agritech,$56.2M,Series D,GEF Capital Partners,January 2026,Entrackr,https://entrackr.com/news/agritech-firm-aryaag-raises-over-80-mn-in-series-d-from-gef-capital-10965656,Series D,[DISCREPANCY] Amount reported as ~$80.3M not $56.2M
+865,Knight FinTech,Banking Technology,$23.6M,Series A,Accel,January 2026,Entrackr,https://entrackr.com/news/knight-fintech-raises-236-mn-led-by-accel-10965193,Series A,
